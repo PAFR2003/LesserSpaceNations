@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Kalayaan",
+        "leaderName": "Jose Magdalo",
+        "adjective": ["Filipino"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Gene Purists",
+
+        "startIntroPart1": "Mabuhay! Welcome to Kalayaan.",
+        "startIntroPart2": "",
+        "declaringWar": "I can't stand you anymore. Para sa Kalayaan!",
+        "attacked": "We have defeated aliens before so, it will be easy to defeat other humans.",
+        "defeated": "I'm so sorry, please take my land and take care of my people.",
+        "introduction": "Kamusta, welcome to Kalayaan. Don't fear us, as long as your a human, we will be your friends..",
+        "neutralHello": "Oh, kamusta. Anong kailangan mo?",
+        "hateHello": "No!",
+        "tradeRequest": "Sige, kuhanin mo na.",
+
+        "outerColor": [15, 171, 255],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Magtanim ay Hindi Biro",
+        "uniques": [
+            "[+1 Production] from [Hydroponics Field] tiles [in capital],
+            "[+1 Production] from [Agri Farm] tiles [in capital]",
+            "[+1 Production] from [Terraboretum] tiles [in all cities]"
+        ],
+        "cities": [
+            "Pag-Asa",
+            "Vituhen",
+            "Sampaguita",
+            "Balangay",
+            "Vakul",
+            "Kabutihan"
+            "Bag-ong Yuta",
+            "Masanting",
+            "Isla Itak",
+            "Kawasan",
+            "Niyog sa Kawayan",
+            "Gayyem",
+            "Yutang Mutya",
+            "Mipasno",
+            "Kagitingan",
+            "Naragsak Balay",
+            "Burol Salawsaw",
+            "Vinta",
+            "Araw"
+        ]
+    }
+]
