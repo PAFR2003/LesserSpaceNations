@@ -17,11 +17,11 @@
         "hateHello": "No!",
         "tradeRequest": "Sige, kuhanin mo na.",
 
-        "outerColor": [15, 171, 255],
-        "innerColor": [255, 255, 255],
+        "outerColor": [37, 90, 223],
+        "innerColor": [255, 0, 0],
         "uniqueName": "Magtanim ay Hindi Biro",
         "uniques": [
-            "[+1 Production] from [Hydroponics Field] tiles [in capital],
+            "[+1 Production] from [Hydroponics Field] tiles [in capital]",
             "[+1 Production] from [Agri Farm] tiles [in capital]",
             "[+1 Production] from [Terraboretum] tiles [in all cities]"
         ],
