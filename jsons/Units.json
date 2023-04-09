@@ -1,0 +1,71 @@
+[
+      {
+		"name": "Optimum Pride",
+		"replaces": "Light Buggy",
+		"uniqueTo": "Kalayaan",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 14,
+		"cost": 78,
+		"requiredTech": "Portable Power Sources",
+		//"requiredResource": "Titanium",
+		"upgradesTo": "Anti-Air Buggy",
+		"obsoleteTech": "Missiles",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-22]% Strength <vs cities> <when attacking>",
+			"May upgrade to [Anti-Air Buggy] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Light Buggy",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Kalayaan Industry's powerful giant buggy."
+			}
+		]
+	},
+	{
+		"name": "Bolten-10",
+		"replaces": "Assault Mecha",
+		"uniqueTo": "Kalayaan",
+		"unitType": "Close Range Mech",
+		"movement": 3,
+		"strength": 50,
+		"cost": 490,
+		"requiredTech": "Combat Mechas",
+		"requiredResource": "Titanium",
+		"uniques": [
+			"Mech",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[+50]% Strength <vs [Armored] units>",
+			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [2] [Titanium]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Blitz", "Ignore terrain cost"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/ZANKER Mecha",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Dismantling mecha created by Kalayaan Robotics Agency."
+			}
+		]
+	}
+]
