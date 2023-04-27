@@ -46,5 +46,53 @@
             "Vinta",
             "Araw"
         ]
+    },
+    {
+        "name": "Astghayin Jur Corporation",
+        "leaderName": "Narine Ohannesyan",
+        "adjective": ["Armenian"],
+        "startBias": ["Hill"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Cosmic Clergy",
+
+        "startIntroPart1": "Barev dzez. This is Astghayin Jur Corporation, your no. 1 supplier of your spring water and here's a word from our CEO, Narine Ohannesyan.",
+        "startIntroPart2": "(Translated in English by Thiespaux Medianet, interview originally spoken in Armenian language) The mountains of Caucasus has gave us the glory of clean and tasty water blessed by the rains that Lord God has gave us from the sky above. From the fundings of the nation of Armenia and her diaspora, we have created the Astghayin Jur Corporation, a spring water bottling company serving fresh and clean water almost all countries all around the Earth except Azerbaijan, North Korea and Cuba. But today, I have done everything in this planet and leave the Earth for life, so I bought a spaceship with my people and move to the faraway dark skies and were here at New Earth and starting a new life with hope.",
+        "declaringWar": "Inch’ anamot’ mard. Menk’ ch’enk’ handurzhum dzer gortsoghut’yunnery. DU ARZHANI YES MERRNELU!",
+        "attacked": "Im geghets’ik demk’y k’ez anpayman kstipi partvel paterazmum. Du ch’es?",
+        "defeated": "You know I'm beautiful, maybe you can give me a second chance? (^_-)",
+        "introduction": "Barev! This is Astghayin Jur Corporation. Wanna buy and drink my bottled spring water?",
+        "neutralHello": "Inch’ e k’ez petk’, kheghch chanaparhord?",
+        "hateHello": "*slaps you to the face*",
+        "tradeRequest": "Karogh yenk’ t’eyi yndmijum unenal?",
+
+        "outerColor": [166, 5, 5],
+        "innerColor": [255, 197, 1],
+        "uniqueName": "Endless Vartavar",
+        "uniques": [
+            "[+1 Gold] from [River] tiles [in all cities]",
+            "[+1 Production] from [River] tiles [in all cities]"
+        ],
+        "cities": [
+            "Jri Kat’il",
+            "Payk'ar",
+            "Gisastgh",
+            "Hrashk’ Blurner",
+            "Ardyunahanum",
+            "P’aylogh Arev"
+            "Champ’vord",
+            "Lerrnagagat",
+            "Antarry",
+            "Chahich",
+            "Andzrev",
+            "Geghets’ik",
+            "Nor Hogh",
+            "Pashtpan",
+            "Oghegortsaran",
+            "Mets Sp’yurrk’",
+            "Vayrejk’i Goti",
+            "Yerkink’",
+            "Hushahamalir",
+            "Hishatakut’yun"
+        ]
     }
 ]
