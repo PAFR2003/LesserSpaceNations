@@ -67,5 +67,23 @@
 				"text": "Dismantling mecha created by Kalayaan Robotics Agency."
 			}
 		]
-	}
+	},
+        {
+		"name": "Intergalactic Fedayi",
+		"uniqueTo": "Astghayin Jur Corporation",
+		"replaces": "Colony Rifleman",
+		"unitType": "Sniper",
+		"movement": 3,
+		"range": 1,
+		"strength": 13,
+		"rangedStrength": 10,
+		"cost": 80,
+		"requiredTech": "Next-Gen Armaments",
+		"obsoleteTech": "Exoskeletons",
+		"upgradesTo": "Exoframe Sniper",
+		"uniques": [
+			"May upgrade to [Exoframe Sniper] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		]
+        }
 ]
