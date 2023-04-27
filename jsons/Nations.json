@@ -65,8 +65,8 @@
         "hateHello": "*slaps you to the face*",
         "tradeRequest": "Karogh yenk’ t’eyi yndmijum unenal?",
 
-        "outerColor": [166, 5, 5],
-        "innerColor": [255, 197, 1],
+        "outerColor": [30, 5, 247],
+        "innerColor": [255, 171, 3],
         "uniqueName": "Endless Vartavar",
         "uniques": [
             "[+1 Gold] from [River] tiles [in all cities]",
