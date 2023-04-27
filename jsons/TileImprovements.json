@@ -1,0 +1,19 @@
+[
+   {
+		"name": "Water Extractor",
+		"uniqueTo": "Astghayin Jur Corporation",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"gold": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Xenogeology",
+		"uniques": [
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [Water Extractor] tiles>", // can't be built next to each other
+			"Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"[+1 Gold] <after discovering [Efficient Extraction Methods]>",
+			"[+1 Gold] <after discovering [Terraforming]>",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		]
+   }
+]
