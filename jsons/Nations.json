@@ -2,7 +2,7 @@
     {
         "name": "Kalayaan",
         "leaderName": "Jose Magdalo",
-        "adjective": ["Filipino"],
+        "adjective": ["Kalayaan"],
         "startBias": ["Coast"],
         "preferredVictoryType": "Domination",
         "favoredReligion": "Gene Purists",
@@ -45,12 +45,24 @@
             "Burol Salawsaw",
             "Vinta",
             "Araw"
-        ]
+        ] ,
+	"spyNames": [
+			"Buhawi",
+			"Habagat",
+			"Hangin",
+			"Bagyo",
+			"Araw",
+			"Amihan",
+			"Maganda",
+			"Mayumi",
+			"Luzviminda",
+			"Reyna"
+	]
     },
     {
         "name": "Astghayin Jur Corporation",
         "leaderName": "Narine Ohannesyan",
-        "adjective": ["Armenian"],
+        "adjective": ["Astghiner"],
         "startBias": ["Hill"],
         "preferredVictoryType": "Cultural",
         "favoredReligion": "Cosmic Clergy",
@@ -93,6 +105,18 @@
             "Yerkink’",
             "Hushahamalir",
             "Hishatakut’yun"
-        ]
+        ],
+	 "spyNames": [
+			"Hayk",
+			"Samvel",
+			"Mkrtich",
+			"Vigen",
+			"Vartan",
+			"Iskouhi",
+			"Marine",
+			"Seta",
+			"Vartuhi",
+			"Ani"
+	]
     }
 ]
