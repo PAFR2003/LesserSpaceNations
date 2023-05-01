@@ -120,5 +120,66 @@
 			"Vartuhi",
 			"Ani"
 	]
+    },
+    {
+        "name": "Beth Nahrain Council",
+        "leaderName": "Malko Solomon",
+        "adjective": ["Neo-Mesopotamian"],
+        "startBias": ["Avoid [Tundra]"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Gene Purists",
+
+        "startIntroPart1": "Shlamalokhoun to all of you, from the ethnic minority of the Assyrians, this is the Beth Nahrain Council and we have a sad story to tell to you, player.",
+        "startIntroPart2": "Hello player, my name is Malko Solomon and I'm part of the Assyrian diaspora born from Chicago, United States but I move from Iraq to defend my people and my hometown of my parents, Alqosh from the evil Neo-Caliphate. Our people have been oppressed for over 4000 years of enslavement, destruction and annihilation from multiple different powers of history. We have almost no chance of surviving to the future but we have a plan to save ourselves, we have sold our cars, our homes, our property and even the dress that women wear for the sheikani parties, they have even sold it from any means legal. After that, we have tried to buy a spaceship to a private space company and we did, over a group of over 15,000 Assyrians have joined with consent to the new planet and agreed to go to there. I'm now here in the New Earth, a paradise of new life and hope but I have a question to you: Would you help me to bring back our glory from the past?",
+        "declaringWar": "From the will of Ashurbanipal, we will avenge you.",
+        "attacked": "You will learn a lesson, bastard.",
+        "defeated": "It is true, O LORD, that the Assyrian kings have laid waste these nations and their lands. They have thrown their gods into the fire and destroyed them, for they were not gods but only wood and stone, fashioned by men's hands. Now, O LORD our God, deliver us from his hand, so that all kingdoms on earth may know that you alone, O LORD, are God. - 2 Kings 19: 17-19",
+        "introduction": "Shlamalokhoun from the nation of Assyrians, this is the Beth Nahrain Council.",
+        "neutralHello": "Oh, what do you want?",
+        "hateHello": "Why did you go here? Aren't you my enemy?",
+        "tradeRequest": "From the riches of the Assyrian people...",
+
+        "outerColor": [189, 0, 0],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Kha B Nissan",
+        "uniques": [
+            "[+1 Culture] from [Flood plain] tiles [in all cities]",
+       "[+25]% [Science] [in annexed cities]"         ],
+        "cities": [
+            "Alap",
+            "Beth",
+            "Gamal",
+            "Dalat",
+            "Heh",
+            "Waw"
+            "Zain",
+            "Khet",
+            "Teth",
+            "Yodh",
+            "Kap",
+            "Lamad",
+            "Meem",
+            "Noon",
+            "Simath",
+            "Aih",
+            "Peh",
+            "Sade",
+            "Qoph",
+            "Sheen",
+            "Taw",
+            "Taw Alap"
+        ],
+	 "spyNames": [
+			"Younan",
+			"Isho",
+			"Ashur",
+			"Daniyel",
+			"Shamash",
+			"Shamiram",
+			"Nineveh",
+			"Sumer",
+			"Ishtar",
+			"Inanna"
+	]
     }
 ]
