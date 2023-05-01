@@ -1,0 +1,43 @@
+[
+    {
+		"name": "Royal Laboratory",
+		"uniqueTo": "Beth Nahrain Council",
+		"replaces": "Field Lab",
+		"hurryCostModifier": 25,
+		"science": 2,
+		"maintenance": 1,
+		"uniques": [
+			"[+1 Science] from [Research Base] tiles [in this city]",
+			"[+1 Science] from [Artifacts] tiles [in this city]",
+			"New [Infantry] units start with [15] Experience [in this city]"
+		],
+		"requiredTech": "Computing",
+		"civilopediaText": [
+			{
+				"text": "A laboratory that doubles as a military training center. Paid by BNC government."
+			}
+		]
+	},
+	{
+		"name": "Khigga Dancing Center",
+		"uniqueTo": "Beth Nahrain Council",
+		"replaces", "Congregation Space",
+		"faith": 3,
+                "culture": 1,
+		"happiness": 1,
+		"requiredBuilding": "Memorial",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Hab-Domes",
+		"uniques": [
+			"Prefab",
+			"Hidden when religion is disabled",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "A large dancing stadium where they celebrate any joyous festivities with khigga, a circle dance of Assyrian origin. Now with psychedelics!"
+			}
+		]
+	}
+]
