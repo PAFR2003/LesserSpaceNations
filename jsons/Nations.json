@@ -143,7 +143,7 @@
         "innerColor": [255, 255, 255],
         "uniqueName": "Kha B Nissan",
         "uniques": [
-            "[+1 Culture] from [Flood plain] tiles [in all cities]",
+            "[+1 Culture] from [Flood plains] tiles [in all cities]",
        "[+25]% [Science] [in annexed cities]"         ],
         "cities": [
             "Alap",
