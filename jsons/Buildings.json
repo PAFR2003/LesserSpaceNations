@@ -21,7 +21,7 @@
 	{
 		"name": "Khigga Dancing Center",
 		"uniqueTo": "Beth Nahrain Council",
-		"replaces", "Congregation Space",
+		"replaces": "Congregation Space",
 		"faith": 3,
                 "culture": 1,
 		"happiness": 1,
