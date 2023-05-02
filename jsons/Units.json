@@ -76,7 +76,6 @@
 		"movement": 3,
 		"range": 1,
 		"strength": 13,
-		"rangedStrength": 10,
 		"cost": 80,
 		"requiredTech": "Next-Gen Armaments",
 		"obsoleteTech": "Exoskeletons",
