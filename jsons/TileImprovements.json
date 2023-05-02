@@ -5,7 +5,7 @@
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"gold": 2,
                 "happiness": 1,
-                "production" 1,
+                "production": 1,
 		"turnsToBuild": 5,
 		"techRequired": "Xenogeology",
 		"uniques": [
