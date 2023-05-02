@@ -3,7 +3,9 @@
 		"name": "Water Extractor",
 		"uniqueTo": "Astghayin Jur Corporation",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"gold": 1,
+		"gold": 2,
+                "happiness": 1,
+                "production" 1,
 		"turnsToBuild": 5,
 		"techRequired": "Xenogeology",
 		"uniques": [
