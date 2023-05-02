@@ -82,7 +82,7 @@
         "uniqueName": "Endless Vartavar",
         "uniques": [
             "[+1 Gold] from [River] tiles [in all cities]",
-            "[+1 Production] from [River] tiles [in all cities]"
+            "[+1 Food, +1 Culture, +1 Production] from every [Mountain]"
         ],
         "cities": [
             "Narinekert",
