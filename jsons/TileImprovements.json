@@ -19,6 +19,7 @@
                         "[+1 Food] <with [1] to [6] neighboring [Hydroponics Field] tiles>",
                         "[+1 Food] <with [1] to [6] neighboring [Agri Farm] tiles>",
                         "[+1 Culture] <with [1] to [6] neighboring [Terraboretum] tiles>",
+                        "[+1 Faith] <with [1] to [6] neighboring [Mountain] tiles>",
 			"[+1 Gold] <after discovering [Efficient Extraction Methods]>",
 			"[+1 Gold] <after discovering [Terraforming]>",
 			"Pillaging this improvement yields approximately [+5 Gold]"
