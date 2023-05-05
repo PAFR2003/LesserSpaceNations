@@ -105,5 +105,6 @@
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
-		"attackSound": "machinegun",
+		"attackSound": "machinegun"
+        }
 ]
