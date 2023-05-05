@@ -24,5 +24,22 @@
 			"[+1 Gold] <after discovering [Terraforming]>",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		]
-   }
+   },
+   {
+		"name": "Camping Site",
+		"uniqueTo": "Native Nations Rehabilitation Project",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"food": 1,
+		"faith": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Habitation",
+		"uniques": [
+                        "Must be next to [Luxury resource]",
+                        "[+1 Food] <after discovering [Colony Administration]>",
+			"[+1 Faith] <after discovering [Colonial Culture]>",
+                        "[+1 Culture] for each adjacent [City center]",
+                        "[+1 Gold] <in [River] tiles>",
+                        "Pillaging this improvement yields approximately [+20 Gold]"
+                ]
+    }
 ]
