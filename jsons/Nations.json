@@ -201,8 +201,8 @@
         "hateHello": "Scalping or go away?! Choose one.",
         "tradeRequest": "From the blessings of the Jóhonaaʼéí, the god of Sun.",
 
-        "outerColor": [252, 110, 44],
-        "innerColor": [0, 80, 0],
+        "outerColor": [0, 80, 0],
+        "innerColor": [255, 213, 0],
         "uniqueName": "The Great Reservation",
         "uniques": [
             "[+20]% Strength <for [Military] units> <in [Friendly Land] tiles>",
