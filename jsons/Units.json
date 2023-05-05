@@ -84,5 +84,26 @@
 			"May upgrade to [Exoframe Sniper] through ruins-like effects",
 			"Never appears as a Barbarian unit"
 		]
-        }
+        },
+        {
+		"name": "Pathfinding Buggy",
+                "uniqueTo": "Native Nations Rehabilitation Project",
+		"replaces": "Light Buggy",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Portable Power Sources",
+		//"requiredResource": "Titanium",
+		"upgradesTo": "Anti-Air Buggy",
+		"obsoleteTech": "Missiles",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"May upgrade to [Anti-Air Buggy] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun",
 ]
