@@ -144,7 +144,8 @@
         "uniqueName": "Kha B Nissan",
         "uniques": [
             "[+1 Culture] from [Flood plains] tiles [in all cities]",
-       "[+25]% [Science] [in annexed cities]"         ],
+            "[+25]% [Science] [in annexed cities]"         
+        ],
         "cities": [
             "Alap",
             "Beth",
@@ -205,7 +206,8 @@
         "uniqueName": "The Great Reservation",
         "uniques": [
             "[+20]% Strength <for [Military] units> <in [Friendly Land] tiles>",
-       "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."         ],
+            "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."         
+        ],
         "cities": [
             "Great Reservation",
             "Bison Valley",
