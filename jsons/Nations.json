@@ -181,5 +181,54 @@
 			"Ishtar",
 			"Inanna"
 	]
+    },
+    {
+        "name": "Native Nations Rehabilitation Project",
+        "leaderName": "Anthony Golden Eagle",
+        "adjective": ["Native"],
+        "startBias": ["Plains"],
+        "preferredVictoryType": "Diplomatic",
+        "favoredReligion": "Nomadist",
+
+        "startIntroPart1": "Yá'at'ééh! This is the Native Nations Rehabilitation Project or NNRP for short. Created under the help of the US government for protecting the Native American population from extinction. This is yours truly, Anthony GE speaking to the entire reservation.",
+        "startIntroPart2": "NNRP is created by the US government in 2105 in the state of Oklahoma in ways to protect and let the our group, the Native Americans to thrive and progress for themselves. The NNRP has been proven to be a major success and in 2299, a major resettlement of our people has been announced all over the reservation. I didn't know where will be resettled but over 50,000 of our people has accepted via contract to be resettled, we have been asked to go asleep and woke up to a chamber and we have been sedated later on. After that sleep, we woke up and went to a place we never seen before in our lives, a new world waiting for us, a new epic ride, a new run for our people and a new chapter for our bloodline. But I have a question to you, will you help our people thrive and start all over again from destruction and enslavement that the colonizers did to us?",
+        "declaringWar": "We're on the run to decimate you, foreigner!",
+        "attacked": "Get out you scum of the earth! We have been enslaved and destroyed for thousands of years and you want to do it again?",
+        "defeated": "My plans for protecting my people has failed. I guess I'm done right now.",
+        "introduction": "Yá'at'ééh, foreigner! The NNRP welcomes you.",
+        "neutralHello": "This is the NNRP talking.",
+        "hateHello": "Scalping or go away?! Choose one.",
+        "tradeRequest": "From the blessings of the Jóhonaaʼéí, the god of Sun.",
+
+        "outerColor": [252, 110, 44],
+        "innerColor": [0, 80, 0],
+        "uniqueName": "The Great Reservation",
+        "uniques": [
+            "[+20]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+       "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."         ],
+        "cities": [
+            "Great Reservation",
+            "Bison Valley",
+            "Three Sisters",
+            "Orange Badlands",
+            "Indian Township",
+            "Little Arizona",
+            "Butte Rocks",
+            "Pocahontastown",
+            "Trail of New Hope",
+            "Hope Village,",
+            "Rock Arches",
+            "Little Rock Colony",
+            "Flowing River",
+            "Oregonia",
+            "Sacred Hills",
+            "Graceful Oasis",
+            "Hunter's Guild",
+            "Skeleton Depression",
+            "Purple Forest",
+            "Pyramid Mesa",
+            "Great Plantation",
+            "Hawk's Village"
+        ]
     }
 ]
