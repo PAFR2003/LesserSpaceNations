@@ -52,4 +52,28 @@ Beth Nahrain Council
 >* He became a professor in a university in Chicago, Illinois
 >* He's a bookworm kind of guy, likes reading both on paper and digital
 
+## Kalayaan
 
+ Third Faction:
+
+<a href="https://imgbox.io/ib/YfmHEYeztL"><img src="https://imgbox.io/ib/YfmHEYeztL.png" alt="YfmHEYeztL"/></a>
+Kalayaan
+
+ Ethnic Origins:
+* Mostly Filipinos but they are also people from all of the 10 other ASEAN countries
+
+ Type of company:
+* Agro-Industrial Company
+
+ Leader's Info:
+
+> <a href="https://imgbox.io/ib/2duuCLxDbl"><img src="https://imgbox.io/ib/2duuCLxDbl.png" alt="2duuCLxDbl"/></a>
+>* Jose Ternate Magdalo
+>* DOB: 07/11/2975 (24-25)
+>* Born in Zaragoza, Nueva Ecija, Philippines
+>* Overall clean record
+>* He doesn't have a college degree but he is an hardworking farmer
+>* Single
+>* He is fluent in Tagalog, Hiligaynon, Ilocano and English languages
+>* He was born in a poor family in which he was the second eldest son of Magdalo family
+>* He has a very big farmland which was seized by the greedy government of the Philippines in which was ruled by a dictator at that time
