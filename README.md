@@ -17,7 +17,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 
  Leader's Info:
 > <a href="https://imgbox.io/ib/Zw6WZi9i0l"><img src="https://imgbox.io/ib/Zw6WZi9i0l.png" alt="Zw6WZi9i0l"/></a>
->* Narine Ohannesyan
+>* Narine Ohannesyan (Նարինե Ոհաննեսյան)
 >* DOB: 30/03/2371 (28-29)
 >* Born in Vagharshapat, Armenia
 >* Overall clean record
@@ -42,7 +42,7 @@ Beth Nahrain Council
 
  Leader's Info:
 > <a href="https://imgbox.io/ib/0liIWc49PL"><img src="https://imgbox.io/ib/0liIWc49PL.png" alt="0liIWc49PL"/></a>
->* Malko Solomon
+>* Malko Solomon (ܡܐܠܟܥ ܨܥܠܥܡܥܢ)
 >* DOB: 12/08/2268 (31-32)
 >* Born in Chicago, Illinois, USA
 >* Overall clean record
@@ -68,7 +68,7 @@ Kalayaan
  Leader's Info:
 
 > <a href="https://imgbox.io/ib/2duuCLxDbl"><img src="https://imgbox.io/ib/2duuCLxDbl.png" alt="2duuCLxDbl"/></a>
->* Jose Ternate Magdalo
+>* Jose Ternate Magdalo 
 >* DOB: 07/11/2975 (24-25)
 >* Born in Zaragoza, Nueva Ecija, Philippines
 >* Overall clean record
