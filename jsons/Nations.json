@@ -206,7 +206,7 @@
         "uniqueName": "The Great Reservation",
         "uniques": [
             "[+20]% Strength <for [Military] units> <in [Friendly Land] tiles>",
-            "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."         
+            "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Pioneer Administration."         
         ],
         "cities": [
             "Great Reservation",
