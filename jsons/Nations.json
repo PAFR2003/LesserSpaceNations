@@ -201,8 +201,8 @@
         "hateHello": "Scalping or go away?! Choose one.",
         "tradeRequest": "From the blessings of the Jóhonaaʼéí, the god of Sun.",
 
-        "outerColor": [0, 80, 0],
-        "innerColor": [255, 213, 0],
+        "outerColor": [254, 103, 0],
+        "innerColor": [52, 181, 213],
         "uniqueName": "The Great Reservation",
         "uniques": [
             "[+20]% Strength <for [Military] units> <in [Friendly Land] tiles>",
@@ -244,5 +244,59 @@
 			"Makkitotosimew",
 			"Kolenya"
 	]
+    },
+[
+    {
+        "name": "Sociedade de Cultura Livre",
+        "leaderName": "Larissa Delchiaro de Souza",
+        "adjective": ["Freespeople"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Mekhanites",
+
+        "startIntroPart1": "L-BotX: Olá, dear creators! This is Sociedade de Cultura Livre, the nation of open-source creators and contributors. But before we start, here's our word from our great free culture creator, the leader of this the Female's Division of Open Source Creators and the president of SdCL, Larissa de Souza!",
+        "startIntroPart2": "Hello, fellow Freesman (or Freeswoman if your a girl). I am Larissa de Souza from São Paulo, Brazil. I was born from the colorful favelas of the city in which sadness, inequality and crime are rampant. When I was nineteen years old, I ask the people what they want to stop all of this bad things from happening and they said, media but medias are always restricted under the big C and the lobbying Thiespaux Medianet overlords. We don't want to get sued but I found some two guys from Germany who talk with me and recruited me to the open source media industry, I contributed to the Commons with my extensive knowledge for music and arts and gave my creations to the masses of the favelas, no one cared at first but later on, the favela people have appreciated my works and granted me an cultural award of my country which granted me an award of one of the three things: money for a lifetime, fix the favelas with the contribution of the government or go to space and start a new life with your supporters. I chose the third option, say goodbye to some of my people and family, and I'm here in this planet with my astronaut suit building a new life full of happiness, creativity and hope.",
+        "declaringWar": "I've seen people do crime back in the favelas but you, you who are playing this game right now, is commiting war crimes against me and my people.",
+        "attacked": "You've clicked the wrong button because you're the worse criminal scum I've ever seen.",
+        "defeated": "Free culture will never die, even how many lobbying and litigation will you do, you'll never win against us.",
+        "introduction": "Olá! This is Sociedade de Cultura Livre. Do you want to contribute with us?",
+        "neutralHello": "Olá! Any art, music or media to contribute with?",
+        "hateHello": "Seriously, why you're here?",
+        "tradeRequest": "The coders and musicians of SdCL has granted you the following proposals.",
+
+        "outerColor": [252, 110, 44],
+        "innerColor": [0, 80, 0],
+        "uniqueName": "Free-Culture Social Movement",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "[+1 Science] [in all cities]",
+            "[-2 Gold] [in all cities]",
+            "[-1 Production] [in all cities]"
+             ],
+        "cities": [
+            "Criações",
+            "Rio de Cores",
+            "Programadores",
+            "A Praia",
+            "Liberdade",
+            "Sorriso",
+            "Selvas Calmas",
+            "Correntes Quebradas",
+            "Cidade Sol",
+            "Filhos da Esperança,",
+            "Little Brasilia",
+            "Amazônia Roxa",
+            "Cidade Livre",
+            "Glóriapolis",
+            "Nova Colômbia",
+            "Colônia do Iguaçu",
+            "Progresso-Avanço",
+            "Terra Novum",
+            "Unificação",
+            "Colinas Nubladas",
+            "Velha Trindade"
+        ]
     }
+]
+
 ]
