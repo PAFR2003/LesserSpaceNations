@@ -43,7 +43,7 @@ Beth Nahrain Council
  Leader's Info:
 > <a href="https://imgbox.io/ib/0liIWc49PL"><img src="https://imgbox.io/ib/0liIWc49PL.png" alt="0liIWc49PL"/></a>
 >* Malko Solomon (ܡܐܠܟܥ ܨܥܠܥܡܥܢ)
->* DOB: 12/08/2268 (32-33)
+>* DOB: 12/08/2268 (31-32)
 >* Born in Chicago, Illinois, USA
 >* Overall clean record
 >* He has a BA in Anthropology
@@ -120,7 +120,7 @@ Non-profit organization of open source developers and creators
 
 > <a href="https://imgbox.io/ib/rEAUItkMoV"><img src="https://imgbox.io/ib/rEAUItkMoV.png" alt="rEAUItkMoV"/></a>
 >* Larissa Delchiaro de Souza
->* DOB: 08/16/2269 (31-32)
+>* DOB: 08/16/2269 (30-31)
 >* Born in São Paulo, Brazil
 >* Overall clean record
 >* Single
