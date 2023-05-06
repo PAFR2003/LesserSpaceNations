@@ -93,7 +93,7 @@ Various Native American and First Nation tribes of United States and Canada
 
  Leader's Info:
 
->* <a href="https://imgbox.io/ib/ZYaHyiqQkE"><img src="https://imgbox.io/ib/ZYaHyiqQkE.png" alt="ZYaHyiqQkE"/></a>
+> <a href="https://imgbox.io/ib/ZYaHyiqQkE"><img src="https://imgbox.io/ib/ZYaHyiqQkE.png" alt="ZYaHyiqQkE"/></a>
 >* Anthony Golden Eagle
 >* DOB: 04/23/2244 (55-56)
 >* Born in Kaibito, Arizona, USA
