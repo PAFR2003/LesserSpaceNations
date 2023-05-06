@@ -263,8 +263,8 @@
         "hateHello": "Seriously, why you're here?",
         "tradeRequest": "The coders and musicians of SdCL has granted you the following proposals.",
 
-        "outerColor": [252, 110, 44],
-        "innerColor": [0, 80, 0],
+        "outerColor": [0, 110, 0],
+        "innerColor": [255, 215, 35],
         "uniqueName": "Free-Culture Social Movement",
         "uniques": [
             "[+1 Culture] [in all cities]",
