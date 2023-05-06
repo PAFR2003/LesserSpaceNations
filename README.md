@@ -77,3 +77,53 @@ Kalayaan
 >* He is fluent in Tagalog, Hiligaynon, Ilocano and English languages
 >* He was born in a poor family in which he was the second eldest son of Magdalo family
 >* He has a very big farmland which was seized by the greedy government of the Philippines in which was ruled by a dictator at that time
+
+## Native Nations Rehabilitation Project (NNRP)
+
+ Fourth Faction:
+
+<a href="https://imgbox.io/ib/SZcN8VXea2"><img src="https://imgbox.io/ib/SZcN8VXea2.png" alt="SZcN8VXea2"/></a>
+Native Nations Rehabilitation Project
+
+ Ethnic Origins:
+Various Native American and First Nation tribes of United States and Canada 
+
+ Type of company:
+(Non company) State-sponsored ethnic reservation program by the US and Canadian governments
+
+ Leader's Info:
+
+>* <a href="https://imgbox.io/ib/ZYaHyiqQkE"><img src="https://imgbox.io/ib/ZYaHyiqQkE.png" alt="ZYaHyiqQkE"/></a>
+>* Anthony Golden Eagle
+>* DOB: 04/23/2244 (55-56)
+>* Born in Kaibito, Arizona, USA
+>* Overall clean record
+>* Widower, his wife reportedly died because of a really worse car accident
+>* He speaks Navajo and English
+>* He was a chief of his small town
+>* He was an open socialist and anti-imperialist
+
+## Sociedade de Cultura Livre
+
+ Fifth Faction:
+
+<a href="https://imgbox.io/ib/MlrrWJpuC6"><img src="https://imgbox.io/ib/MlrrWJpuC6.png" alt="MlrrWJpuC6"/></a>
+Sociedade de Cultura Livre
+
+ Ethnic Origins:
+Diverse but mostly ruled by Brazilians and Portuguese
+
+ Type of company:
+Non-profit organization of open source developers and creators
+
+ Leader's Info:
+
+> <a href="https://imgbox.io/ib/rEAUItkMoV"><img src="https://imgbox.io/ib/rEAUItkMoV.png" alt="rEAUItkMoV"/></a>
+>* Larissa Delchiaro de Souza
+>* DOB: 08/16/2269
+>* Born in São Paulo, Brazil
+>* Overall clean record
+>* Single
+>* Speaks Portuguese and English, a little knowledge on Spanish language
+>* She was born in a lower middle-class family where she is the eldest daughter
+>* Joined at the Commons at the age of 22
