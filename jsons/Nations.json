@@ -205,7 +205,8 @@
         "innerColor": [0, 195, 255],
         "uniqueName": "The Great Reservation",
         "uniques": [
-            "[+20]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+            "[+10]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+            "Earn [100]% of killed [Military] unit's [Strength] as [Culture]"
         ],
         "cities": [
             "Great Reservation",
