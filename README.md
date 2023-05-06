@@ -18,7 +18,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
  Leader's Info:
 > <a href="https://imgbox.io/ib/Zw6WZi9i0l"><img src="https://imgbox.io/ib/Zw6WZi9i0l.png" alt="Zw6WZi9i0l"/></a>
 >* Narine Ohannesyan (Նարինե Ոհաննեսյան)
->* DOB: 30/03/2371 (28-29)
+>* DOB: 03/30/2371 (28-29)
 >* Born in Vagharshapat, Armenia
 >* Overall clean record
 >* She has a BA degree on Marketing Management, she was considered to be the most intelligent woman in her class
