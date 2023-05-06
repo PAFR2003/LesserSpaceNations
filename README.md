@@ -98,6 +98,7 @@ Various Native American and First Nation tribes of United States and Canada
 >* DOB: 04/23/2244 (55-56)
 >* Born in Kaibito, Arizona, USA
 >* Overall clean record
+>* He is homeschooled
 >* Widower, his wife reportedly died because of a really worse car accident
 >* He speaks Navajo and English
 >* He was a chief of his small town
@@ -123,6 +124,7 @@ Non-profit organization of open source developers and creators
 >* DOB: 08/16/2269 (30-31)
 >* Born in São Paulo, Brazil
 >* Overall clean record
+>* She has BA in Entertainment and Journalism
 >* Single
 >* Speaks Portuguese and English, a little knowledge on Spanish language
 >* She was born in a lower middle-class family where she is the eldest daughter
