@@ -202,7 +202,7 @@
         "tradeRequest": "From the blessings of the Jóhonaaʼéí, the god of Sun.",
 
         "outerColor": [29, 94, 0],
-        "innerColor": [0, 96, 255],
+        "innerColor": [0, 51, 255],
         "uniqueName": "The Great Reservation",
         "uniques": [
             "[+20]% Strength <for [Military] units> <in [Friendly Land] tiles>",
