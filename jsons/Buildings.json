@@ -77,7 +77,7 @@
 		]
 	},
         {
-		"name": "Bazaar",
+		"name": "Intergalactic Bargain",
                 "uniqueTo": "Gargzinean Imperium",
 		"replaces": "Megamall",
 		"maintenance": 2,
@@ -92,7 +92,7 @@
 		],
 		"civilopediaText": [
 			{
-				"text": "Dazzling with its variety of goods and services for sale, the Megamall is also a popular place for the youth to socialize."
+				"text": "A large bazaar dedicated for selling stuff all over the universe."
 			}
 		]
 	},
