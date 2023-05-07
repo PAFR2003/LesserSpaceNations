@@ -75,5 +75,25 @@
 				"text": "An AI server for creating AI generated media and entertainment. The cost of making media here is almost free."
 			}
 		]
-	}
+	},
+        {
+		"name": "Bazaar",
+                "uniqueTo": "Gargzinean Imperium",
+		"replaces": "Megamall",
+		"maintenance": 2,
+		"gold": 4,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arcade Room",
+		"requiredTech": "Hab-Domes",
+		"uniques": [
+			"[+1 Happiness] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] from [Luxury resource] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Dazzling with its variety of goods and services for sale, the Megamall is also a popular place for the youth to socialize."
+			}
+		]
+	},
 ]
