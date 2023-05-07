@@ -307,5 +307,47 @@
 			"Clementina",
 			"Ximena"
 	]
+    },
+    {
+        "name": "Gargzinean Imperium",
+        "leaderName": "Lord Sempijol",
+        "adjective": ["Gargzin"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Conscription",
+
+        "startIntroPart1": "Salve! This is the undefeated, the great and the powerful intergalactic empire of Gargzinea. We have took almost all the quadrants of the Milky Way Galaxy and now we are here in New Earth, we will get you!",
+        "startIntroPart2": "Salutations, this is Lord Sempijol, the leader of the Gargzinean Imperium, the lord of all quadrants, the enslaver of all species, the lord of all suns and moons. After we took the Eastern Milky Way, we have found the New Earth full of resources and things to exploit with. A place to play with, isn't it? But can you help me to put peace to this planet and fly the banner of Gargzinea?",
+        "declaringWar": "No one will beat the nation of Gargzinea! *sword salute*",
+        "attacked": "The might of Gargzinea will end you! *sword salute*",
+        "defeated": "One day we will come back, the might of Gargzinea will end you one day!",
+        "introduction": "Yes, we have arrived!",
+        "neutralHello": "The nation of Gargzinea welcomes you.",
+        "hateHello": "Welcome, fool.",
+        "tradeRequest": "The warlords of the Imperium has offered you the following.",
+
+        "outerColor": [68, 39, 255],
+        "innerColor": [0, 0, 0],
+        "uniqueName": "The Might of the Skullship",
+        "uniques": [
+            "[Great General] is earned [33]% faster"
+            "Cities are razed [2] times as fast",
+            "\"Borrows\" city names from other civilizations in the game"
+             ],
+        "cities": [
+            "Gargzinea Colony"
+        ],
+	 "spyNames": [
+			"Jaleki",
+			"T'iridag",
+			"Esmeiro",
+			"Hazatka",
+			"Yrdakil",
+			"Samharah",
+			"Eshmina",
+			"Delilenia",
+			"Hatrineh",
+			"Velminne"
+	]
     }
 ]
