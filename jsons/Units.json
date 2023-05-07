@@ -106,5 +106,39 @@
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
-        }
+        },
+        {
+		"name": "Plasma Skullship",
+                "uniqueTo": "Gargzinean Imperium",
+		"replaces": "Ray Wing",
+		"unitType": "Aerocraft",
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 55,
+		"range": 7,
+		"interceptRange": 5,
+		"cost": 620,
+		"requiredTech": "Exotic Quantum Physics",
+		"requiredResource": "Ulframite",
+		"uniques": [
+			"[100]% chance to intercept air attacks",
+			"[+50]% Strength when performing Air Sweep",
+			"[+50]% Strength <vs [non-air] units>",
+			"[+150]% Strength <vs [Air] units>",
+			"[+100]% Strength <vs [Satellite] units> <with [80]% chance> <when attacking>",
+			"[-33]% Strength <vs cities>",
+			"Only available <in cities with a [Aerocraft Hangar]>",
+			"Limited to [3] per Civilization",
+			"Only available <after adopting [Radiant Ideology]>",
+			"Consumes [4] [Ulframite]",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "RapidLaser",
+		"civilopediaText": [
+			{
+				"text": "A large skull shaped satellite capable of destroying a city. Created for invading planets."
+			}
+		]
+	},
+	
 ]
