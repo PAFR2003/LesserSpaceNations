@@ -86,10 +86,10 @@ Kalayaan
 Native Nations Rehabilitation Project
 
  Ethnic Origins:
-Various Native American and First Nation tribes of United States and Canada 
+* Various Native American and First Nation tribes of United States and Canada 
 
  Type of company:
-(Non company) State-sponsored ethnic reservation program by the US and Canadian governments
+* (Non company) State-sponsored ethnic reservation program by the US and Canadian governments
 
  Leader's Info:
 
@@ -112,10 +112,10 @@ Various Native American and First Nation tribes of United States and Canada
 Sociedade de Cultura Livre
 
  Ethnic Origins:
-Diverse but mostly ruled by Brazilians and Portuguese
+* Diverse but mostly ruled by Brazilians and Portuguese
 
  Type of company:
-Non-profit organization of open source developers and creators
+* Non-profit organization of open source developers and creators
 
  Leader's Info:
 
@@ -129,3 +129,27 @@ Non-profit organization of open source developers and creators
 >* Speaks Portuguese and English, a little knowledge on Spanish language
 >* She was born in a lower middle-class family where she is the eldest daughter
 >* Joined at the Commons at the age of 22
+
+## Gargzinean Imperium
+
+<a href="https://imgbox.io/ib/GeWC8HOImP"><img src="https://imgbox.io/ib/GeWC8HOImP.png" alt="GeWC8HOImP"/></a>
+Gargzinean Imperium
+
+ Ethnic Origins:
+* They are humanoid aliens with bull horns
+
+ Type of company:
+* Ultra-nationalist space empire
+
+ Leader's Info:
+
+> <a href="https://imgbox.io/ib/Gd9Ayth2KT"><img src="https://imgbox.io/ib/Gd9Ayth2KT.png" alt="Gd9Ayth2KT"/></a>
+>* Lord Sempijol of Gargzinea
+>* DOB: ?
+>* Born somewhere in planet Gargzinea
+>* Tagged "Intergalactic Terrorist" by the Intergalactic Space Forces
+>* He was a former conscript and part of the Gargzinean Nobility
+>* Married to Queen Kentranifah of Gargzinea
+>* Speaks all languages of the universe via some undisclosed plasma technology
+>* He was the ruler of his planet, Gargzinea
+>* He invaded most of the Milky Way Galaxy
