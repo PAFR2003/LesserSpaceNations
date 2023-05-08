@@ -3,8 +3,8 @@
          "name": "Beast Fighter",
 	 "uniques": [
 		"[+5]% Strength <vs cities>",
-                "[+15]% Strength <vs Assault Mecha>"
-	  ],
+                "[+15]% Strength <vs [Military] units>
+	 ],
 	 "row": 108,
          "column": 0
      }
