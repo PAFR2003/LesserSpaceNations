@@ -52,7 +52,7 @@
 			"Consumes [2] [Titanium]",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Blitz", "Ignore terrain cost"],
+		"promotions": ["Beast Fighter", "Ignore terrain cost"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot",
 		"civilopediaText": [
