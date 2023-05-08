@@ -1,0 +1,11 @@
+[
+     {
+         "name": "Beast Fighter",
+	 "uniques": [
+		"[+5]% Strength <vs cities>",
+                "[+15]% Strength <vs Assault Mecha>"
+	  ],
+	 "row": 108,
+         "column": 0
+     }
+]
