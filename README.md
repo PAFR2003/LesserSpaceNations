@@ -6,7 +6,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 
  First Faction:
 
-<a href="https://imgbox.io/ib/V8tTlp18DN"><img src="https://imgbox.io/ib/V8tTlp18DN.png" alt="V8tTlp18DN"/></a>
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Astghayin%20Jur%20Corporation.png)
  Astghayin Jur Corporation
 
  Ethnic Origin: 
@@ -16,7 +16,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 * Spring water bottling company
 
  Leader's Info:
-> <a href="https://imgbox.io/ib/Zw6WZi9i0l"><img src="https://imgbox.io/ib/Zw6WZi9i0l.png" alt="Zw6WZi9i0l"/></a>
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Narine%20Ohannesyan.png)
 >* Narine Ohannesyan (Նարինե Ոհաննեսյան)
 >* DOB: 03/30/2371 (28-29)
 >* Born in Vagharshapat, Armenia
@@ -31,7 +31,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 
  Second Faction:
 
-<a href="https://imgbox.io/ib/tO321i5KQs"><img src="https://imgbox.io/ib/tO321i5KQs.png" alt="tO321i5KQs"/></a>
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Beth%20Nahrain%20Council.png)
 Beth Nahrain Council
 
  Ethnic Origin:
@@ -41,7 +41,7 @@ Beth Nahrain Council
 * Not a company but they are refugees
 
  Leader's Info:
-> <a href="https://imgbox.io/ib/0liIWc49PL"><img src="https://imgbox.io/ib/0liIWc49PL.png" alt="0liIWc49PL"/></a>
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Malko%20Solomon.png)
 >* Malko Solomon (ܡܐܠܟܥ ܨܥܠܥܡܥܢ)
 >* DOB: 12/08/2268 (31-32)
 >* Born in Chicago, Illinois, USA
@@ -56,7 +56,7 @@ Beth Nahrain Council
 
  Third Faction:
 
-<a href="https://imgbox.io/ib/YfmHEYeztL"><img src="https://imgbox.io/ib/YfmHEYeztL.png" alt="YfmHEYeztL"/></a>
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Kalayaan.png)
 Kalayaan
 
  Ethnic Origins:
@@ -67,7 +67,7 @@ Kalayaan
 
  Leader's Info:
 
-> <a href="https://imgbox.io/ib/2duuCLxDbl"><img src="https://imgbox.io/ib/2duuCLxDbl.png" alt="2duuCLxDbl"/></a>
+> ![alt text](https://github.com/PAFR2003/LesserSpaceNations/blob/main/Images/LeaderIcons/Jose%20Magdalo.png)
 >* Jose Ternate Magdalo 
 >* DOB: 07/11/2975 (24-25)
 >* Born in Zaragoza, Nueva Ecija, Philippines
@@ -82,7 +82,7 @@ Kalayaan
 
  Fourth Faction:
 
-<a href="https://imgbox.io/ib/SZcN8VXea2"><img src="https://imgbox.io/ib/SZcN8VXea2.png" alt="SZcN8VXea2"/></a>
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Native%20Nations%20Rehabilitation%20Project.png)
 Native Nations Rehabilitation Project
 
  Ethnic Origins:
@@ -93,7 +93,7 @@ Native Nations Rehabilitation Project
 
  Leader's Info:
 
-> <a href="https://imgbox.io/ib/ZYaHyiqQkE"><img src="https://imgbox.io/ib/ZYaHyiqQkE.png" alt="ZYaHyiqQkE"/></a>
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Anthony%20Golden%20Eagle.png)
 >* Anthony Golden Eagle
 >* DOB: 04/23/2244 (55-56)
 >* Born in Kaibito, Arizona, USA
@@ -108,7 +108,7 @@ Native Nations Rehabilitation Project
 
  Fifth Faction:
 
-<a href="https://imgbox.io/ib/MlrrWJpuC6"><img src="https://imgbox.io/ib/MlrrWJpuC6.png" alt="MlrrWJpuC6"/></a>
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Sociedade%20de%20Cultura%20Livre.png)
 Sociedade de Cultura Livre
 
  Ethnic Origins:
@@ -119,7 +119,7 @@ Sociedade de Cultura Livre
 
  Leader's Info:
 
-> <a href="https://imgbox.io/ib/rEAUItkMoV"><img src="https://imgbox.io/ib/rEAUItkMoV.png" alt="rEAUItkMoV"/></a>
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Larissa%20Delchiaro%20de%20Souza.png)
 >* Larissa Delchiaro de Souza
 >* DOB: 08/16/2269 (30-31)
 >* Born in São Paulo, Brazil
@@ -132,7 +132,7 @@ Sociedade de Cultura Livre
 
 ## Gargzinean Imperium
 
-<a href="https://imgbox.io/ib/GeWC8HOImP"><img src="https://imgbox.io/ib/GeWC8HOImP.png" alt="GeWC8HOImP"/></a>
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Gargzinean%20Imperium.png)
 Gargzinean Imperium
 
  Ethnic Origins:
@@ -143,7 +143,7 @@ Gargzinean Imperium
 
  Leader's Info:
 
-> <a href="https://imgbox.io/ib/Gd9Ayth2KT"><img src="https://imgbox.io/ib/Gd9Ayth2KT.png" alt="Gd9Ayth2KT"/></a>
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Lord%20Sempijol.png)
 >* Lord Sempijol of Gargzinea
 >* DOB: ?
 >* Born somewhere in planet Gargzinea
