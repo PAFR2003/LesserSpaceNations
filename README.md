@@ -171,7 +171,7 @@ Octavian Aquatics
 
  Leader's Info:
  
->* ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Octavia%20Thompson.png)
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Octavia%20Thompson.png)
 >* Octavia Thompson
 >* DOB: 29/03/2263 (36-37)
 >* Born in St. John's, Newfoundland and Labrador, Canada
