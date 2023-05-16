@@ -354,7 +354,7 @@
         "name": "Octavian Aquatics",
         "leaderName": "Octavia Thompson",
         "adjective": ["Fishkeeper"],
-        "startBias": ["Coast, River"],
+        "startBias": ["Coast"],
         "preferredVictoryType": "Diplomatic",
         "favoredReligion": "Nature Worship",
 
