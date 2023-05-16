@@ -158,7 +158,7 @@ Gargzinean Imperium
 
 ## Octavian Aquatics
  
- Seventh Faction
+ Seventh Faction:
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Octavian%20Aquatics.png)
 Octavian Aquatics
