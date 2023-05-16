@@ -132,6 +132,8 @@ Sociedade de Cultura Livre
 
 ## Gargzinean Imperium
 
+ Sixth Faction:
+
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Gargzinean%20Imperium.png)
 Gargzinean Imperium
 
@@ -153,3 +155,29 @@ Gargzinean Imperium
 >* Speaks all languages of the universe via some undisclosed plasma technology
 >* He was the ruler of his planet, Gargzinea
 >* He invaded most of the Milky Way Galaxy
+
+## Octavian Aquatics
+ 
+ Seventh Faction
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Octavian%20Aquatics.png)
+Octavian Aquatics
+
+ Ethnic Origins:
+* Diverse but ruled under communist party with traced origins from Canada and USA
+
+ Type of company:
+* Aquarium supplies company and aquarium fish seller
+
+ Leader's Info:
+ 
+>* ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Octavia%20Thompson.png)
+>* Octavia Thompson
+>* DOB: 29/03/2263 (36-37)
+>* Born in St. John's, Newfoundland and Labrador, Canada
+>* Felon (DUI-related), alleged fraudster and considered "dangerous agent" by World Criminal Records Center (WCRC)
+>* Formerly a Navy, currently a tropical fish seller
+>* Single (currently divorced)
+>* Speaks English and some French
+>* Owner and CEO of Octavian Aquatics
+>* Joined an undisclosed communist party in Canada around 2280's according to a report by international media outlets and WCRC
