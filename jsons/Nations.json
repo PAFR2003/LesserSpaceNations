@@ -1,797 +1,827 @@
 [
-
     {
-
         "name": "Kalayaan",
-
         "leaderName": "Jose Magdalo",
-
         "adjective": ["Kalayaan"],
-
         "startBias": ["Coast"],
-
         "preferredVictoryType": "Domination",
-
         "favoredReligion": "Bathala Pantheon",
 
         "startIntroPart1": "Mabuhay! Welcome to Kalayaan! The world's largest farming company on Earth and today, we are sending some hopefuls to the cosmos.",
-
         "startIntroPart2": "We here at Kalayaan Corporation, we provide the best crops and livestock available to the masses not just in the country of the Philippines but the whole world and the universe. Our plants and livestock is resistant to climate change and other natural disasters such as what we commonly get here in my country yearly, typhoons. We also make sure that our agricultural products are of high quality and ethically sourced, free from slavery and child labor. So what are you waiting for? Get your food to Kalayaan Corporation! Kalayaan Corporation, Feed your life.",
-
         "declaringWar": "I can't stand you anymore. Para sa Kalayaan!",
-
         "attacked": "We have defeated aliens before so, it will be easy to defeat other humans.",
-
         "defeated": "I'm so sorry, please take my land and take care of my people.",
-
         "introduction": "Kamusta, welcome to Kalayaan. Don't fear us, as long as your a human, we will be your friends..",
-
         "neutralHello": "Oh, kamusta. Anong kailangan mo?",
-
         "hateHello": "No!",
-
         "tradeRequest": "Sige, kuhanin mo na.",
 
         "outerColor": [35, 15, 165],
-
         "innerColor": [255, 0, 0],
-
         "uniqueName": "Magtanim ay Hindi Biro",
-
         "uniques": [
-
             "[+1 Production] from [Hydroponics Field] tiles [in capital]",
-
             "[+1 Production] from [Agri Farm] tiles [in capital]",
-
             "[+1 Production] from [Terraboretum] tiles [in all cities]"
-
         ],
-
         "cities": [
-
             "Pag-Asa",
-
             "Vituhen",
-
             "Sampaguita",
-
             "Balangay",
-
             "Vakul",
-
             "Kabutihan"
-
             "Bag-ong Yuta",
-
             "Masanting",
-
             "Isla Itak",
-
             "Kawasan",
-
             "Niyog sa Kawayan",
-
             "Gayyem",
-
             "Yutang Mutya",
-
             "Mipasno",
-
             "Kagitingan",
-
             "Naragsak Balay",
-
             "Burol Salawsaw",
-
             "Vinta",
-
             "Araw"
-
         ] ,
-
-	"spyNames": [			"Buhawi",
-
+	"spyNames": [
+			"Buhawi",
 			"Habagat",
-
 			"Hangin",
-
 			"Bagyo",
-
 			"Araw",
-
 			"Amihan",
-
 			"Maganda",
-
 			"Mayumi",
-
 			"Luzviminda",
-
 			"Reyna"
-
 	]
-
     },
-
     {
-
         "name": "Astghayin Jur Corporation",
-
         "leaderName": "Narine Ohannesyan",
-
         "adjective": ["Astghiner"],
-
         "startBias": ["Hill"],
-
         "preferredVictoryType": "Cultural",
-
         "favoredReligion": "Hetanism",
 
         "startIntroPart1": "Barev dzez. This is Astghayin Jur Corporation, your no. 1 supplier of your spring water and here's a word from our CEO, Narine Ohannesyan.",
-
         "startIntroPart2": "(Translated in English by Thiespaux Medianet, interview originally spoken in Armenian language) The mountains of Caucasus has gave us the glory of clean and tasty water blessed by the rains that Lord God has gave us from the sky above. From the fundings of the nation of Armenia and her diaspora, we have created the Astghayin Jur Corporation, a spring water bottling company serving fresh and clean water almost all countries all around the Earth except Azerbaijan, North Korea and Cuba. But today, I have done everything in this planet and leave the Earth for life, so I bought a spaceship with my people and move to the faraway dark skies and were here at New Earth and starting a new life with hope.",
-
         "declaringWar": "Inch’ anamot’ mard. Menk’ ch’enk’ handurzhum dzer gortsoghut’yunnery. DU ARZHANI YES MERRNELU!",
-
         "attacked": "Im geghets’ik demk’y k’ez anpayman kstipi partvel paterazmum. Du ch’es?",
-
         "defeated": "You know I'm beautiful, maybe you can give me a second chance? (^_-)",
-
         "introduction": "Barev! This is Astghayin Jur Corporation. Wanna buy and drink my bottled spring water?",
-
         "neutralHello": "Inch’ e k’ez petk’, kheghch chanaparhord?",
-
         "hateHello": "*slaps you to the face*",
-
         "tradeRequest": "Karogh yenk’ t’eyi yndmijum unenal?",
 
         "outerColor": [30, 5, 247],
-
         "innerColor": [255, 171, 3],
-
         "uniqueName": "Endless Vartavar",
-
         "uniques": [
-
             "[+1 Gold] from [River] tiles [in all cities]",
-
             "[+1 Food, +1 Culture, +1 Production] from every [Mountain]"
-
         ],
-
         "cities": [
-
             "Narinekert",
-
             "Payk'ar",
-
             "Gisastgh",
-
             "Hrashk’ Blurner",
-
             "Ardyunahanum",
-
             "P’aylogh Arev"
-
             "Champ’vordik’aghak’",
-
             "Lerrnagagat",
-
             "Tigrangyugh",
-
             "Antarry",
-
             "Chahichogyugh",
-
             "Andzrevokert",
-
             "Geghets’ik",
-
             "Nor Hogh",
-
             "Pashtpan",
-
             "Oghegortsaran",
-
             "Mets Sp’yurrk’",
-
             "Vayrejk’i Goti",
-
             "Yerkink’",
-
             "Jri Kat’il",
-
             "Hushahamalir",
-
             "Hishatakut’yun"
-
         ],
-
 	 "spyNames": [
-
 			"Hayk",
-
 			"Samvel",
-
 			"Mkrtich",
-
 			"Vigen",
-
 			"Vartan",
-
 			"Iskouhi",
-
 			"Marine",
-
 			"Seta",
-
 			"Vartuhi",
-
 			"Ani"
-
 	]
-
     },
-
     {
-
         "name": "Beth Nahrain Council",
-
         "leaderName": "Malko Solomon",
-
         "adjective": ["Neo-Mesopotamian"],
-
         "startBias": ["Avoid [Tundra]"],
-
         "preferredVictoryType": "Domination",
-
         "favoredReligion": "Khigga",
 
         "startIntroPart1": "Shlamalokhoun to all of you, from the ethnic minority of the Assyrians, this is the Beth Nahrain Council and we have a sad story to tell to you, player.",
-
         "startIntroPart2": "Hello player, my name is Malko Solomon and I'm part of the Assyrian diaspora born from Chicago, United States but I move from Iraq to defend my people and my hometown of my parents, Alqosh from the evil Neo-Caliphate. Our people have been oppressed for over 4000 years of enslavement, destruction and annihilation from multiple different powers of history. We have almost no chance of surviving to the future but we have a plan to save ourselves, we have sold our cars, our homes, our property and even the dress that women wear for the sheikani parties, they have even sold it from any means legal. After that, we have tried to buy a spaceship to a private space company and we did, over a group of over 15,000 Assyrians have joined with consent to the new planet and agreed to go to there. I'm now here in the New Earth, a paradise of new life and hope but I have a question to you: Would you help me to bring back our glory from the past?",
-
         "declaringWar": "From the will of Ashurbanipal, we will avenge you.",
-
         "attacked": "You will learn a lesson, bastard.",
-
         "defeated": "It is true, O LORD, that the Assyrian kings have laid waste these nations and their lands. They have thrown their gods into the fire and destroyed them, for they were not gods but only wood and stone, fashioned by men's hands. Now, O LORD our God, deliver us from his hand, so that all kingdoms on earth may know that you alone, O LORD, are God. - 2 Kings 19: 17-19",
-
         "introduction": "Shlamalokhoun from the nation of Assyrians, this is the Beth Nahrain Council.",
-
         "neutralHello": "Oh, what do you want?",
-
         "hateHello": "Why did you go here? Aren't you my enemy?",
-
         "tradeRequest": "From the riches of the Assyrian people...",
 
         "outerColor": [189, 0, 0],
-
         "innerColor": [255, 255, 255],
-
         "uniqueName": "Kha B Nissan",
-
         "uniques": [
-
             "[+1 Culture] from [Flood plains] tiles [in all cities]",
-
             "[+25]% [Science] [in annexed cities]"         
-
         ],
-
         "cities": [
-
             "Alap",
-
             "Beth",
-
             "Gamal",
-
             "Dalat",
-
             "Heh",
-
             "Waw"
-
             "Zain",
-
             "Khet",
-
             "Teth",
-
             "Yodh",
-
             "Kap",
-
             "Lamad",
-
             "Meem",
-
             "Noon",
-
             "Simath",
-
             "Aih",
-
             "Peh",
-
             "Sade",
-
             "Qoph",
-
             "Sheen",
-
             "Taw",
-
             "Taw Alap"
-
         ],
-
 	 "spyNames": [
-
 			"Younan",
-
 			"Isho",
-
 			"Ashur",
-
 			"Daniyel",
-
 			"Shamash",
-
 			"Shamiram",
-
 			"Nineveh",
-
 			"Sumer",
-
 			"Ishtar",
-
 			"Inanna"
-
 	]
-
     },
-
     {
-
         "name": "Native Nations Rehabilitation Project",
-
         "leaderName": "Anthony Golden Eagle",
-
         "adjective": ["Native"],
-
         "startBias": ["Plains"],
-
         "preferredVictoryType": "Diplomatic",
-
         "favoredReligion": "Pow-wow",
 
         "startIntroPart1": "Yá'at'ééh! This is the Native Nations Rehabilitation Project or NNRP for short. Created under the help of the US government for protecting the Native American population from extinction. This is yours truly, Anthony GE speaking to the entire reservation.",
-
         "startIntroPart2": "NNRP is created by the US government in 2105 in the state of Oklahoma in ways to protect and let the our group, the Native Americans to thrive and progress for themselves. The NNRP has been proven to be a major success and in 2299, a major resettlement of our people has been announced all over the reservation. I didn't know where will be resettled but over 50,000 of our people has accepted via contract to be resettled, we have been asked to go asleep and woke up to a chamber and we have been sedated later on. After that sleep, we woke up and went to a place we never seen before in our lives, a new world waiting for us, a new epic ride, a new run for our people and a new chapter for our bloodline. But I have a question to you, will you help our people thrive and start all over again from destruction and enslavement that the colonizers did to us?",
-
         "declaringWar": "We're on the run to decimate you, foreigner!",
-
         "attacked": "Get out you scum of the earth! We have been enslaved and destroyed for thousands of years and you want to do it again?",
-
         "defeated": "My plans for protecting my people has failed. I guess I'm done right now.",
-
         "introduction": "Yá'at'ééh, foreigner! The NNRP welcomes you.",
-
         "neutralHello": "This is the NNRP talking.",
-
         "hateHello": "Scalping or go away?! Choose one.",
-
         "tradeRequest": "From the blessings of the Jóhonaaʼéí, the god of Sun.",
 
         "outerColor": [29, 94, 0],
-
         "innerColor": [0, 195, 255],
-
         "uniqueName": "The Great Reservation",
-
         "uniques": [
-
             "[+10]% Strength <for [Military] units> <in [Friendly Land] tiles>",
-
             "Earn [100]% of killed [Military] unit's [Strength] as [Culture]"
-
         ],
-
         "cities": [
-
             "Great Reservation",
-
             "Bison Valley",
-
             "Three Sisters",
-
             "Orange Badlands",
-
             "Indian Township",
-
             "Little Arizona",
-
             "Butte Rocks",
-
             "Pocahontastown",
-
             "Trail of New Hope",
-
             "Hope Village,",
-
             "Rock Arches",
-
             "Little Rock Colony",
-
             "Flowing River",
-
             "Oregonia",
-
             "Sacred Hills",
-
             "Graceful Oasis",
-
             "Hunter's Guild",
-
             "Skeleton Depression",
-
             "Purple Forest",
-
             "Pyramid Mesa",
-
             "Great Plantation",
-
             "Hawk's Village"
-
         ],
-
 	 "spyNames": [
-
 			"Sequoyah",
-
 			"Sani",
-
 			"Micanopy",
-
 			"Qaletaqa",
-
 			"Iiniwa",
-
 			"Wenonah",
-
 			"Keezheekoni",
-
 			"Orenda",
-
 			"Makkitotosimew",
-
 			"Kolenya"
-
 	]
-
     },
-
     {
-
         "name": "Sociedade de Cultura Livre",
-
         "leaderName": "Larissa Delchiaro de Souza",
-
         "adjective": ["Freespeople"],
-
         "startBias": ["Coast"],
-
         "preferredVictoryType": "Cultural",
-
         "favoredReligion": "Free Culture",
 
         "startIntroPart1": "L-BotX: Olá, dear creators! This is Sociedade de Cultura Livre, the nation of open-source creators and contributors. But before we start, here's our word from our great free culture creator, the leader of the Female's Division of Open Source Creators and the president of SdCL, Larissa de Souza!",
-
         "startIntroPart2": "Hello, fellow Freespeople! This is my story of how I got here: One day, I found some two guys from Germany who talk with me and recruited me to the open source media industry, I contributed to the Commons with my extensive knowledge for music and arts and gave my creations to the masses of the favelas, no one cared at first but later on, the favela people have appreciated my works and granted me an cultural award of my country which granted me an award of one of the three things, money for a lifetime, fix the favelas with the contribution of the government or go to space and start a new life with your supporters. I chose the third option, say goodbye to some of my people and family, and I'm here in this planet with my astronaut suit building a new life full of happiness, creativity and hope.",
-
         "declaringWar": "I've seen people do crime back in the favelas but you, you who are playing this game right now, is commiting war crimes against me and my people.",
-
         "attacked": "You've clicked the wrong button because you're the worse criminal scum I've ever seen.",
-
         "defeated": "Free culture will never die, even how many lobbying and litigation will you do, you'll never win against us.",
-
         "introduction": "Olá! This is Sociedade de Cultura Livre. Do you want to contribute with us?",
-
         "neutralHello": "Olá! Any art, music or media to contribute with?",
-
         "hateHello": "Seriously, why you're here?",
-
         "tradeRequest": "The coders and musicians of SdCL has granted you the following proposals.",
 
         "outerColor": [0, 110, 0],
-
         "innerColor": [255, 215, 35],
-
         "uniqueName": "Free-Culture Social Movement",
-
         "uniques": [
-
             "[+1 Culture] [in all cities]",
-
             "[+1 Science] [in all cities]",
-
             "[-2 Gold] [in all cities]",
-
             "[-1 Production] [in all cities]"
-
              ],
-
         "cities": [
-
             "Criações",
-
             "Rio de Cores",
-
             "Programadores",
-
             "A Praia",
-
             "Liberdade",
-
             "Sorriso",
-
             "Selvas Calmas",
-
             "Correntes Quebradas",
-
             "Cidade Sol",
-
             "Filhos da Esperança",
-
             "Little Brasilia",
-
             "Amazônia Roxa",
-
             "Cidade Livre",
-
             "Glóriapolis",
-
             "Nova Colômbia",
-
             "Colônia do Iguaçu",
-
             "Progresso-Avanço",
-
             "Terra Novum",
-
             "Unificação",
-
             "Colinas Nubladas",
-
             "Velha Trindade"
-
         ],
-
 	 "spyNames": [
-
 			"Nixon",
-
 			"Wagner",
-
 			"Joaqim",
-
 			"Rui",
-
 			"Ximeno",
-
 			"Lavinía",
-
 			"Graça",
-
 			"Alódia",
-
 			"Clementina",
-
 			"Ximena"
-
 	]
-
     },
-
     {
-
         "name": "Gargzinean Imperium",
-
         "leaderName": "Lord Sempijol",
-
         "adjective": ["Gargzin"],
-
         "startBias": ["Coast"],
-
         "preferredVictoryType": "Domination",
-
         "favoredReligion": "Conscription",
 
         "startIntroPart1": "Salve! This is the undefeated, the great and the powerful intergalactic empire of Gargzinea. We have took almost all the quadrants of the Milky Way Galaxy and now we are here in New Earth, we will get you!",
-
         "startIntroPart2": "Salutations, this is Lord Sempijol, the leader of the Gargzinean Imperium, the lord of all quadrants, the enslaver of all species, the lord of all suns and moons. After we took the Eastern Milky Way, we have found the New Earth full of resources and things to exploit with. A place to play with, isn't it? But can you help me to put peace to this planet and fly the banner of Gargzinea?",
-
         "declaringWar": "No one will beat the nation of Gargzinea! *sword salute*",
-
         "attacked": "The might of Gargzinea will end you! *sword salute*",
-
         "defeated": "One day we will come back, the might of Gargzinea will end you one day!",
-
         "introduction": "Yes, we have arrived! Salve to you! This is the Gargzin nobility at your service.",
-
         "neutralHello": "The nation of Gargzinea welcomes you.",
-
         "hateHello": "Welcome, fool.",
-
         "tradeRequest": "The warlords of the Imperium has offered you the following.",
 
         "outerColor": [68, 39, 255],
-
         "innerColor": [0, 0, 0],
-
         "uniqueName": "Mighty Nobility of Gargzinea",
-
         "uniques": [
-
             "[Great General] is earned [33]% faster"
-
             "Cities are razed [2] times as fast",
-
             "\"Borrows\" city names from other civilizations in the game"
-
              ],
-
         "cities": [
-
             "Gargzinea Colony"
-
         ],
-
 	 "spyNames": [
-
 			"Jaleki",
-
 			"T'iridag",
-
 			"Esmeiro",
-
 			"Hazatka",
-
 			"Yrdakil",
-
 			"Samharah",
-
 			"Eshmina",
-
 			"Delilenia",
-
 			"Hatrineh",
-
 			"Velminne"
-
 	]
-
     },
-
     {
-
         "name": "Octavian Aquatics",
-
         "leaderName": "Octavia Thompson",
-
         "adjective": ["Fishkeeper"],
-
         "startBias": ["Jungle"],
-
         "preferredVictoryType": "Diplomatic",
-
         "favoredReligion": "Nature Worship",
 
         "startIntroPart1": "Hello and Bonjour! This is Octavia Aquatics, the world's largest supplier of aquarium fish and supplies. We ship worldwide now with 50% discount at first purchase!",
-
         "startIntroPart2": "*opens video clip* I'm Octavia Thompson, CEO of this aquatics company named after me. But do you want to know how I get here in this new place? Well, I got you covered. I worked as the owner of my aquarium company and I heard there was a contest to create the best aquarium setup and whoever company wins, will be sent to paradise called 'New Earth'. I won first place in the main category and I got here by the spaceship. Any questions? *the clip cuts to black*",
-
         "declaringWar": "*laughs* Seriously? Did you know, I worked in the Canadian military before as a navy officer? Well, you'll see your demise!",
-
         "attacked": "Did I smell dead aquarium fish?",
-
         "defeated": "See you in jail, fool.",
-
         "introduction": "Hello, this is Octavian Aquatics. Selling aquarium stuff all around New Earth.",
-
         "neutralHello": "Currently selling discus, fresh from planet Earth, only 500 credits.",
-
         "hateHello": "Seriously, why you're here?",
-
         "tradeRequest": "Hello, Octavia here. Here's my offer.",
 
         "outerColor": [175, 110, 0],
-
         "innerColor": [0, 140, 255],
-
         "uniqueName": "Miss Aquatic Devushka",
-
         "uniques": [
-
             "[+1] Movement <in [Water] tiles>",
-
             "[+1 Gold, +1 Science] from every [Aquaculture]",
-
-            "All newly-trained [{Military} {Water}] units [in all cities] receive the [Coastal Raider I] promotion"
-
+             "All newly-trained [{Military} {Water}] units [in all cities] receive the [Coastal Raider I] promotion"
              ],
-
         "cities": [
-
             "Octavia",
-
             "Blisburg",
-
             "Discus Stream",
-
             "Navyville",
-
             "Regimentia",
-
             "Redwater",
-
             "Aquascape",
-
             "Fish-on-Bay",
-
             "Union River",
-
             "Tetraby",
-
             "Arkbay",
-
             "Lighthouse Town",
-
             "Sailorsea",
-
             "Ironclad",
-
             "Maple Hillstream",
-
             "Filterwater",
-
             "Cascadia",
-
             "Airhill",
-
             "Glass Factory",
-
             "Sinkhole Bay"
-
         ],
-
         "spyNames": [
-
 			"Elliot",
-
 			"Joshua",
-
 			"Orvin",
-
 			"Francois",
-
 			"Lésiphor",
-
 			"Sarah",
-
 			"Claudine",
-
 			"Anne-Sophie",
-
 			"Dexivinia",
-
 			"Simone"
-
 	]
-
     }
+][
+    {
+        "name": "Kalayaan",
+        "leaderName": "Jose Magdalo",
+        "adjective": ["Kalayaan"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Bathala Pantheon",
 
+        "startIntroPart1": "Mabuhay! Welcome to Kalayaan! The world's largest farming company on Earth and today, we are sending some hopefuls to the cosmos.",
+        "startIntroPart2": "We here at Kalayaan Corporation, we provide the best crops and livestock available to the masses not just in the country of the Philippines but the whole world and the universe. Our plants and livestock is resistant to climate change and other natural disasters such as what we commonly get here in my country yearly, typhoons. We also make sure that our agricultural products are of high quality and ethically sourced, free from slavery and child labor. So what are you waiting for? Get your food to Kalayaan Corporation! Kalayaan Corporation, Feed your life.",
+        "declaringWar": "I can't stand you anymore. Para sa Kalayaan!",
+        "attacked": "We have defeated aliens before so, it will be easy to defeat other humans.",
+        "defeated": "I'm so sorry, please take my land and take care of my people.",
+        "introduction": "Kamusta, welcome to Kalayaan. Don't fear us, as long as your a human, we will be your friends..",
+        "neutralHello": "Oh, kamusta. Anong kailangan mo?",
+        "hateHello": "No!",
+        "tradeRequest": "Sige, kuhanin mo na.",
+
+        "outerColor": [35, 15, 165],
+        "innerColor": [255, 0, 0],
+        "uniqueName": "Magtanim ay Hindi Biro",
+        "uniques": [
+            "[+1 Production] from [Hydroponics Field] tiles [in capital]",
+            "[+1 Production] from [Agri Farm] tiles [in capital]",
+            "[+1 Production] from [Terraboretum] tiles [in all cities]"
+        ],
+        "cities": [
+            "Pag-Asa",
+            "Vituhen",
+            "Sampaguita",
+            "Balangay",
+            "Vakul",
+            "Kabutihan"
+            "Bag-ong Yuta",
+            "Masanting",
+            "Isla Itak",
+            "Kawasan",
+            "Niyog sa Kawayan",
+            "Gayyem",
+            "Yutang Mutya",
+            "Mipasno",
+            "Kagitingan",
+            "Naragsak Balay",
+            "Burol Salawsaw",
+            "Vinta",
+            "Araw"
+        ] ,
+	"spyNames": [
+			"Buhawi",
+			"Habagat",
+			"Hangin",
+			"Bagyo",
+			"Araw",
+			"Amihan",
+			"Maganda",
+			"Mayumi",
+			"Luzviminda",
+			"Reyna"
+	]
+    },
+    {
+        "name": "Astghayin Jur Corporation",
+        "leaderName": "Narine Ohannesyan",
+        "adjective": ["Astghiner"],
+        "startBias": ["Hill"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Hetanism",
+
+        "startIntroPart1": "Barev dzez. This is Astghayin Jur Corporation, your no. 1 supplier of your spring water and here's a word from our CEO, Narine Ohannesyan.",
+        "startIntroPart2": "(Translated in English by Thiespaux Medianet, interview originally spoken in Armenian language) The mountains of Caucasus has gave us the glory of clean and tasty water blessed by the rains that Lord God has gave us from the sky above. From the fundings of the nation of Armenia and her diaspora, we have created the Astghayin Jur Corporation, a spring water bottling company serving fresh and clean water almost all countries all around the Earth except Azerbaijan, North Korea and Cuba. But today, I have done everything in this planet and leave the Earth for life, so I bought a spaceship with my people and move to the faraway dark skies and were here at New Earth and starting a new life with hope.",
+        "declaringWar": "Inch’ anamot’ mard. Menk’ ch’enk’ handurzhum dzer gortsoghut’yunnery. DU ARZHANI YES MERRNELU!",
+        "attacked": "Im geghets’ik demk’y k’ez anpayman kstipi partvel paterazmum. Du ch’es?",
+        "defeated": "You know I'm beautiful, maybe you can give me a second chance? (^_-)",
+        "introduction": "Barev! This is Astghayin Jur Corporation. Wanna buy and drink my bottled spring water?",
+        "neutralHello": "Inch’ e k’ez petk’, kheghch chanaparhord?",
+        "hateHello": "*slaps you to the face*",
+        "tradeRequest": "Karogh yenk’ t’eyi yndmijum unenal?",
+
+        "outerColor": [30, 5, 247],
+        "innerColor": [255, 171, 3],
+        "uniqueName": "Endless Vartavar",
+        "uniques": [
+            "[+1 Gold] from [River] tiles [in all cities]",
+            "[+1 Food, +1 Culture, +1 Production] from every [Mountain]"
+        ],
+        "cities": [
+            "Narinekert",
+            "Payk'ar",
+            "Gisastgh",
+            "Hrashk’ Blurner",
+            "Ardyunahanum",
+            "P’aylogh Arev"
+            "Champ’vordik’aghak’",
+            "Lerrnagagat",
+            "Tigrangyugh",
+            "Antarry",
+            "Chahichogyugh",
+            "Andzrevokert",
+            "Geghets’ik",
+            "Nor Hogh",
+            "Pashtpan",
+            "Oghegortsaran",
+            "Mets Sp’yurrk’",
+            "Vayrejk’i Goti",
+            "Yerkink’",
+            "Jri Kat’il",
+            "Hushahamalir",
+            "Hishatakut’yun"
+        ],
+	 "spyNames": [
+			"Hayk",
+			"Samvel",
+			"Mkrtich",
+			"Vigen",
+			"Vartan",
+			"Iskouhi",
+			"Marine",
+			"Seta",
+			"Vartuhi",
+			"Ani"
+	]
+    },
+    {
+        "name": "Beth Nahrain Council",
+        "leaderName": "Malko Solomon",
+        "adjective": ["Neo-Mesopotamian"],
+        "startBias": ["Avoid [Tundra]"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Khigga",
+
+        "startIntroPart1": "Shlamalokhoun to all of you, from the ethnic minority of the Assyrians, this is the Beth Nahrain Council and we have a sad story to tell to you, player.",
+        "startIntroPart2": "Hello player, my name is Malko Solomon and I'm part of the Assyrian diaspora born from Chicago, United States but I move from Iraq to defend my people and my hometown of my parents, Alqosh from the evil Neo-Caliphate. Our people have been oppressed for over 4000 years of enslavement, destruction and annihilation from multiple different powers of history. We have almost no chance of surviving to the future but we have a plan to save ourselves, we have sold our cars, our homes, our property and even the dress that women wear for the sheikani parties, they have even sold it from any means legal. After that, we have tried to buy a spaceship to a private space company and we did, over a group of over 15,000 Assyrians have joined with consent to the new planet and agreed to go to there. I'm now here in the New Earth, a paradise of new life and hope but I have a question to you: Would you help me to bring back our glory from the past?",
+        "declaringWar": "From the will of Ashurbanipal, we will avenge you.",
+        "attacked": "You will learn a lesson, bastard.",
+        "defeated": "It is true, O LORD, that the Assyrian kings have laid waste these nations and their lands. They have thrown their gods into the fire and destroyed them, for they were not gods but only wood and stone, fashioned by men's hands. Now, O LORD our God, deliver us from his hand, so that all kingdoms on earth may know that you alone, O LORD, are God. - 2 Kings 19: 17-19",
+        "introduction": "Shlamalokhoun from the nation of Assyrians, this is the Beth Nahrain Council.",
+        "neutralHello": "Oh, what do you want?",
+        "hateHello": "Why did you go here? Aren't you my enemy?",
+        "tradeRequest": "From the riches of the Assyrian people...",
+
+        "outerColor": [189, 0, 0],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Kha B Nissan",
+        "uniques": [
+            "[+1 Culture] from [Flood plains] tiles [in all cities]",
+            "[+25]% [Science] [in annexed cities]"         
+        ],
+        "cities": [
+            "Alap",
+            "Beth",
+            "Gamal",
+            "Dalat",
+            "Heh",
+            "Waw"
+            "Zain",
+            "Khet",
+            "Teth",
+            "Yodh",
+            "Kap",
+            "Lamad",
+            "Meem",
+            "Noon",
+            "Simath",
+            "Aih",
+            "Peh",
+            "Sade",
+            "Qoph",
+            "Sheen",
+            "Taw",
+            "Taw Alap"
+        ],
+	 "spyNames": [
+			"Younan",
+			"Isho",
+			"Ashur",
+			"Daniyel",
+			"Shamash",
+			"Shamiram",
+			"Nineveh",
+			"Sumer",
+			"Ishtar",
+			"Inanna"
+	]
+    },
+    {
+        "name": "Native Nations Rehabilitation Project",
+        "leaderName": "Anthony Golden Eagle",
+        "adjective": ["Native"],
+        "startBias": ["Plains"],
+        "preferredVictoryType": "Diplomatic",
+        "favoredReligion": "Pow-wow",
+
+        "startIntroPart1": "Yá'at'ééh! This is the Native Nations Rehabilitation Project or NNRP for short. Created under the help of the US government for protecting the Native American population from extinction. This is yours truly, Anthony GE speaking to the entire reservation.",
+        "startIntroPart2": "NNRP is created by the US government in 2105 in the state of Oklahoma in ways to protect and let the our group, the Native Americans to thrive and progress for themselves. The NNRP has been proven to be a major success and in 2299, a major resettlement of our people has been announced all over the reservation. I didn't know where will be resettled but over 50,000 of our people has accepted via contract to be resettled, we have been asked to go asleep and woke up to a chamber and we have been sedated later on. After that sleep, we woke up and went to a place we never seen before in our lives, a new world waiting for us, a new epic ride, a new run for our people and a new chapter for our bloodline. But I have a question to you, will you help our people thrive and start all over again from destruction and enslavement that the colonizers did to us?",
+        "declaringWar": "We're on the run to decimate you, foreigner!",
+        "attacked": "Get out you scum of the earth! We have been enslaved and destroyed for thousands of years and you want to do it again?",
+        "defeated": "My plans for protecting my people has failed. I guess I'm done right now.",
+        "introduction": "Yá'at'ééh, foreigner! The NNRP welcomes you.",
+        "neutralHello": "This is the NNRP talking.",
+        "hateHello": "Scalping or go away?! Choose one.",
+        "tradeRequest": "From the blessings of the Jóhonaaʼéí, the god of Sun.",
+
+        "outerColor": [29, 94, 0],
+        "innerColor": [0, 195, 255],
+        "uniqueName": "The Great Reservation",
+        "uniques": [
+            "[+10]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+            "Earn [100]% of killed [Military] unit's [Strength] as [Culture]"
+        ],
+        "cities": [
+            "Great Reservation",
+            "Bison Valley",
+            "Three Sisters",
+            "Orange Badlands",
+            "Indian Township",
+            "Little Arizona",
+            "Butte Rocks",
+            "Pocahontastown",
+            "Trail of New Hope",
+            "Hope Village,",
+            "Rock Arches",
+            "Little Rock Colony",
+            "Flowing River",
+            "Oregonia",
+            "Sacred Hills",
+            "Graceful Oasis",
+            "Hunter's Guild",
+            "Skeleton Depression",
+            "Purple Forest",
+            "Pyramid Mesa",
+            "Great Plantation",
+            "Hawk's Village"
+        ],
+	 "spyNames": [
+			"Sequoyah",
+			"Sani",
+			"Micanopy",
+			"Qaletaqa",
+			"Iiniwa",
+			"Wenonah",
+			"Keezheekoni",
+			"Orenda",
+			"Makkitotosimew",
+			"Kolenya"
+	]
+    },
+    {
+        "name": "Sociedade de Cultura Livre",
+        "leaderName": "Larissa Delchiaro de Souza",
+        "adjective": ["Freespeople"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Free Culture",
+
+        "startIntroPart1": "L-BotX: Olá, dear creators! This is Sociedade de Cultura Livre, the nation of open-source creators and contributors. But before we start, here's our word from our great free culture creator, the leader of the Female's Division of Open Source Creators and the president of SdCL, Larissa de Souza!",
+        "startIntroPart2": "Hello, fellow Freespeople! This is my story of how I got here: One day, I found some two guys from Germany who talk with me and recruited me to the open source media industry, I contributed to the Commons with my extensive knowledge for music and arts and gave my creations to the masses of the favelas, no one cared at first but later on, the favela people have appreciated my works and granted me an cultural award of my country which granted me an award of one of the three things, money for a lifetime, fix the favelas with the contribution of the government or go to space and start a new life with your supporters. I chose the third option, say goodbye to some of my people and family, and I'm here in this planet with my astronaut suit building a new life full of happiness, creativity and hope.",
+        "declaringWar": "I've seen people do crime back in the favelas but you, you who are playing this game right now, is commiting war crimes against me and my people.",
+        "attacked": "You've clicked the wrong button because you're the worse criminal scum I've ever seen.",
+        "defeated": "Free culture will never die, even how many lobbying and litigation will you do, you'll never win against us.",
+        "introduction": "Olá! This is Sociedade de Cultura Livre. Do you want to contribute with us?",
+        "neutralHello": "Olá! Any art, music or media to contribute with?",
+        "hateHello": "Seriously, why you're here?",
+        "tradeRequest": "The coders and musicians of SdCL has granted you the following proposals.",
+
+        "outerColor": [0, 110, 0],
+        "innerColor": [255, 215, 35],
+        "uniqueName": "Free-Culture Social Movement",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "[+1 Science] [in all cities]",
+            "[-2 Gold] [in all cities]",
+            "[-1 Production] [in all cities]"
+             ],
+        "cities": [
+            "Criações",
+            "Rio de Cores",
+            "Programadores",
+            "A Praia",
+            "Liberdade",
+            "Sorriso",
+            "Selvas Calmas",
+            "Correntes Quebradas",
+            "Cidade Sol",
+            "Filhos da Esperança",
+            "Little Brasilia",
+            "Amazônia Roxa",
+            "Cidade Livre",
+            "Glóriapolis",
+            "Nova Colômbia",
+            "Colônia do Iguaçu",
+            "Progresso-Avanço",
+            "Terra Novum",
+            "Unificação",
+            "Colinas Nubladas",
+            "Velha Trindade"
+        ],
+	 "spyNames": [
+			"Nixon",
+			"Wagner",
+			"Joaqim",
+			"Rui",
+			"Ximeno",
+			"Lavinía",
+			"Graça",
+			"Alódia",
+			"Clementina",
+			"Ximena"
+	]
+    },
+    {
+        "name": "Gargzinean Imperium",
+        "leaderName": "Lord Sempijol",
+        "adjective": ["Gargzin"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Conscription",
+
+        "startIntroPart1": "Salve! This is the undefeated, the great and the powerful intergalactic empire of Gargzinea. We have took almost all the quadrants of the Milky Way Galaxy and now we are here in New Earth, we will get you!",
+        "startIntroPart2": "Salutations, this is Lord Sempijol, the leader of the Gargzinean Imperium, the lord of all quadrants, the enslaver of all species, the lord of all suns and moons. After we took the Eastern Milky Way, we have found the New Earth full of resources and things to exploit with. A place to play with, isn't it? But can you help me to put peace to this planet and fly the banner of Gargzinea?",
+        "declaringWar": "No one will beat the nation of Gargzinea! *sword salute*",
+        "attacked": "The might of Gargzinea will end you! *sword salute*",
+        "defeated": "One day we will come back, the might of Gargzinea will end you one day!",
+        "introduction": "Yes, we have arrived! Salve to you! This is the Gargzin nobility at your service.",
+        "neutralHello": "The nation of Gargzinea welcomes you.",
+        "hateHello": "Welcome, fool.",
+        "tradeRequest": "The warlords of the Imperium has offered you the following.",
+
+        "outerColor": [68, 39, 255],
+        "innerColor": [0, 0, 0],
+        "uniqueName": "Mighty Nobility of Gargzinea",
+        "uniques": [
+            "[Great General] is earned [33]% faster"
+            "Cities are razed [2] times as fast",
+            "\"Borrows\" city names from other civilizations in the game"
+             ],
+        "cities": [
+            "Gargzinea Colony"
+        ],
+	 "spyNames": [
+			"Jaleki",
+			"T'iridag",
+			"Esmeiro",
+			"Hazatka",
+			"Yrdakil",
+			"Samharah",
+			"Eshmina",
+			"Delilenia",
+			"Hatrineh",
+			"Velminne"
+	]
+    },
+    {
+        "name": "Octavian Aquatics",
+        "leaderName": "Octavia Thompson",
+        "adjective": ["Fishkeeper"],
+        "startBias": ["Jungle"],
+        "preferredVictoryType": "Diplomatic",
+        "favoredReligion": "Nature Worship",
+
+        "startIntroPart1": "Hello and Bonjour! This is Octavia Aquatics, the world's largest supplier of aquarium fish and supplies. We ship worldwide now with 50% discount at first purchase!",
+        "startIntroPart2": "*opens video clip* I'm Octavia Thompson, CEO of this aquatics company named after me. But do you want to know how I get here in this new place? Well, I got you covered. I worked as the owner of my aquarium company and I heard there was a contest to create the best aquarium setup and whoever company wins, will be sent to paradise called 'New Earth'. I won first place in the main category and I got here by the spaceship. Any questions? *the clip cuts to black*",
+        "declaringWar": "*laughs* Seriously? Did you know, I worked in the Canadian military before as a navy officer? Well, you'll see your demise!",
+        "attacked": "Did I smell dead aquarium fish?",
+        "defeated": "See you in jail, fool.",
+        "introduction": "Hello, this is Octavian Aquatics. Selling aquarium stuff all around New Earth.",
+        "neutralHello": "Currently selling discus, fresh from planet Earth, only 500 credits.",
+        "hateHello": "Seriously, why you're here?",
+        "tradeRequest": "Hello, Octavia here. Here's my offer.",
+
+        "outerColor": [175, 110, 0],
+        "innerColor": [0, 140, 255],
+        "uniqueName": "Miss Aquatic Devushka",
+        "uniques": [
+            "[+1] Movement <in [Water] tiles>",
+            "[+1 Gold, +1 Science] from every [Aquaculture]",
+             "All newly-trained [{Military} {Water}] units [in all cities] receive the [Coastal Raider I] promotion"
+             ],
+        "cities": [
+            "Octavia",
+            "Blisburg",
+            "Discus Stream",
+            "Navyville",
+            "Regimentia",
+            "Redwater",
+            "Aquascape",
+            "Fish-on-Bay",
+            "Union River",
+            "Tetraby",
+            "Arkbay",
+            "Lighthouse Town",
+            "Sailorsea",
+            "Ironclad",
+            "Maple Hillstream",
+            "Filterwater",
+            "Cascadia",
+            "Airhill",
+            "Glass Factory",
+            "Sinkhole Bay"
+        ],
+        "spyNames": [
+			"Elliot",
+			"Joshua",
+			"Orvin",
+			"Francois",
+			"Lésiphor",
+			"Sarah",
+			"Claudine",
+			"Anne-Sophie",
+			"Dexivinia",
+			"Simone"
+	]
+    }
 ]
