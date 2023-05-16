@@ -1,0 +1,343 @@
+[
+
+      {
+
+		"name": "Optimum Pride",		"replaces": "Light Buggy",
+
+		"uniqueTo": "Kalayaan",
+
+		"unitType": "Armored",
+
+		"movement": 4,
+
+		"strength": 14,
+
+		"cost": 78,
+
+		"requiredTech": "Portable Power Sources",
+
+		//"requiredResource": "Titanium",
+
+		"upgradesTo": "Anti-Air Buggy",
+
+		"obsoleteTech": "Missiles",
+
+		"uniques": [
+
+			"Can move after attacking",
+
+			"No defensive terrain bonus",
+
+			"[-22]% Strength <vs cities> <when attacking>",
+
+			"May upgrade to [Anti-Air Buggy] through ruins-like effects",
+
+			"Never appears as a Barbarian unit"
+
+		],
+
+		"hurryCostModifier": 20,
+
+		"attackSound": "machinegun",
+
+		"civilopediaText": [
+
+			{
+
+				"extraImage": "TileSets/FantasyHex/Units/Light Buggy",
+
+				"imageSize": 64
+
+			},
+
+			{
+
+				"Separator": true
+
+			},
+
+			{
+
+				"text": "Kalayaan Industry's powerful giant buggy."
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Bolten-10",
+
+		"replaces": "Assault Mecha",
+
+		"uniqueTo": "Kalayaan",
+
+		"unitType": "Close Range Mech",
+
+		"movement": 3,
+
+		"strength": 50,
+
+		"cost": 490,
+
+		"requiredTech": "Combat Mechas",
+
+		"requiredResource": "Titanium",
+
+		"uniques": [
+
+			"Mech",
+
+			"Can move after attacking",
+
+			"No defensive terrain bonus",
+
+			"[+50]% Strength <vs [Armored] units>",
+
+			"Only available <in cities with a [Mechanized Unit Facility]>",
+
+			"Consumes [2] [Titanium]",
+
+			"Never appears as a Barbarian unit"
+
+		],
+
+		"promotions": ["Beast Fighter", "Ignore terrain cost"],
+
+		"hurryCostModifier": 20,
+
+		"attackSound": "shot",
+
+		"civilopediaText": [
+
+			{
+
+				"extraImage": "TileSets/FantasyHex/Units/ZANKER Mecha",
+
+				"imageSize": 64
+
+			},
+
+			{
+
+				"Separator": true
+
+			},
+
+			{
+
+				"text": "Dismantling mecha created by Kalayaan Robotics Agency."
+
+			}
+
+		]
+
+	},
+
+        {
+
+		"name": "Intergalactic Fedayi",
+
+		"uniqueTo": "Astghayin Jur Corporation",
+
+		"replaces": "Colony Rifleman",
+
+		"unitType": "Sniper",
+
+		"movement": 3,
+
+		"range": 1,
+
+		"strength": 13,
+
+		"cost": 80,
+
+		"requiredTech": "Next-Gen Armaments",
+
+		"obsoleteTech": "Exoskeletons",
+
+		"upgradesTo": "Exoframe Sniper",
+
+		"uniques": [
+
+			"May upgrade to [Exoframe Sniper] through ruins-like effects",
+
+			"Never appears as a Barbarian unit"
+
+		],
+
+		"attackSound": "shot"
+
+        },
+
+        {
+
+		"name": "Pathfinding Buggy",
+
+                "uniqueTo": "Native Nations Rehabilitation Project",
+
+		"replaces": "Light Buggy",
+
+		"unitType": "Armored",
+
+		"movement": 5,
+
+		"strength": 14,
+
+		"cost": 75,
+
+		"requiredTech": "Portable Power Sources",
+
+		//"requiredResource": "Titanium",
+
+		"upgradesTo": "Anti-Air Buggy",
+
+		"obsoleteTech": "Missiles",
+
+		"uniques": [
+
+			"Can move after attacking",
+
+			"No defensive terrain bonus",
+
+			"[-33]% Strength <vs cities> <when attacking>",
+
+			"May upgrade to [Anti-Air Buggy] through ruins-like effects",
+
+			"Never appears as a Barbarian unit"
+
+		],
+
+		"hurryCostModifier": 20,
+
+		"attackSound": "machinegun"
+
+        },
+
+        {
+
+		"name": "Plasma Skullship",
+
+                "uniqueTo": "Gargzinean Imperium",
+
+		"replaces": "Ray Wing",
+
+		"unitType": "Aerocraft",
+
+		"movement": 1,
+
+		"strength": 60,
+
+		"rangedStrength": 55,
+
+		"range": 7,
+
+		"interceptRange": 5,
+
+		"cost": 620,
+
+		"requiredTech": "Exotic Quantum Physics",
+
+		"requiredResource": "Ulframite",
+
+		"uniques": [
+
+			"[100]% chance to intercept air attacks",
+
+			"[+50]% Strength when performing Air Sweep",
+
+			"[+50]% Strength <vs [non-air] units>",
+
+			"[+150]% Strength <vs [Air] units>",
+
+			"[+100]% Strength <vs [Satellite] units> <with [80]% chance> <when attacking>",
+
+			"[-33]% Strength <vs cities>",
+
+			"Only available <in cities with a [Aerocraft Hangar]>",
+
+			"Limited to [3] per Civilization",
+
+			"Only available <after adopting [Radiant Ideology]>",
+
+			"Consumes [4] [Ulframite]",
+
+			"Never appears as a Barbarian unit"
+
+		],
+
+		"attackSound": "RapidLaser",
+
+		"civilopediaText": [
+
+			{
+
+				"text": "A large skull shaped satellite capable of destroying a city. Created for invading planets."
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Private Rebel",
+
+		"uniqueTo": "Octavian Aquatics",
+
+		"replaces": "Frontier Militia",
+
+		"unitType": "Infantry",
+
+		"movement": 2,
+
+		//"range": 1,
+
+		"strength": 9,
+
+		//"rangedStrength": 8,
+
+		"cost": 40,
+
+		"obsoleteTech": "Next-Gen Armaments", //Exoskeletons?
+
+		"upgradesTo": "Colony Rifleman",
+
+		"uniques": [
+
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+
+			"Never appears as a Barbarian unit"
+
+		],
+
+		"promotions": ["Accuracy I"],
+
+		"attackSound": "shot",
+
+		"civilopediaText": [
+
+			{
+
+				"extraImage": "TileSets/FantasyHex/Units/Frontier Militia",
+
+				"imageSize": 64
+
+			},
+
+			{
+
+				"Separator": true
+
+			},
+
+			{ "text": "Basically just a person in an atmo-suit and a gun but socialist." }
+
+		]
+
+	},
+
+]
