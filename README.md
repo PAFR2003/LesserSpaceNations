@@ -167,7 +167,7 @@ Octavian Aquatics
 * Diverse but ruled under communist party with traced origins from Canada and USA
 
  Type of company:
-* Aquarium supplies company and aquarium fish seller
+* Aquarium supplies company and tropical aquarium fish distributor
 
  Leader's Info:
  
