@@ -369,7 +369,7 @@
         "tradeRequest": "Hello, Octavia here. Here's my offer.",
 
         "outerColor": [175, 110, 0],
-        "innerColor": [0, 140, 255],
+        "innerColor": [72, 32, 160],
         "uniqueName": "Miss Aquatic Devushka",
         "uniques": [
             "[+1] Movement <in [Water] tiles>",
