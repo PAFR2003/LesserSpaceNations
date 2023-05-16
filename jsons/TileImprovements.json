@@ -46,7 +46,7 @@
 		"name": "Fish Farm",
 		"uniqueTo": "Octavian Aquatics",
 		"terrainsCanBeBuiltOn": [
-                     "Lakes",,
+                     "Lakes",
                      "Coast"
                 ],
 		"gold": 1,
