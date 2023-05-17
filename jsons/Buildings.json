@@ -98,6 +98,8 @@
 	},
 	{
 		"name": "Sea Raider Outpost",
+		"uniqueTo": "Burcad-badeedda Xeebta",
+		"replaces": "Floating Harbor",
 		"cost": 60,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -111,7 +113,7 @@
 		"requiredTech": "Hydrodynamics",
 		"civilopediaText": [
 			{
-				"text": "Instead of having to build on land and roll the ship into the sea, why not build directly on the sea?"
+				"text": "Used by BX to destroy hostile sea animals."
 			}
 		]
 	}
