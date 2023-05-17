@@ -264,3 +264,9 @@ Burcad-badeedda Xeebta
 >* Speaks Somali and English
 >* He was a former pirate but got arrested when he was 23 years old. Spent over 20 years of his life in Hargeisha Prison.
 >* He's a devout Muslim.
+
+ Farewell statement:
+
+*"Well, I don't need a statement for this but please, take care at my brother in Hargeisha."*
+
+
