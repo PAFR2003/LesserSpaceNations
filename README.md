@@ -39,6 +39,8 @@ Translation:
 
 *- Best wishes, N. Ohannesyan*
 
+*Astghayin Jur Corporation Piclick final post before its deletion, 2299*
+
 ## Beth Nahrain Council
 
  Second Faction:
@@ -104,7 +106,7 @@ Translation:
 
 *"I'm already in the spaceship guys, maybe it is the time to say farewell. Thank you for all the people who supported me. Even if I left this planet altogether, please and please, still support our local farmers, okay?"*
 
-*- Kalayaan CEO Jose Magdalo's Piclick account*
+*- Kalayaan CEO Jose Magdalo's Piclick account, 2299*
 
 ## Native Nations Rehabilitation Project (NNRP)
 
@@ -136,7 +138,7 @@ Native Nations Rehabilitation Project
  
 *"Dear people of the reservation, I announce my departure to this planet to save our bloodline for the future generations to come. As I leave this planet, I organize leader Henry Afraid-of-thunder to be the new leader of the great Native Nations."*
 
-*-Resignation of Anthony Golden Eagle, NNTV, 2299*
+*-Resignation of Anthony Golden Eagle, NNTV live broadcast, 2299*
 
 ## Sociedade de Cultura Livre
 
@@ -235,4 +237,4 @@ Octavian Aquatics
  
 *"Come come baby we're liberating New Earth!"*
 
-*- Octavia Thompson's suspended Piclick account*
+*- Octavia Thompson's post on her suspended Piclick account*
