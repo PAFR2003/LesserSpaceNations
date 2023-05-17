@@ -429,8 +429,8 @@
         "hateHello": "We declared you as Persona Non Grata here at BX, you're not allowed to go here.",
         "tradeRequest": "The riches of the coast has gave you the following:",
 
-        "outerColor": [255, 255, 255],
-        "innerColor": [0, 0, 255],
+        "outerColor": [0, 0, 255],
+        "innerColor": [255, 255, 255],
         "uniqueName": "From Guns to Prosperity",
         "uniques": [
             "Starts with [Hydrodynamics]",
