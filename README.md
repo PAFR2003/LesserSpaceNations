@@ -235,6 +235,6 @@ Octavian Aquatics
 
  Farewell statement:
  
-*"Come come baby we're liberating New Earth!"*
+*"Come, come on baby we're liberating New Earth!"*
 
 *- Octavia Thompson's post on her suspended Piclick account*
