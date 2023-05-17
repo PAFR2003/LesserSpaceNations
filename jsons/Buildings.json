@@ -96,4 +96,23 @@
 			}
 		]
 	},
+	{
+		"name": "Sea Raider Outpost",
+		"cost": 60,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Enables you to build Hydrofoil units",
+			"Military",
+			"Prefab",
+			"Must be next to [Coast]",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Hydrodynamics",
+		"civilopediaText": [
+			{
+				"text": "Instead of having to build on land and roll the ship into the sea, why not build directly on the sea?"
+			}
+		]
+	}
 ]
