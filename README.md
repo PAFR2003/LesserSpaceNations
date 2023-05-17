@@ -258,8 +258,8 @@ Burcad-badeedda Xeebta
 >* Omar Xaaf
 >* DOB: 17/08/2253 (46-47)
 >* Born in Berbera, Somaliland, Somalia
->* Convicted sea pirate, now an excon, self-taught while in the prison
->* Former pirate, now a leader of BX
+>* Convicted sea pirate, now an excon
+>* Former pirate, now a leader of BX, self taught, he learned to read and write and learn and speak English while in the prison
 >* Single
 >* Speaks Somali and English
 >* He was a former pirate but got arrested when he was 23 years old. Spent over 20 years of his life in Hargeisha Prison.
