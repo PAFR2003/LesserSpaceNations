@@ -27,6 +27,18 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 >* She was followed by many people in her Piclick account (futuristic version of Instagram)
 >* She's a very beautiful woman but kinda snobbish
 
+Farewell statement:
+
+*«Ողջույն, սիրելի ժողովուրդ։ Ես Նարինե Օհաննեսյանն եմ և հայտարարում եմ իմ մեկնումը Երկիր մոլորակ՝ հեռավոր տիեզերքից նոր դրախտում նոր կյանք սկսելու համար։ Երբ ես հեռացա այս մոլորակից, փակեցի «Աստղային ջուր» կորպորացիայի բոլոր մասնաճյուղերը և  դա ջրի թորման գործարաններ են, քանի որ ես պատրաստվում եմ միասին լքել այս մոլորակը, որովհետև ես ամեն ինչ արել եմ այս մոլորակում, որպեսզի ծառայեմ բոլորին: Շնորհակալություն բոլորի համար, ովքեր ամբողջ աշխարհում աջակցում են իմ արտադրանքին»:  **
+
+*-Լավագույն մաղթանքներով՝ Ն.Օհաննեսյան*
+
+Translation:
+
+*"Hello, dear people. My name is Narine Ohannesyan and I announce my departure to planet Earth to start a new life in a new paradise from the faraway cosmos. As I left this planet, I closed all of the branches of Astghayin Jur Corporation and it's water distilleries as I prepare for to leave this planet all together because I have done everything in this planet to serve everyone. Thanks for everyone around the world supporting my products."*
+
+*- Best wishes, N. Ohannesyan*
+
 ## Beth Nahrain Council
 
  Second Faction:
@@ -51,6 +63,12 @@ Beth Nahrain Council
 >* He is fluent in both Western and Eastern Neo-Aramaic and English
 >* He became a professor in a university in Chicago, Illinois
 >* He's a bookworm kind of guy, likes reading both on paper and digital
+
+Farewell statement:
+
+*"Shlamaloukhoun, Assyrian people all over the world. Our spaceship is ready to go towards the New Earth."*
+
+*"- Malko Solomon's Piclick account final post"*
 
 ## Kalayaan
 
@@ -77,6 +95,16 @@ Kalayaan
 >* He is fluent in Tagalog, Hiligaynon, Ilocano and English languages
 >* He was born in a poor family in which he was the second eldest son of Magdalo family
 >* He has a very big farmland which was seized by the greedy government of the Philippines in which was ruled by a dictator at that time
+
+Farewell statement:
+
+*"Nasa spaceship na ako, siguro hangang dito nalang tayo ngayon. Maraming salamat pala sa mga sumuporta sa akin. Kahit wala na ako dito sa planeta na ito, please, suportahan niyo parin ang mga local farmers natin ah."*
+
+Translation:
+
+*"I'm already in the spaceship guys, maybe it is the time to say farewell. Thank you for all the people who supported me. Even if I left this planet altogether, please and please, still support our local farmers, okay?"*
+
+*- Kalayaan CEO Jose Magdalo's Piclick account*
 
 ## Native Nations Rehabilitation Project (NNRP)
 
