@@ -238,3 +238,22 @@ Octavian Aquatics
 *"Come, come on baby we're liberating New Earth!"*
 
 *- Octavia Thompson's post on her suspended Piclick account*
+
+## Burcad-badeedda Xeebta
+
+ Eighth Faction
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Burcad-badeedda%20Xeebta.png)
+Burcad-badeedda Xeebta
+
+ Ethnic origins:
+* Somalians and its diaspora
+
+ Type of company:
+* Sea piracy organization
+
+ Leader's Info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Omar%20Xaaf.png)
+>* Omar Xaaf
+>* DOB: 17/08/2253 (46-47)
