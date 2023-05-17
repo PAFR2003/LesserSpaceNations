@@ -165,6 +165,14 @@ Sociedade de Cultura Livre
 >* Joined at the Commons at the age of 22
 
  Farewell statement:
+ 
+*"This is an official message from the SdCL, Brazilian government and the Commons Council*
+
+*Hello, I am Larissa de Souza, the leader of SdCL from Brazil. Over 16,000 participants all over the earth including me have agreed to move to New Earth to start spreading the good word of Free Culture to the other inhabitants of the paradise.*
+
+*By the help of Brazilian government, we have three spaceships sending us to the new world to start a new life and to build a new society with a new hope"*
+
+*- Final Video, SdCL Official NewVID (futuristic version of YouTube) video, 2298*
 
 ## Gargzinean Imperium
 
@@ -192,6 +200,10 @@ Gargzinean Imperium
 >* He was the ruler of his planet, Gargzinea
 >* He invaded most of the Milky Way Galaxy
 
+ Farewell statement:
+
+*None*
+
 ## Octavian Aquatics
  
  Seventh Faction:
@@ -217,3 +229,10 @@ Octavian Aquatics
 >* Speaks English and some French
 >* Owner and CEO of Octavian Aquatics
 >* Joined an undisclosed communist party in Canada around 2280's according to a report by international media outlets and WCRC
+
+
+ Farewell statement:
+ 
+*"Come come baby we're liberating New Earth!"*
+
+*- Octavia Thompson's suspended Piclick account*
