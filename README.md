@@ -27,7 +27,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 >* She was followed by many people in her Piclick account (futuristic version of Instagram)
 >* She's a very beautiful woman but kinda snobbish
 
-Farewell statement:
+ Farewell statement:
 
 *«Ողջույն, սիրելի ժողովուրդ։ Ես Նարինե Օհաննեսյանն եմ և հայտարարում եմ իմ մեկնումը Երկիր մոլորակ՝ հեռավոր տիեզերքից նոր դրախտում նոր կյանք սկսելու համար։ Երբ ես հեռացա այս մոլորակից, փակեցի «Աստղային ջուր» կորպորացիայի բոլոր մասնաճյուղերը և  դա ջրի թորման գործարաններ են, քանի որ ես պատրաստվում եմ միասին լքել այս մոլորակը, որովհետև ես ամեն ինչ արել եմ այս մոլորակում, որպեսզի ծառայեմ բոլորին: Շնորհակալություն բոլորի համար, ովքեր ամբողջ աշխարհում աջակցում են իմ արտադրանքին»:*
 
@@ -64,7 +64,7 @@ Beth Nahrain Council
 >* He became a professor in a university in Chicago, Illinois
 >* He's a bookworm kind of guy, likes reading both on paper and digital
 
-Farewell statement:
+ Farewell statement:
 
 *"Shlamaloukhoun, Assyrian people all over the world. Our spaceship is ready to go towards the New Earth."*
 
@@ -96,7 +96,7 @@ Kalayaan
 >* He was born in a poor family in which he was the second eldest son of Magdalo family
 >* He has a very big farmland which was seized by the greedy government of the Philippines in which was ruled by a dictator at that time
 
-Farewell statement:
+ Farewell statement:
 
 *"Nasa spaceship na ako, siguro hangang dito nalang tayo ngayon. Maraming salamat pala sa mga sumuporta sa akin. Kahit wala na ako dito sa planeta na ito, please, suportahan niyo parin ang mga local farmers natin ah."*
 
@@ -121,6 +121,10 @@ Native Nations Rehabilitation Project
 
  Leader's Info:
 
+*"Dear people of the reservation, I announce my departure to this planet to save our bloodline for the future generations to come. As I leave this planet, I organize leader Henry Afraid-of-thunder to be the new leader of the great Native Nations."*
+
+*-Resignation of Anthony Golden Eagle, NNTV, 2299*
+
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Anthony%20Golden%20Eagle.png)
 >* Anthony Golden Eagle
 >* DOB: 04/23/2244 (55-56)
@@ -131,6 +135,8 @@ Native Nations Rehabilitation Project
 >* He speaks Navajo and English
 >* He was a chief of his small town
 >* He was an open socialist and anti-imperialist
+
+ Farewell statement:
 
 ## Sociedade de Cultura Livre
 
