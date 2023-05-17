@@ -121,10 +121,6 @@ Native Nations Rehabilitation Project
 
  Leader's Info:
 
-*"Dear people of the reservation, I announce my departure to this planet to save our bloodline for the future generations to come. As I leave this planet, I organize leader Henry Afraid-of-thunder to be the new leader of the great Native Nations."*
-
-*-Resignation of Anthony Golden Eagle, NNTV, 2299*
-
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Anthony%20Golden%20Eagle.png)
 >* Anthony Golden Eagle
 >* DOB: 04/23/2244 (55-56)
@@ -137,6 +133,10 @@ Native Nations Rehabilitation Project
 >* He was an open socialist and anti-imperialist
 
  Farewell statement:
+ 
+*"Dear people of the reservation, I announce my departure to this planet to save our bloodline for the future generations to come. As I leave this planet, I organize leader Henry Afraid-of-thunder to be the new leader of the great Native Nations."*
+
+*-Resignation of Anthony Golden Eagle, NNTV, 2299*
 
 ## Sociedade de Cultura Livre
 
@@ -163,6 +163,8 @@ Sociedade de Cultura Livre
 >* Speaks Portuguese and English, a little knowledge on Spanish language
 >* She was born in a lower middle-class family where she is the eldest daughter
 >* Joined at the Commons at the age of 22
+
+ Farewell statement:
 
 ## Gargzinean Imperium
 
