@@ -410,5 +410,65 @@
 			"Dexivinia",
 			"Simone"
 	]
+    },
+    {
+        "name": "Burcad-badeedda Xeebta",
+        "leaderName": "Omar Xaaf",
+        "adjective": ["Dadka Badda"],
+        "startBias": ["Desert"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Piracy",
+
+        "startIntroPart1": "Salaam alaykum. I'm Omar and I'm a former pirate from the coast of Berbera, Somaliland",
+        "startIntroPart2": "Me and my brother were pirates back on the Earth that are arrested and imprisoned by the Somali police. But one day, during our prison time, they announced that they were randomly selecting 5,000 random Somalians on a government raffle to be sent to the New Earth. I joined and so my fellow inmates and my brother, nearly everyone joined in that raffle and I was the chosen, in fact the 5,000th, the last person, Allah probably gave it to me as a gift to forgive me from my wrongdoings. And as I speak to everyone, inmate or not, I will start a new life here in this planet with hope and freedom to every Somalian living in this paradise!",
+        "declaringWar": "The people of the coast has denounce you and we will never tolerate your actions.",
+        "attacked": "Did you hate me because I'm a former convict?",
+        "defeated": "Allah, please forgive us.",
+        "introduction": "Salaam alaykum, this is Burcad-badeedda Xeebta, The Pirates of the Coasts. And no, we're not here to raid some coastal cities or something... yet.",
+        "neutralHello": "Salaam alaykum.",
+        "hateHello": "We declared you as Persona Non Grata here at BX, you're not allowed to go here.",
+        "tradeRequest": "The riches of the coast has gave you the following:",
+
+        "outerColor": [255, 255, 255],
+        "innerColor": [0, 0, 255],
+        "uniqueName": "From Guns to Prosperity",
+        "uniques": [
+            "Starts with [Hydrodynamics]",
+            "[+15]% Strength <within [1] tiles of a [Desert]>",
+            "[+25]% Production when constructing [Water] units [in all cities]"
+        ],
+        "cities": [
+            "Xoriyad",
+            "Amaan",
+            "Xabsi La Dumiyey",
+            "Markab Daxalaystay",
+            "Ciid Xeebeedka",
+            "Walaal Abshir"
+            "Duufaanta",
+            "Badmaax",
+            "Geedka Dambe",
+            "Cadceed Cas",
+            "Saldhig Ciidan",
+            "Daafac",
+            "Qubuuraha Markabka",
+            "Dabaylaha",
+            "Isha Biyaha",
+            "Xeebta Roobka",
+            "Afrikada Cusub",
+            "Rasaas",
+            "Dejinta Wabiga"
+        ] ,
+	"spyNames": [
+			"Muxumed",
+			"Gurxan",
+			"Wardi",
+			"Naxar",
+			"Yalaxoow",
+			"Qaafo",
+			"Raalliyo",
+			"Ismahaan",
+			"Caaliyah",
+			"Gaylamo"
+	]
     }
 ]
