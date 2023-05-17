@@ -225,7 +225,7 @@ Octavian Aquatics
 >* Octavia Thompson
 >* DOB: 29/03/2263 (36-37)
 >* Born in St. John's, Newfoundland and Labrador, Canada
->* Felon (DUI-related), alleged fraudster and considered "dangerous agent" by World Criminal Records Center (WCRC)
+>* Felon (DUI-related), alleged grifter, fake news queen and considered "dangerous agent" by World Criminal Records Center (WCRC)
 >* Formerly a Navy, currently a tropical fish seller
 >* Single (currently divorced)
 >* Speaks English and some French
