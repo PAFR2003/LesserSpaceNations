@@ -226,7 +226,7 @@ Octavian Aquatics
 >* DOB: 29/03/2263 (36-37)
 >* Born in St. John's, Newfoundland and Labrador, Canada
 >* Felon (DUI-related), alleged grifter, fake news queen and considered "dangerous agent" by World Criminal Records Center (WCRC)
->* Formerly a Navy, currently a tropical fish seller
+>* Formerly a Navy conscript, currently a tropical fish seller
 >* Single (currently divorced)
 >* Speaks English and some French
 >* Owner and CEO of Octavian Aquatics
@@ -258,7 +258,7 @@ Burcad-badeedda Xeebta
 >* Omar Xaaf
 >* DOB: 17/08/2253 (46-47)
 >* Born in Berbera, Somaliland, Somalia
->* Convicted sea pirate, now an excon
+>* Convicted sea pirate, now an excon, self-taught while in the prison
 >* Former pirate, now a leader of BX
 >* Single
 >* Speaks Somali and English
