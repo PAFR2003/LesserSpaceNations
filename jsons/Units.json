@@ -169,5 +169,37 @@
 			},
 			{ "text": "Basically just a person in an atmo-suit and a gun but socialist." }
 		]
+	},
+    {
+		"name": "Doon Hubaysan",
+		"uniqueTo": "Burcad-badeedda Xeebta",
+		"replaces": "Light Hydrofoil",
+		"unitType": "Close Range Water",
+		"movement": 5,
+		"strength": 12,
+		"cost": 50,
+		"requiredTech": "Hydrodynamics",
+		"uniques": [
+			"Cannot enter ocean tiles <before discovering [Astronomy]>",
+			"Only available <in cities with a [Floating Harbor]>",
+			"May upgrade to [Assault Hydrofoil] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"upgradesTo": "Assault Hydrofoil",
+		"promotions": ["Boarding Party I"],
+		//"obsoleteTech": "Astronomy",
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Light Hydrofoil",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "The beast of the BX. This small watercraft is used for raiding other ships to steal their supplies and luxuries."
+			}
+		]
 	}
 ]
