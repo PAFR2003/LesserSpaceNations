@@ -100,6 +100,8 @@
 		"name": "Sea Raider Outpost",
 		"uniqueTo": "Burcad-badeedda Xeebta",
 		"replaces": "Floating Harbor",
+		"cityStrength": 5,
+		"cityHealth": 10,
 		"cost": 60,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
