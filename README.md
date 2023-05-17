@@ -257,3 +257,10 @@ Burcad-badeedda Xeebta
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Omar%20Xaaf.png)
 >* Omar Xaaf
 >* DOB: 17/08/2253 (46-47)
+>* Born in Berbera, Somaliland, Somalia
+>* Convicted sea pirate, now an excon
+>* Former pirate, now a leader of BX
+>* Single
+>* Speaks Somali and English
+>* He was a former pirate but got arrested when he was 23 years old. Spent over 20 years of his life in Hargeisha Prison.
+>* He's a devout Muslim.
