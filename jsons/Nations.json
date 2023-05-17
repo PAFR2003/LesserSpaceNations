@@ -378,7 +378,7 @@
              ],
         "cities": [
             "Octavia",
-            "Blisburg",
+            "Bilsburg",
             "Discus Stream",
             "Navyville",
             "Regimentia",
@@ -396,7 +396,9 @@
             "Cascadia",
             "Airhill",
             "Glass Factory",
-            "Sinkhole Bay"
+            "Sinkhole Bay",
+            "Super Red",
+            "Great Reef"
         ],
         "spyNames": [
 			"Elliot",
