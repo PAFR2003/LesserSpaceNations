@@ -122,7 +122,7 @@
 	{
 		"name": "Open Access Center",
 		"uniqueTo": "Yetemeramarīwochi Mahiberi",
-		"replaces", "Field Lab",
+		"replaces": "Field Lab",
 		"hurryCostModifier": 25,
 		"science": 3,
 		"maintenance": 1,
