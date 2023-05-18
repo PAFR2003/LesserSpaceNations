@@ -118,5 +118,23 @@
 				"text": "Used by BX to destroy hostile sea animals."
 			}
 		]
-	}
+	},
+	{
+		"name": "Open Access Center",
+		"uniqueTo": "Yetemeramarīwochi Mahiberi",
+		"replaces", "Field Lab",
+		"hurryCostModifier": 25,
+		"science": 3,
+		"maintenance": 1,
+		"uniques": [
+			"[+2 Science] from [Research Base] tiles [in this city]",
+			"[+1 Science, +1 Culture] from [Artifacts] tiles [in this city]"
+		],
+		"requiredTech": "Computing",
+		"civilopediaText": [
+			{
+				"text": "Field Lab for the poor people. Free and Open Access research papers are available here."
+			}
+		]
+	}	
 ]
