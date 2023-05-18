@@ -301,6 +301,6 @@ Yetemeramarīwochi Mahiberi
 
 *"Hello people, I just wanted to say that I am leaving Earth and moving to another planet. Thanks for all of the supporters of The Researcher's Guild (also known as Yetemeramarīwochi Mahiberi in my nation).*
 
-*NB: We are closing all of our servers in the planet so do some backup for you research papers*
+*NB: We are closing all of our servers in this planet so do some backup for you research papers*
 
 *- Official statement released by the official TRG website before its shutdown, 2299*
