@@ -496,8 +496,7 @@
         "uniqueName": "Defenders of Free Literacy",
         "uniques": [
             "[+20]% combat bonus for [Non-City] units fighting in [Friendly Land]",
-            "[+1 Science] from every [Jungle] <after discovering [Genetics]>",
-            "[+4 Science] from every [Natural Wonder]
+            "[+1 Science] from every [Jungle] <after discovering [Genetics]>"
         ],
         "cities": [
             "Timihiriti Bētu",
