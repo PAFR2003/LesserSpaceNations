@@ -292,3 +292,15 @@ Yetemeramarīwochi Mahiberi
 >* Born in Aksum, Tigray Region, Ethiopia
 >* Overall clean record
 >* She has BS in Politics a.k.a. a lawyer
+>* Married to a man named "Meherka Duri Yitayew"
+>* Speaks Tigrinya, Amharic, Oromo and English
+>* She was born in a rich family in which she was the 2nd eldest of her family
+>* Notable alcoholic, she likes 'tej', a mead like alcohol as she mentioned in one of her interviews.
+
+ Farewell statement:
+
+*"Hello people, I just wanted to say that I am leaving Earth and moving to another planet. Thanks for all of the supporters of The Researcher's Guild (also known as Yetemeramarīwochi Mahiberi in my nation).*
+
+*NB: We are closing all of our servers in the planet so do some backup for you research papers*
+
+*- Official statement released by the official TRG website before its shutdown, 2299*
