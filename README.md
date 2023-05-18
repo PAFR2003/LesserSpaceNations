@@ -290,3 +290,5 @@ Yetemeramarīwochi Mahiberi
 >* Aster Kabede Petros
 >* DOB: 09/05/2267 (32-33)
 >* Born in Aksum, Tigray Region, Ethiopia
+>* Overall clean record
+>* She has BS in Politics a.k.a. a lawyer
