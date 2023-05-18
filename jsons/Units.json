@@ -201,5 +201,36 @@
 				"text": "The beast of the BX. This small watercraft is used for raiding other ships to steal their supplies and luxuries."
 			}
 		]
+	},
+	{
+		"name": "Aster's Bodyguards",
+		"uniqueTo": "Yetemeramarīwochi Mahiberi",
+		"replaces": "Laser Trooper",
+		"unitType": "Sniper",
+		"movement": 2,
+		"range": 2,
+		"strength": 33,
+		"rangedStrength": 33,
+		"cost": 210,
+		"requiredTech": "Lasers",
+		//"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Laser Trooper",
+		"uniques": [
+			"Ranged attacks may be performed over obstacles",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "SingleLaser",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Laser Trooper",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Some of Aster's bodyguards wielding laser guns. Used for defending Aster herself for assassination attempts."
+			}
+		]
 	}
 ]
