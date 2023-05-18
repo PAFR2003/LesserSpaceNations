@@ -270,3 +270,23 @@ Burcad-badeedda Xeebta
 *"Well, I don't need a statement for this but please, take care at my brother in Hargeisha."*
 
 *- A written statement from Omar Xaaf*
+
+## Yetemeramarīwochi Mahiberi
+
+ Ninth Faction
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Yetemeramar%C4%ABwochi%20Mahiberi.png)
+Yetemeramarīwochi Mahiberi
+
+ Ethnic origins:
+* Various Ethiopian ethnic groups and its diaspora
+
+ Type of company:
+* Open Access learning institution
+
+ Leader's Info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Aster%20Kabede%20Petros.png)
+>* Aster Kabede Petros
+>* DOB: 09/05/2267 (32-33)
+>* Born in Aksum, Tigray Region, Ethiopia
