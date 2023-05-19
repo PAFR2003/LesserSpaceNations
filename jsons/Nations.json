@@ -125,7 +125,7 @@
         "name": "Beth Nahrain Council",
         "leaderName": "Malko Solomon",
         "adjective": ["Neo-Mesopotamian"],
-        "startBias": ["Avoid [Tundra]"],
+        "startBias": ["Desert"],
         "preferredVictoryType": "Domination",
         "favoredReligion": "Khigga",
 
@@ -555,8 +555,7 @@
         "uniqueName": "Content at the Speed of Culture",
         "uniques": [
             "[-33]% Unhappiness from [Population] [in all cities]",
-            "[+1 Culture] [in all cities]",
-            "[+1 Culture] from every [Artist] <during a Golden Age>"
+            "[+1 Culture] [in all cities]"
         ],
         "cities": [
             "Reactor Settlement",
