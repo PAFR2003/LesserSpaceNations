@@ -140,7 +140,7 @@
 	{
 		"name": "Reaction Video Company",
 		"uniqueTo": "Karachi Reaction Studios",
-		"replaces", "Arcade Room",
+		"replaces": "Arcade Room",
 		"maintenance": 2,
 		"culture": 1,
 		"happiness": 3,
