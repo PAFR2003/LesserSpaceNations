@@ -156,7 +156,7 @@
     {
 		"name": "Content Farm",
 		"uniqueTo": "Karachi Reaction Studios",
-		"replaces", "Rec Area",
+		"replaces": "Rec Area",
 		"maintenance": 2,
 		"gold": 1,
 		"culture": 1,
