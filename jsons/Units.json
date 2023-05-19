@@ -232,5 +232,39 @@
 				"text": "Some of Aster's bodyguards wielding laser guns. Used for defending Aster herself for assassination attempts."
 			}
 		]
+	},
+	{
+		"name": "Reaction Video Company",
+		"uniqueTo": "Karachi Reaction Studios",
+		"replaces", "Arcade Room",
+		"maintenance": 2,
+		"culture": 1,
+		"happiness": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Prefab"],
+		"requiredTech": "Habitation",
+		"civilopediaText": [
+			{
+				"text": "A building were they (the KRS Reactors) make reaction videos, a staple part of entertainment in KRS."
+			}
+		]
+	},
+    {
+		"name": "Content Farm",
+		"uniqueTo": "Karachi Reaction Studios",
+		"replaces", "Rec Area",
+		"maintenance": 2,
+		"gold": 1,
+		"culture": 1,
+		"happiness": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Prefab"],
+		"requiredTech": "Hab-Domes",
+		"civilopediaText": [
+			{
+				"text": "A large server building that creates and edits reaction videos for all citizens of KRS."
+			}
+		]
 	}
+
 ]
