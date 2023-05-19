@@ -334,4 +334,4 @@ Karachi Reaction Studios
  Farewell statement:
 *" It is time to say goodbye to planet Earth. Thanks for watching KRS, we are now signing off."*
 
-*- Final Message, KRS last video in NewVID, 2299
+*- Final Message, KRS last video in NewVID, 2299*
