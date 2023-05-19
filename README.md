@@ -304,3 +304,29 @@ Yetemeramarīwochi Mahiberi
 *NB: We are closing all of our servers in this planet so do some backup for your research papers*
 
 *- Official statement released by the official TRG website before its shutdown, 2299*
+
+## Karachi Reaction Studios
+
+ Tenth Faction
+
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Karachi%20Reaction%20Studios.png)
+Karachi Reaction Studios
+ 
+ Ethnic origins:
+* Diverse (but the CEO is a Pakistani)
+
+ Type of company:
+* Reaction video company
+
+ Leader's Info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Hammad%20Dar.png)
+>* Hammad Dar (حماد دَر)
+>* DOB: 10/10/2261 (38-39)
+>* Born in Los Angeles, California, USA
+>* Overall clean record
+>* He has a BA im Entertainment
+>* Single and no plans to get married
+>* Speaks Urdu and English
+>* He was born in L.A. but moved in Pakistan when he was 14 years old
+>* When he has excess money on his bank account, he always give it to the local mosque or other beneficial organizations to help the poor and the needy
