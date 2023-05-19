@@ -531,5 +531,65 @@
 			"Miniya",
 			"Persinna"
 	]
+    },
+    {
+        "name": "Karachi Reaction Studios",
+        "leaderName": "Hammad Dar",
+        "adjective": ["Reactor"],
+        "startBias": ["River"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Mental Collectivism",
+
+        "startIntroPart1": "As-salaam-alaikum. My name is Hammad Dar from Karachi Reaction Studios, the world's largest reaction video channel in NewVID and we are broadcasting worldwide with branches in Karachi, Dhaka, Los Angeles, New York, Manila, Jakarta, Paris and many more.",
+        "startIntroPart2": "Since the inception of KRS in 2104, we have seen various real perspectives and real opinions from different people and backgrounds in our shows in NewVID. But that will change one day, when we found a spaceship in a bunker that can fit over 20,000 people inside. Currently, our company have 18,667 people with 40% reactors and 60% production staff so it fits wilth excess so what we do is we forced all of our companypeople to join the space travel but first, we ran onto problems. First, most of our people disagree to join our cause, but we solve it by forcefully sedating all of our staff and reactors and teleporting them into the spaceship's sleeping pods. Second is the language barriers, well, we solve it by forcefully learning my people three languages of their choice and the third is loyalty towards me, I solved it by convincing that New Earth is a paradise. And that's how we got here in this beautiful planet, but can you help me to create a new nation because my reactors are unprepared, hehe.",
+        "declaringWar": "Your narrative doesn't fit with our mind. Therefore, you must be eliminated.",
+        "attacked": "Why?",
+        "defeated": "Okay, we completely screwed up.",
+        "introduction": "Hello, fellow non-Reactor. This is KRS, New Earth's largest reaction video company. We are currently looking for potential reactors and production staff.",
+        "neutralHello": "We are currently looking for reactors and production staff.",
+        "hateHello": "Why are you here? I thought you hate me.",
+        "tradeRequest": "KRS has officially released an official statement:",
+
+        "outerColor": [30, 188, 255],
+        "innerColor": [0, 0, 255],
+        "uniqueName": "Content at the Speed of Culture",
+        "uniques": [
+            "[-33]% Unhappiness from [Population] [in all cities]",
+            "[+1 Culture] [in all cities]",
+            "[+1 Culture] from every [Artist] <during a Golden Age>"
+        ],
+        "cities": [
+            "Reactor Settlement",
+            "Editor Reeds",
+            "Hamadopolis",
+            "City of Lookout",
+            "Camera Heights",
+            "Fame City",
+            "Great Audition",
+            "Hills of Beauty",
+            "The Archives",
+            "Memorialtown",
+            "Screenwoods",
+            "Remembrance Settlement",
+            "Produceria",
+            "Actionville",
+            "People's Voices",
+            "Neonlight Springs",
+            "Viewer's Massif",
+            "Happiness Streams",
+            "Lost Paradise"
+        ] ,
+	"spyNames": [
+			"Joseph",
+			"Kieran",
+			"Hamood",
+			"Giuseppe",
+			"Misha",
+			"Lena",
+			"Alesandra",
+			"Tanya",
+			"Anahit",
+			"Vilma"
+	]
     }
 ]
