@@ -236,7 +236,7 @@
 	{
 		"name": "Reaction Video Company",
 		"uniqueTo": "Karachi Reaction Studios",
-		"replaces", "Arcade Room",
+		"replaces": "Arcade Room",
 		"maintenance": 2,
 		"culture": 1,
 		"happiness": 3,
@@ -252,7 +252,7 @@
     {
 		"name": "Content Farm",
 		"uniqueTo": "Karachi Reaction Studios",
-		"replaces", "Rec Area",
+		"replaces": "Rec Area",
 		"maintenance": 2,
 		"gold": 1,
 		"culture": 1,
