@@ -125,7 +125,7 @@
         "name": "Beth Nahrain Council",
         "leaderName": "Malko Solomon",
         "adjective": ["Neo-Mesopotamian"],
-        "startBias": ["Desert, River"],
+        "startBias": ["Avoid [Tundra]"],
         "preferredVictoryType": "Domination",
         "favoredReligion": "Khigga",
 
