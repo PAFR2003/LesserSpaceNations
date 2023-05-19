@@ -330,3 +330,8 @@ Karachi Reaction Studios
 >* Speaks Urdu and English
 >* He was born in L.A. but moved in Pakistan when he was 14 years old
 >* When he has excess money on his bank account, he always give it to the local mosque or other beneficial organizations to help the poor and the needy
+
+ Farewell statement:
+*" It is time to say goodbye to planet Earth. Thanks for watching KRS, we are now signing off."*
+
+*- Final Message, KRS last video in NewVID, 2299
