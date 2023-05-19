@@ -551,7 +551,7 @@
         "tradeRequest": "KRS has officially released an official statement:",
 
         "outerColor": [30, 188, 255],
-        "innerColor": [0, 0, 255],
+        "innerColor": [255, 58, 58],
         "uniqueName": "Content at the Speed of Culture",
         "uniques": [
             "[-33]% Unhappiness from [Population] [in all cities]",
