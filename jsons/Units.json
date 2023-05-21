@@ -232,5 +232,37 @@
 				"text": "Some of Aster's bodyguards wielding laser guns. Used for defending Aster herself for assassination attempts."
 			}
 		]
+	},
+	{
+		"name": "Häyhä Front",
+		"uniqueTo": "Galaktinen Kalastusyhdistys",
+		"replaces": "Exoframe Soldier",		
+		"unitType": "Infantry",
+		"movement": 3,
+		"range": 2,
+		"strength": 24,
+		//"rangedStrength": 24,
+		"cost": 130,
+		"requiredTech": "Exoskeletons",
+		//"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Drop Trooper",
+		"uniques": [
+			"May upgrade to [Drop Trooper] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Amphibious"],
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Exoframe Soldier",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Well trained soldiers known for their bravery and hunting experience."
+			}
+		]
 	}
 ]
