@@ -355,5 +355,11 @@ Space fishing gear manufacturing company and electronics company specializing on
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Enni%20Mannerheim.png)
 >* Enni Mannerheim
 >* DOB: 14/02/2275 (24-25)
->* Born in 
+>* Born in Lappeenranta, South Karelia, Finland
+>* Overall clean record
+>* She has BA in Marketing and BA in Technology
+>* Single and openly bisexual
+>* Speaks Finnish, Swedish, Estonian and English
+>* She's a pescetarian but also a fish lover
+>* She has hyperacusis, which means she's sensitive to loud noises.
  
