@@ -342,5 +342,13 @@ Karachi Reaction Studios
  Eleventh Faction
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Galaktinen%20Kalastusyhdistys.png)
- Galaktinen Kalastusyhdistys
+Galaktinen Kalastusyhdistys
+
+ Ethnic origins:
+Finns and Estonians mostly but anglers can be of any ethnicity so diverse
+
+ Type of company:
+Space fishing gear manufacturing company and electronics company specializing on teleportation devices
+
+ Leader's Info
  
