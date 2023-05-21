@@ -609,7 +609,7 @@
         "hateHello": "Sorry, no fishing.",
         "tradeRequest": "Can we just have peace now? I really don't want to make noise right now.",
 
-        "outerColor": [55, 139, 34],
+        "outerColor": [55, 255, 34],
         "innerColor": [219, 115, 37],
         "uniqueName": "The Kantele of the Anglers",
         "uniques": [
