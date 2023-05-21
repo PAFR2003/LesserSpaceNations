@@ -360,6 +360,6 @@ Space fishing gear manufacturing company and electronics company specializing on
 >* She has BA in Marketing and BA in Technology
 >* Single and openly bisexual
 >* Speaks Finnish, Swedish, Estonian and English
->* She's a pescetarian but also a fish lover
+>* She's a pescetarian but also a fish lover.
 >* She has hyperacusis, which means she's sensitive to loud noises.
  
