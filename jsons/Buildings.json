@@ -169,6 +169,28 @@
 				"text": "A large server building that creates and edits reaction videos for all citizens of KRS."
 			}
 		]
-	}	
+	},
+	{
+		"name": "Lake Information Market",
+		"uniqueTo": "Galaktinen Kalastusyhdistys",
+		"replaces", "Resource Market",		
+		"science": 2,
+		"gold": 3,
+		"specialistSlots": { "Merchant": 2 },
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Pioneer Depot",
+		"requiredTech": "Offworld Industries",
+		"uniques": [
+		    "[+1 Gold] from [Lakes] tiles [in this city]",
+			"[+1 Gold] from [Bonus resource] tiles [in this city]",
+			"[+2 Gold] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] from [Strategic resource] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "A specialized market exclusively dealing in specific goods and resources."
+			}
+		]
+	}
 ]
 
