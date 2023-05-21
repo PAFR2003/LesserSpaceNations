@@ -176,7 +176,7 @@
 		"replaces": "Resource Market",	
 		"science": 2,
 		"gold": 3,
-		"specialistSlots": { "Merchant": 2 },
+		"specialistSlots": { "Merchant": 1 },
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Pioneer Depot",
 		"requiredTech": "Offworld Industries",
