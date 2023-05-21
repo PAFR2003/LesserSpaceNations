@@ -336,3 +336,11 @@ Karachi Reaction Studios
 *" It is time to say goodbye to planet Earth. Thanks for watching KRS, we are now signing off."*
 
 *- Final Message, KRS last video in NewVID, 2299*
+
+## Galaktinen Kalastusyhdistys
+
+ Eleventh Faction
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Galaktinen%20Kalastusyhdistys.png)
+ Galaktinen Kalastusyhdistys
+ 
