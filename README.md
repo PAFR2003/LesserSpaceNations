@@ -350,5 +350,10 @@ Finns and Estonians mostly but anglers can be of any ethnicity so diverse
  Type of company:
 Space fishing gear manufacturing company and electronics company specializing on teleportation devices
 
- Leader's Info
+ Leader's Info:
+ 
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Enni%20Mannerheim.png)
+>* Enni Mannerheim
+>* DOB: 14/02/2275 (24-25)
+>* Born in 
  
