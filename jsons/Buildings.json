@@ -173,7 +173,7 @@
 	{
 		"name": "Lake Information Market",
 		"uniqueTo": "Galaktinen Kalastusyhdistys",
-		"replaces": "Resource Market",		
+		"replaces": "Resource Market",	
 		"science": 2,
 		"gold": 3,
 		"specialistSlots": { "Merchant": 2 },
