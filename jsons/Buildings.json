@@ -194,7 +194,7 @@
 	},
 	{
 		"name": "Church",
-		"uniqueTo": "The Believer's Herd",
+		"uniqueTo": "The Believers",
 		"replaces": "Congregation Space",
 		"faith": 3,
 		"culture": 2
@@ -215,7 +215,7 @@
 	},
 	{
 		"name": "Preaching Networks",
-		"uniqueTo": "The Believer's Herd",
+		"uniqueTo": "The Believers",
 		"replaces": "Tele-Temple",	
 		"faith": 2,
 		"gold": 1
