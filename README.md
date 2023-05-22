@@ -417,3 +417,10 @@ Red Light District worker support group
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Leena%20van%20Dijk.png)
 >* Mariska van den Bovenkamp (stage name: Leena van Dijk)
 >* DOB: 23/05/2265 (34-35)
+>* Born in San Franscisco, California, USA
+>* Overall clean record
+>* She never ended college, she's an undergrad in BS in Chemical Engineering
+>* Single
+>* Speaks Dutch, Russian, Ukrainian, Czech, Serbian and English (she's a polyglot by the way)
+>* She was famously considered to be a "hooker with a heart of gold" in Amsterdam, she's known to be a regular donator in a local charity organization but she always do it anonymously. So much so that every single people in the city considers every any anonymous donation as 'Leena's Hardwork'.
+>* She moved at Amsterdam with her family at the age of nine.
