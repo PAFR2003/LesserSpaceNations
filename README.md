@@ -412,3 +412,8 @@ Mostly Dutch and Eastern European female red light district workers but they als
  Type of company:
 Red Light District worker support group
 
+ Leader's Info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Leena%20van%20Dijk.png)
+>* Mariska van den Bovenkamp (stage name: Leena van Dijk)
+>* DOB: 23/05/2265 (34-35)
