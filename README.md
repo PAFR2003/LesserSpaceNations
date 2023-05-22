@@ -362,6 +362,12 @@ Space fishing gear manufacturing company and electronics company specializing on
 >* Speaks Finnish, Swedish, Estonian and English
 >* She's a pescetarian but also a fish lover.
 >* She has hyperacusis, which means she's sensitive to loud noises.
+
+ Farewell statement:
+ 
+*"Hello dear anglers of the planet Earth, I am leaving this planet to start a new life in a paradise they call "New Earth". Thanks for the supporters of GK products."*
+
+*- Enni Mannerheim's final post in her Piclick account, 2299*
  
 ## The Belivers
  
