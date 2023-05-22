@@ -345,10 +345,10 @@ Karachi Reaction Studios
 Galaktinen Kalastusyhdistys
 
  Ethnic origins:
-Finns and Estonians mostly but anglers can be of any ethnicity so diverse
+* Finns and Estonians mostly but anglers can be of any ethnicity so diverse
 
  Type of company:
-Space fishing gear manufacturing company and electronics company specializing on teleportation devices
+* Space fishing gear manufacturing company and electronics company specializing on teleportation devices
 
  Leader's Info:
  
@@ -377,10 +377,10 @@ Space fishing gear manufacturing company and electronics company specializing on
 The Believers
 
  Ethnic origins:
-Diverse. Most Christians and Jews in the planet Earth.
+* Diverse. Most Christians and Jews in the planet Earth.
 
  Type of company:
-Theocratic Christian and Jewish state
+* Theocratic Christian and Jewish state
 
  Leader's Info:
 
@@ -407,10 +407,10 @@ Theocratic Christian and Jewish state
 Red Umbrella Republic
 
  Ethnic origins:
-Mostly Dutch and Eastern European female red light district workers but they also have RLD workers from other far-away nations and red light districts.
+* Mostly Dutch and Eastern European female red light district workers but they also have RLD workers from other far-away nations and red light districts.
 
  Type of company:
-Red Light District worker support group
+* Red Light District worker support group
 
  Leader's Info:
 
