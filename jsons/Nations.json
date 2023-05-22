@@ -714,5 +714,65 @@
 			"Martha"
 	]
     },
+    {
+        "name": "Red Umbrella Republic",
+        "leaderName": "Leena van Dijk",
+        "adjective": ["Redlighter"],
+        "startBias": ["Grassland"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Existentialism",
 
+        "startIntroPart1": "Salutations! This is the nation of Red Umbrella Republic. My name's Leena van Dijk and I'm the speaker for all of the unfortunates and the stigmatized red light district workers.",
+        "startIntroPart2": "I, a Dutch RLD worker born from the bustling city of San Francisco, California has faced many struggles and hates towards my people of my same profession. But I have a plan that hit me on my mind, buy a new spaceship. Well, at first, no one wants to care about it but by the help of the different support groups and supporting companies around the world, we have managed to bought a spaceship to start a new adventure towards acceptance of my people.",
+        "declaringWar": "I, the leader of the Red Umbrella Republic has officially declared war against your nation.",
+        "attacked": "Okay... YOU WANNA HEAR ME SHOUT, HUH?!?",
+        "defeated": "My plans for acceptance have failed.",
+        "introduction": "Hallo there, this is the Red Umbrella Republic and we asking for our acceptance.",
+        "neutralHello": "Oh, hi there.",
+        "hateHello": "Tell me, WHAT ARE YOU DOING YOU FOOL?!?",
+        "tradeRequest": "Here's our offer:",
+
+        "outerColor": [0, 0, 0],
+        "innerColor": [255, 0, 0],
+        "uniqueName": "The Movement of the Red Umbrella",
+        "uniques": [
+            "[+25]% growth [in all cities]",
+            "[+1 Science] [in all cities]"
+        ],
+        "cities": [
+            "Aanvaarding",
+            "De Wallen Alpha",
+            "Nieuwland Ultima",
+            "Strijd",
+            "De Hoop Base",
+            "Donkere Lichten",
+            "Gebroken Beloftes",
+            "Moeder Leena",
+            "Vergeten Kolonie",
+            "Huilende Dijken",
+            "Ontmaskeren",
+            "Onbevreesdheid",
+            "Ware Schoonheid",
+            "Hart van Goud",
+            "Waarheid",
+            "Grote Grachten",
+            "Wegen van Hoop",
+            "Natie van Acceptatie",
+            "Grote Oceaan",
+            "Wapenbroeders",
+            "Zussen van Genade"
+        ] ,
+	"spyNames": [
+			"Klaas",
+			"Toon",
+			"Rikkert",
+			"Jan-Bart",
+			"Svatoslav",
+			"Tatiana",
+			"Dineke",
+			"Juliette",
+			"Blažena",
+			"Aneta"
+	]
+    }
 ]
