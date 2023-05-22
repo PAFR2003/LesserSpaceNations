@@ -372,3 +372,17 @@ The Believers
 
  Ethnic origins:
 Diverse. Most Christians and Jews in the planet Earth.
+
+ Type of company:
+Theocratic Christian and Jewish state
+
+ Leader's Info:
+
+> [alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Joel%20Homa.png)
+>* Joel Homa (עויל הומא)
+>* DOB: 26/09/2263 (36-37)
+>* Born in Tel Aviv, Israel
+>* Overall clean record
+>* Currently works as a soldier of IDF and a preacher
+>* Single
+>* Speaks 
