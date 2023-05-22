@@ -400,3 +400,7 @@ Theocratic Christian and Jewish state
 *"A new ark has been built!"*
 
 *- A written statement by Joel Homa*
+
+## Red Umbrella Republic
+
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Red%20Umbrella%20Republic.png)
