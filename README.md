@@ -378,7 +378,7 @@ Theocratic Christian and Jewish state
 
  Leader's Info:
 
-> [alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Joel%20Homa.png)
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Joel%20Homa.png)
 >* Joel Homa (עויל הומא)
 >* DOB: 26/09/2263 (36-37)
 >* Born in Tel Aviv, Israel
@@ -388,3 +388,9 @@ Theocratic Christian and Jewish state
 >* Speaks Hebrew, Neo-Aramaic, Arabic and English
 >* He's a vegetarian preacher
 >* He was formerly a Jew but later converted to Christianity when he "found God (or G-d if you're a Jew)" at the military base where he was conscripted by IDF.
+
+ Farewell statement:
+
+*"A new ark has been built!"*
+
+*- A written statement by Joel Homa*
