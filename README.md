@@ -404,3 +404,11 @@ Theocratic Christian and Jewish state
 ## Red Umbrella Republic
 
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Red%20Umbrella%20Republic.png)
+Red Umbrella Republic
+
+ Ethnic origins:
+Mostly Dutch and Eastern European female red light district workers but they also have RLD workers from other far-away nations and red light districts.
+
+ Type of company:
+Red Light District worker support grouo
+
