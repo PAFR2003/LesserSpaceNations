@@ -385,4 +385,6 @@ Theocratic Christian and Jewish state
 >* Overall clean record
 >* Currently works as a soldier of IDF and a preacher
 >* Single
->* Speaks 
+>* Speaks Hebrew, Neo-Aramaic, Arabic and English
+>* He's a vegetarian preacher
+>* He was formerly a Jew but later converted to Christianity when he "found God (or G-d if you're a Jew)" at the military base where he was conscripted by IDF.
