@@ -363,3 +363,12 @@ Space fishing gear manufacturing company and electronics company specializing on
 >* She's a pescetarian but also a fish lover.
 >* She has hyperacusis, which means she's sensitive to loud noises.
  
+## The Belivers
+ 
+ Twelfth Faction
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/The%20Believers.png)
+The Believers
+
+ Ethnic origins:
+Diverse. Most Christians and Jews in the planet Earth.
