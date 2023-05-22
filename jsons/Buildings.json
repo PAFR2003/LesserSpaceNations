@@ -191,6 +191,50 @@
 				"text": "Sells research papers with information about lakes from all quadrants of the universe, they also sell tools and normal items aswell."
 			}
 		]
+	},
+	{
+		"name": "Church",
+		"uniqueTo": "The Believer's Herd",
+		"replaces": "Congregation Space",
+		"faith": 3,
+		"culture": 2
+		"requiredBuilding": "Memorial",
+		"maintenance": 1,
+		"hurryCostModifier": 30,
+		"requiredTech": "Hab-Domes",
+		"uniques": [
+			"Prefab",
+			"Hidden when religion is disabled",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "Just a normal church where Christians pray in the name of God and Jesus Christ."
+			}
+		]
+	},
+	{
+		"name": "Preaching Networks",
+		"uniqueTo": "The Believer's Herd",
+		"replaces": "Tele-Temple",	
+		"faith": 2,
+		"gold": 1
+		"food": 2,
+		"requiredBuilding": "Congregation Space",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Colonial Culture",
+		"uniques": [
+			"Provides [1] [Digital Storage Space]",
+			"[+1 Faith] <in cities with a [Harmony Garden]>",
+			"Hidden when religion is disabled",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "Hang on with your favorite preacher on TV and listen to his gospel and words of wisdoms. You can even donate him for helping the poor."
+			}
+		]
 	}
 ]
 
