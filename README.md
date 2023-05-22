@@ -410,5 +410,5 @@ Red Umbrella Republic
 Mostly Dutch and Eastern European female red light district workers but they also have RLD workers from other far-away nations and red light districts.
 
  Type of company:
-Red Light District worker support grouo
+Red Light District worker support group
 
