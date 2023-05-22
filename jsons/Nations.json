@@ -652,5 +652,66 @@
 			"Helli",
 			"Tyyne"
 	]
+    },
+    {
+        "name": "The Believer's Herd",
+        "leaderName": "Joel Homa",
+        "adjective": ["Christian"],
+        "startBias": ["Avoid [Tundra]"],
+        "preferredVictoryType": "Diplomatic",
+        "favoredReligion": "Judeo-Christianity",
+
+        "startIntroPart1": "Shalom, dear player. We are the believers from the last bastions of Christianity.",
+        "startIntroPart2": "We here at The Believers, we always rewarded anyone who trusts God and Lord Jesus Christ first. The devout population of the great Christian nation have did all of their hardwork to build this ark to reach the stars and planets faraway. After the creation of the large spaceship, we have picked 12,000 random and devout and strong citizens to join the journey towards the new planet and reach a new promised land from the stars.",
+        "declaringWar": "Deus Vult.",
+        "attacked": "The God is always in our side, he will protect us from this war.",
+        "defeated": "The Christians have already fallen. We, the people of Christian faith has accepted your win but the final judgement will land you to endless suffering.",
+        "introduction": "Shalom, non-believer! We are the sons of God and the protectors of the promised land. The Believer's Herd welcomes you.",
+        "neutralHello": "The God welcomes you to His domain.",
+        "hateHello": "Are you the evil?",
+        "tradeRequest": "Here's our peace offer:",
+
+        "outerColor": [255, 255, 255],
+        "innerColor": [255, 179, 0],
+        "uniqueName": "The New Promised Land",
+        "uniques": [
+            "[+1 Culture] from every [Enclosure]",
+            "[+1 Faith] from every [Luxury resource]"
+        ],
+        "cities": [
+            "Zion",
+            "Delilah Valley",
+            "Bethel",
+            "Jerusalem Colony",
+            "Walls of Jericho",
+            "New Galilee"
+            "Israel Alpha",
+            "Moses Beach",
+            "Arktown",
+            "Great Ocean",
+            "Palmyraland",
+            "Jaffa Ultima",
+            "The Farewell",
+            "Judea Beta",
+            "City of Cross",
+            "Walk-on-Water",
+            "Byblos Omega",
+            "Methuselah",
+            "Slingshot",
+            "Printing Press",
+            "Legacy"
+        ] ,
+	"spyNames": [
+			"Simeon",
+			"Joseph",
+			"Yehezekel",
+			"Timothy",
+			"Elijah",
+			"Mary",
+			"Alexandra",
+			"Tabitha",
+			"Olivia",
+			"Martha"
+	]
     }
 ]
