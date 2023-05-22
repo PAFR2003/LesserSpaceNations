@@ -264,5 +264,37 @@
 				"text": "Well trained soldiers known for their bravery and hunting experience."
 			}
 		]
+	},
+	{
+		"name": "Night Defender",
+	    "uniqueTo": "Red Umbrella Republic",
+		"replaces": "Exoframe Soldier",	
+		"unitType": "Infantry",
+		"movement": 2,
+		//"range": 1,
+		"strength": 25,
+		//"rangedStrength": 24,
+		"cost": 125,
+		"requiredTech": "Exoskeletons",
+		//"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Drop Trooper",
+		"uniques": [
+			"May upgrade to [Drop Trooper] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+	    "promotions": ["Urban Warfare"],
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Exoframe Soldier",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Enchanced by the addition of an external assistive frame, this infantry unit can now carry heavier armor and armaments."
+			}
+		]
 	}
 ]
