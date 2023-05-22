@@ -64,5 +64,17 @@
 			"[+1 Food] <after discovering [Terraforming]>",
 			"Pillaging this improvement yields approximately [+6 Gold]"
 		]
+   },
+   {
+		"name": "Polder",
+		"uniqueTo": "Red Umbrella Republic",
+		"terrainsCanBeBuiltOn": ["Marsh","Flood plains"],
+		"food": 3,
+		"turnsToBuild": 8,
+		"techRequired": "Genetics",
+		"uniques": [
+		    "[+1 Production, +2 Gold] <after discovering [Colony Administration]>",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+         ]
    }
 ]
