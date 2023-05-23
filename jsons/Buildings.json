@@ -255,6 +255,51 @@
 				"text": "Xenomorph barracks which doubles as a weapons dealer."
 			}
 		]
+	},
+	{
+		"name": "Mosque",
+		"uniqueTo": "Caliphate Kingdom",
+		"replaces": "Congregation Space",
+		"faith": 3,
+		"culture": 1,
+		"happiness": 1,
+		"requiredBuilding": "Memorial",
+		"maintenance": 1,
+		"hurryCostModifier": 30,
+		"requiredTech": "Hab-Domes",
+		"uniques": [
+			"Prefab",
+			"Hidden when religion is disabled",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "A mosque where Muslims can pray to Allah."
+			}
+		]
+	},
+	{
+		"name": "Solar Minaret",
+		"uniqueTo": "Caliphate Kingdom",
+		"replaces": "Tele-Temple",	
+		"faith": 3,
+		"food": 2,
+		"happiness": 1,
+		"requiredBuilding": "Congregation Space",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Colonial Culture",
+		"uniques": [
+			"Provides [1] [Digital Storage Space]",
+			"[+1 Faith] <in cities with a [Harmony Garden]>",
+			"Hidden when religion is disabled",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "A prayer minaret with a timer and solar power."
+			}
+		]
 	}
 ]
 
