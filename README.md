@@ -474,7 +474,7 @@ Caliphate Kingdom
 * Primarily Arabs but they house all Muslims worldwide
 
  Type of company:
-Progressive Islamic Kingdom
+* Progressive Islamic Kingdom
 
  Leader's Info:
 
