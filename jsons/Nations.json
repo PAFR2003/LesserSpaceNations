@@ -774,5 +774,66 @@
 			"Blažena",
 			"Aneta"
 	]
+    },
+    {
+        "name": "Prinag'cha",
+        "leaderName": "Ewotif",
+        "adjective": ["Xenomorph"],
+        "startBias": ["Grassland"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Prinakh Pantheon",
+
+        "startIntroPart1": "Salutations. We are the race of xenomorphs called the Prinag'cha from the planet Prinakh and we are currently at war with the Gargzin invaders",
+        "startIntroPart2": "We, the Prinakhis live in a peace and harmony until the Gargzins arrived and destroyed our home planet and enslave us for eternity. But I, an intelligent Prinakh has started a coup in a small galactic base and stole a Gargzin spaceship that can house 5,000 of what is left to my species. And as I travel further faraway, I found your planet and live on there.",
+        "declaringWar": "Hahaha.",
+        "attacked": "Prepare and bow for destruction.",
+        "defeated": "Here we go again.",
+        "introduction": "We are the unfortunate and enslaved Prinakh'cha from the now destroyed planet of Prinakh.",
+        "neutralHello": "The Prinakh'cha welcomes you.",
+        "hateHello": "What are you doing here, mortal?",
+        "tradeRequest": "An offer from the xenomorphs of Prinakh:",
+
+        "outerColor": [255, 255, 255],
+        "innerColor": [142, 193, 0],
+        "uniqueName": "Prinakhian Legacy",
+        "uniques": [
+            "[+15]% Strength <for [Military] units> <in [Enemy Land] tiles>",
+            "[+1 Culture] from every [Quarry]"
+        ],
+        "cities": [
+            "Q'aalwi Ezjbeg",
+            "Zinu Trebe",
+            "Zinu Asbri",
+            "Q'aalwi Dridap",
+            "Zinu Toskhekh",
+            "Zinu Misrahoog"
+            "Zinu Hemijanwi",
+            "Q'aalwi Prinakh",
+            "Q'aalwi Areda",
+            "Q'aalwi Khejanilakh",
+            "Q'aalwi Epridajli",
+            "Zinu Zimasjaratkhe",
+            "Zinu Mumilejaag",
+            "Zinu Afuragotra",
+            "Q'aalwi Remesat",
+            "Zinu Oprekhaajo",
+            "Zinu Nimose",
+            "Zinu Hefereaani",
+            "Q'aalwi Omu",
+            "Q'aalwi Imdaratkho",
+            "Zinu Omuhayrag"
+        ] ,
+	"spyNames": [
+			"Tomug",
+			"Zaaramish",
+			"Waanai",
+			"Khosonihe",
+			"Esrepetig",
+			"Waalahif",
+			"Brenahi",
+			"Lisahan",
+			"Rasi",
+			"Omihafaata"
+	]
     }
 ]
