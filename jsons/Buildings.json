@@ -235,6 +235,26 @@
 				"text": "Hang on with your favorite preacher on TV and listen to his gospel and words of wisdom. You can even donate him for helping the poor."
 			}
 		]
+	},
+	{
+		"name": "Prinakh Weapons Center",
+		"uniqueTo": "Prinag'cha",
+		"replaces": "Colonial Patrol Station",
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"maintenance": 2,
+		"uniques": [
+			"Military",
+			"New [Military] units start with [20] Experience [in this city]",
+			"Destroyed when the city is captured"
+		],
+		"requiredBuilding": "Frontier Armory",
+		"requiredTech": "Military Ballistics",
+		"civilopediaText": [
+			{
+				"text": "Xenomorph barracks which doubles as a weapons dealer."
+			}
+		]
 	}
 ]
 
