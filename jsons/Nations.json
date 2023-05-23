@@ -835,5 +835,66 @@
 			"Rasi",
 			"Omihafaata"
 	]
+    },
+    {
+        "name": "Caliphate Kingdom",
+        "leaderName": "Nawfal the Devout",
+        "adjective": ["Space Muslim"],
+        "startBias": ["Desert"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Progressive Islam",
+
+        "startIntroPart1": "As-salaam-alaikum. Welcome to the deserts of the Caliphate Kingdom. I am Nafwal from Cairo, Egypt.",
+        "startIntroPart2": "From the mosques of the deserts and its believers where the Caliphate was born, our nation is built from the ruins of destruction of western invaders and colonizers from their powerful weapons of mass destruction and as I, a ruler of this kingdom, has found a blueprint of an unbuilt spaceship project created by my father from 50 years ago, the time before the great war and struggle. And as we built the great project to the stars, we have randomly chosen over 10,000 candidates from different cities of the Arabia and sent them to colonize the new planet where we will start a new kingdom and hope for all Muslims around the globe.",
+        "declaringWar": "Disbeliever, your time is running.",
+        "attacked": "Get out, heathen!",
+        "defeated": "I think it's all done for my people now. See you at my execution day.",
+        "introduction": "As-salaam-alaikum. Welcome to deserts of our kingdom, this is me, Nafwal the Devout and we are rebuilding our faith from the ruins of the great destruction.",
+        "neutralHello": "As-salaam-alaikum.",
+        "hateHello": "No, you're not welcome here.",
+        "tradeRequest": "Here's our offer:",
+
+        "outerColor": [58, 188, 45],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "The People of the Deserts",
+        "uniques": [
+            "[+15]% Production when constructing [All] wonders [in all cities]",
+            "[+1 Faith] [in all cities]"
+        ],
+        "cities": [
+            "Alsahra",
+            "Darbat Sarukhia",
+            "Majmae Aleumaal",
+            "Wahatan",
+            "Nashid Baeid",
+            "Midhanat Al'amal",
+            "Easifat Ramlia",
+            "Madinat Alsalatin",
+            "Alnidalat",
+            "Shams Altahrir",
+            "Tabarae Min 'aelaa",
+            "Hamia",
+            "Alhuriyat Alhaqiqia",
+            "Tarmim Wadi",
+            "Harim",
+            "Mudafie",
+            "Almadinat Almuqadasa",
+            "Muqawamat Kabira",
+            "Ard Qahila",
+            "Mustaemara",
+            "Siadat Almalik"
+        ] ,
+	"spyNames": [
+			"Bakaar",
+			"Haamid",
+			"Abdullah",
+			"Najeem",
+			"Tayyib",
+			"Sultana",
+			"Ariyya",
+			"Raita",
+			"Marwa",
+			"Najwa"
+	]
     }
 ]
