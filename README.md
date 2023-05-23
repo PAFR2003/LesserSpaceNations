@@ -403,6 +403,8 @@ The Believers
 
 ## Red Umbrella Republic
 
+ Thirteenth Faction
+
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Red%20Umbrella%20Republic.png)
 Red Umbrella Republic
 
@@ -424,3 +426,34 @@ Red Umbrella Republic
 >* Speaks Dutch, Russian, Ukrainian, Czech, Serbian and English (she's a polyglot by the way)
 >* She was famously considered to be a "hooker with a heart of gold" in Amsterdam, she's known to be a regular donator in a local charity organization but she always do it anonymously. So much so that every single people in the city considers every any anonymous donation as 'Leena's Hardwork'.
 >* She moved at Amsterdam with her family at the age of nine.
+
+ Farewell statement:
+
+*"Hello, red light district workers of the world, this is Leena van Dijk talking to all oppressed and stigmatized people. Today, I am going to a New Earth with my other of my kind, it might be the last day that we meet me but do not forget me as I helped everyone fron young to old, rich to poor."
+
+*- Leena van Dijk's last post on her SecTalk (futuristic version of Telegram) page, 2299
+
+## Prinag'cha
+
+ Fourteenth Faction
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Prinag'cha.png)
+ 
+ Ethnic origins:
+* White Xenomorphs
+
+ Type of company:
+* Alien refugees
+
+ Leader's Info:
+ 
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Ewotif.png)
+>* Ewotif of Prinag'cha
+>* DOB: ?
+>* Born in an unknown base built by Gargzins
+>* Overall clean record
+>* No formal education
+>* No interest at marriages
+>* He learned English from a stolen Gargzin translation item
+>* Not much known about his life but he is the most intelligent Prinakh
+>* Went to New Earth via stolen Gargzin spaceship
