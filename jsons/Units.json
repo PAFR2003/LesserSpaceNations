@@ -296,5 +296,37 @@
 				"text": "Also known as 'Nightstalkers', this powerful revolutionary soldiers are known for their suprise attacks at night."
 			}
 		]
+	},
+	{
+		"name": "Xenomorph Warlord",
+		"uniqueTo": "Prinag'cha",
+		"replaces": "Laser Trooper",
+		"unitType": "Sniper",
+		"movement": 3,
+		"range": 1,
+		"strength": 31,
+		"rangedStrength": 32,
+		"cost": 185,
+		"requiredTech": "Lasers",
+		//"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Laser Trooper",
+		"uniques": [
+			"Ranged attacks may be performed over obstacles",
+			"Never appears as a Barbarian unit"
+		],
+	    "promotions": ["Barrage I"],
+		"attackSound": "SingleLaser",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Laser Trooper",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "A xenomorph with a laser gun."
+			}
+		]
 	}
 ]
