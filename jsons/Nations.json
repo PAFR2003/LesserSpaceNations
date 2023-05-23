@@ -269,7 +269,7 @@
         "uniques": [
             "[+1 Culture] [in all cities]",
             "[+1 Science] [in all cities]",
-            "[-2 Gold] [in all cities]",
+            "[-1 Gold] [in all cities]",
             "[-1 Production] [in all cities]"
              ],
         "cities": [
