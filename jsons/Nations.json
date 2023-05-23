@@ -267,6 +267,7 @@
         "innerColor": [255, 215, 35],
         "uniqueName": "Free-Culture Social Movement",
         "uniques": [
+            "[Great Influencer] is earned [75]% faster <during a Golden Age>",
             "[+1 Culture] [in all cities]",
             "[+1 Science] [in all cities]",
             "[-1 Gold] [in all cities]",
