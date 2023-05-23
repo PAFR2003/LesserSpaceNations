@@ -438,6 +438,7 @@ Red Umbrella Republic
  Fourteenth Faction
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Prinag'cha.png)
+Prinag'cha
  
  Ethnic origins:
 * White Xenomorphs
@@ -467,6 +468,7 @@ Red Umbrella Republic
  Fifteenth Faction:
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Caliphate%20Kingdom.png)
+Caliphate Kingdom
  
  Ethnic origins:
 * Primarily Arabs but they house all Muslims worldwide
