@@ -429,9 +429,9 @@ Red Umbrella Republic
 
  Farewell statement:
 
-*"Hello, red light district workers of the world, this is Leena van Dijk talking to all oppressed and stigmatized people. Today, I am going to a New Earth with my other of my kind, it might be the last day that we meet me but do not forget me as I helped everyone fron young to old, rich to poor."
+*"Hello, red light district workers of the world, this is Leena van Dijk talking to all oppressed and stigmatized people. Today, I am going to a New Earth with my other of my kind, it might be the last day that we meet me but do not forget me as I helped everyone fron young to old, rich to poor."*
 
-*- Leena van Dijk's last post on her SecTalk (futuristic version of Telegram) page, 2299
+*- Leena van Dijk's last post on her SecTalk (futuristic version of Telegram) page, 2299*
 
 ## Prinag'cha
 
@@ -457,3 +457,32 @@ Red Umbrella Republic
 >* He learned English from a stolen Gargzin translation item
 >* Not much known about his life but he is the most intelligent Prinakh
 >* Went to New Earth via stolen Gargzin spaceship
+
+ Farewell statement:
+
+*None*
+
+## Caliphate Kingdom
+
+ Fifteenth Faction:
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Caliphate%20Kingdom.png)
+ 
+ Ethnic origins:
+* Primarily Arabs but they house all Muslims worldwide
+
+ Type of company:
+Progressive Islamic Kingdom
+
+ Leader's Info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Nafwal%20the%20Devout.png)
+>* Nafwal the Devout of Caliphate Kingdom
+>* DOB: 22/11/2252
+>* Born in Cairo, Egypt
+>* Overall clean record
+>* King of the Caliphate Kingdom
+>* Married to Queen Aliyah of Medina
+>* Speaks English and Arabic
+>* He was the king of Caliphate Kingdom
+>* He likes building beautiful houses for the homeless and giving their children scholarship.
