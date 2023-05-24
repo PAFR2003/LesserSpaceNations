@@ -859,7 +859,7 @@
         "uniqueName": "The People of the Deserts",
         "uniques": [
             "[+15]% Production when constructing [All] wonders [in all cities]",
-            "[+1 Faith] [in all cities]"
+            "[+1 Faith] per [4] population [in all cities]"
         ],
         "cities": [
             "Alsahra",
