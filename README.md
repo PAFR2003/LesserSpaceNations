@@ -480,7 +480,7 @@ Caliphate Kingdom
 
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Nafwal%20the%20Devout.png)
 >* Nafwal the Devout of Caliphate Kingdom
->* DOB: 22/11/2252
+>* DOB: 22/11/2252 (47-48)
 >* Born in Cairo, Egypt
 >* Overall clean record
 >* King of the Caliphate Kingdom
@@ -488,3 +488,40 @@ Caliphate Kingdom
 >* Speaks English and Arabic
 >* He was the king of Caliphate Kingdom
 >* He likes building beautiful houses for the homeless and giving their children scholarship.
+
+ Farewell statement:
+*"Dear people, I am now on the way going to the skies and escape to the orbit to go to a new planet they call 'New Earth'. As I leave the planet, make sure you do your five daily prayers to Allah the merciful to make my departure and landing safe."*
+
+*- Nafwal the Devout's last message going out of the Earth via spaceship, 2299*
+
+## Akhali Samotkhe
+
+ Sixteenth Faction
+
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Akhali%20Samotkhe.png)
+Akhali Samotkhe
+
+ Ethnic origins:
+* Georgians and other related groups such as Laz, Ossetians and Abkhazians
+
+ Type of company:
+* Hotel company and brand
+
+ Leader's Info:
+ 
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Tamar%20Bakradze.png)
+>* Tamar Bakradze
+>* DOB: 12/22/2270 (29-30)
+>* Born in Batumi, Autonomous Republic of Adjara, Georgia
+>* Once got convicted as a tax evader amd sent to prison for 6 months. Later, she was given probation for a year, she was 22 at that time.
+>* Owner and CEO of Akhali Samotkhe, a hotel company and brand but she went as a red light district worker before she was convicted as a tax evader.
+>* Single, currently divorced to an unnamed man according to her interviews in Georgian national TV.
+>* Speaks Georgian and English. Has some knowledge in Armenian language.
+>* She was born in a poor family where she was the youngest of two siblings.
+>* She is somewhat a famous celebrity in her country of Georgia. She also did singing and acting in local television soap operas in Adjara.
+
+ Farewell statement:
+
+*"I miss you guys."*
+
+*- Tamar Bakradze's last post in her Piclick account, 2299.*
