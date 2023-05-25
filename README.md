@@ -510,7 +510,7 @@ Akhali Samotkhe
  Leader's Info:
  
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Tamar%20Bakradze.png)
->* Tamar Bakradze
+>* Tamar Bakradze (თამარ ბაქრადზე)
 >* DOB: 12/22/2270 (29-30)
 >* Born in Batumi, Autonomous Republic of Adjara, Georgia
 >* Once got convicted as a tax evader amd sent to prison for 6 months. Later, she was given probation for a year, she was 22 at that time.
