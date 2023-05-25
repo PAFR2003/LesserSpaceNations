@@ -287,7 +287,7 @@ Yetemeramarīwochi Mahiberi
  Leader's Info:
 
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Aster%20Kabede%20Petros.png)
->* Aster Kabede Petros
+>* Aster Kabede Petros (ኣስተር ካበደ ፐትሮስ)
 >* DOB: 09/05/2267 (32-33)
 >* Born in Aksum, Tigray Region, Ethiopia
 >* Overall clean record
