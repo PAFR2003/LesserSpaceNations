@@ -275,7 +275,7 @@ Burcad-badeedda Xeebta
 
  Ninth Faction
  
- ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Yetemeramar%C4%ABwochi%20Mahiberi.png)
+ ![alt text]()
 Yetemeramarīwochi Mahiberi
 
  Ethnic origins:
@@ -309,7 +309,7 @@ Yetemeramarīwochi Mahiberi
 
  Tenth Faction
 
- ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Karachi%20Reaction%20Studios.png)
+ ![alt text]()
 Karachi Reaction Studios
  
  Ethnic origins:
@@ -405,7 +405,7 @@ The Believers
 
  Thirteenth Faction
 
- ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Red%20Umbrella%20Republic.png)
+ ![alt text]()
 Red Umbrella Republic
 
  Ethnic origins:
