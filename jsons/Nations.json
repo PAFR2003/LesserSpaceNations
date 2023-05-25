@@ -915,7 +915,7 @@
         "hateHello": "Uhm, no. You're not welcome. No capsule beds for you.",
         "tradeRequest": "Hi there.",
 
-        "outerColor": [255, 255, 255],
+        "outerColor": [224, 224, 10],
         "innerColor": [153, 40, 203],
         "uniqueName": "Welcome, Dear Guests",
         "uniques": [
