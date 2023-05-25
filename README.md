@@ -16,7 +16,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 * Spring water bottling company
 
  Leader's Info:
-> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Narine%20Ohannesyan.png)
+> ![alt text]()
 >* Narine Ohannesyan (Նարինե Ոհաննեսյան)
 >* DOB: 03/30/2371 (28-29)
 >* Born in Vagharshapat, Armenia
