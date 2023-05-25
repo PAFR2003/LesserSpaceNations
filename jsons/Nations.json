@@ -896,5 +896,65 @@
 			"Marwa",
 			"Najwa"
 	]
+    },
+    {
+        "name": "Akhali Samotkhe",
+        "leaderName": "Tamar Bakradze",
+        "adjective": ["Paradisekeeper"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Hospitality",
+
+        "startIntroPart1": "Gamarjoba, dear traveller. Welcome to the Akhali Samotkhe were a new paradise awaits you!",
+        "startIntroPart2": "Oh, hi there. My name's Tamar from the city of Batumi, Georgia and I own a multi-million, multi-national hotel company and brand 'Akhali Samotkhe'. Here at AS, we make sure our guests are happy but I heard that my friend, Narine from Armenia has bought a spaceship to go to the new planet, so I imitated her and put 7500 of my people and my well-paid workers of my hotels to join the space flight to a new planet they call New Earth and as I arrived to this planet, we will make the best resting place on the planet their eyes will ever see.",
+        "declaringWar": "Get out, messy and disrespectful guests of your nation! Prepare for war.",
+        "attacked": "I declare you persona non grata in my hotels from now on.",
+        "defeated": "Can you be my servant?",
+        "introduction": "Welcome to Akhali Samotkhe and I will be your receptionist. *wink*",
+        "neutralHello": "Welcome to our hotel, dear traveler.",
+        "hateHello": "Uhm, no. You're not welcome. No capsule beds for you.",
+        "tradeRequest": "Hi there.",
+
+        "outerColor": [213, 140, 40],
+        "innerColor": [153, 40, 203],
+        "uniqueName": "Welcome, Dear Guests",
+        "uniques": [
+            "[+2 Culture, +2 Happiness] [in capital]",
+            "[+1 Food, +2 Gold] from every [Mountain]"
+        ],
+        "cities": [
+            "P’ep’ela",
+            "Tamaras Desant’i",
+            "Mtsuravi P’lat’o",
+            "Datsuli T’q’eebi",
+            "Mzetunakhavi",
+            "Bakradzis Mtebi",
+            "Ts’minda Adgili",
+            "Rek’reatsiuli Kalaki",
+            "Chanchkerebi",
+            "Sanap’iro K’urort’i",
+            "Hilis Observat’oria",
+            "Didi Sast’umro",
+            "Akhali Batumi",
+            "Araghrma Ts’q’lebi",
+            "Bednierebis Kalaki",
+            "Movach’reebis Bazari",
+            "Ts’q’lis Rezervuari",
+            "Imedis Dasakhleba",
+            "Mezghvauris Shesveneba",
+            "Akhali P’ep’ela"
+        ] ,
+	"spyNames": [
+			"Zurab",
+			"Levan",
+			"Tamaz",
+			"Avtandil",
+			"Davit",
+			"Maia",
+			"Qetevan",
+			"Nino",
+			"Nana",
+			"Natia"
+	]
     }
 ]
