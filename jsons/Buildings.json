@@ -300,6 +300,42 @@
 				"text": "A prayer minaret with a timer and solar power."
 			}
 		]
+	},
+	{
+		"name": "Conversational Hotel",
+		"uniqueTo": "Akhali Samotkhe",
+		"replaces": "Virtual Cultural Space",
+		"culture": 4,
+		"happiness": 2,
+		"specialistSlots": { "Influencer": 3 },
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Virtual",
+			"Consumes [2] [Digital Storage Space]",
+			"[+1 Production] <in cities with a [Remote Fabricator]>"
+		],
+		"requiredTech": "Net Culture",
+		"civilopediaText": [
+			{
+				"text": "Akhali's world service hotel were people all around New Earth, no matter what ethnicity they were, talk and meet each other. Good for people who wants and likes face-to-face meetups."
+			}
+		]
+	},
+	{
+		"name": "Recreational Hotel",
+		"uniqueTo": "Akhali Samotkhe",
+		"replaces": "Arcade Room",
+		"maintenance": 1,
+		"culture": 2,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Prefab"],
+		"requiredTech": "Habitation",
+		"civilopediaText": [
+			{
+				"text": "A place said to be happier than the arcade rooms of other nations. It has even a skating rink and a swimming pool inside!"
+			}
+		]
 	}
 ]
 
