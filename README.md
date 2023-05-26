@@ -513,7 +513,7 @@ Akhali Samotkhe
 >* Tamar Bakradze (თამარ ბაქრადზე)
 >* DOB: 12/22/2270 (29-30)
 >* Born in Batumi, Autonomous Republic of Adjara, Georgia
->* Once got convicted as a tax evader amd sent to prison for 6 months. Later, she was given probation for a year, she was 22 at that time.
+>* Once got convicted as a tax evader and sent to prison for 6 months. Later, she was given probation for a year, she was 22 at that time.
 >* Owner and CEO of Akhali Samotkhe, a hotel company and brand but she went as a red light district worker before she was convicted as a tax evader.
 >* Single, currently divorced to an unnamed man according to her interviews in Georgian national TV.
 >* Speaks Georgian and English. Has some knowledge in Armenian language.
