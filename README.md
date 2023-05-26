@@ -525,3 +525,31 @@ Akhali Samotkhe
 *"I miss you guys."*
 
 *- Tamar Bakradze's last post in her Piclick account, 2299.*
+
+## Cártel Navarro
+
+ Seventeenth Faction
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/C%C3%A1rtel%20Navarro.png)
+Cártel Navarro
+
+ Ethnic origins:
+* Mexicans and its Native American groups
+
+ Type of company:
+* Cartel gang
+
+ Leader's info:
+ 
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Capo%20Dante.png)
+>* Dante Navarro
+>* DOB: 19/04/2252 (47-48)
+>* Born in Ciudad Juárez, Chihuahua, Mexico
+>* Arrested due to drug selling of some crystal substance but got out of the prison and escape out of the Earth with his fellow inmates
+>* Gang member and a college drop-out
+>* Married to a woman named Juanita Hernandez-Navarro, she was also a convict but on murder
+>* Speaks Spanish but learned English with his inmates, he can now talk fluently in that language
+>* He was first convicted when he was at the age of 36
+>* He is a good escape artist, known to get out of prison for over 5 times
+
+
