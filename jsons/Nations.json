@@ -975,8 +975,8 @@
         "hateHello": "Did you come here to raid?",
         "tradeRequest": "The Cártel has brought you a surprise to stop all conflicts.",
 
-        "outerColor": [55, 139, 34],
-        "innerColor": [219, 115, 37],
+        "outerColor": [47, 169, 24],
+        "innerColor": [255, 255, 255],
         "uniqueName": "Remove the Police",
         "uniques": [
             "[-10]% City-State Influence degradation",
