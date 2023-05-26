@@ -328,5 +328,37 @@
 				"text": "A xenomorph with a laser gun."
 			}
 		]
+	},
+	{
+		"name": "Maskmen",
+		"uniqueTo": "Cártel Navarro",
+		"replaces": "Exoframe Soldier",
+		"unitType": "Infantry",
+		"movement": 3,
+		//"range": 1,
+		"strength": 24,
+		//"rangedStrength": 24,
+		"cost": 125,
+		"requiredTech": "Exoskeletons",
+		//"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Drop Trooper",
+		"uniques": [
+			"May upgrade to [Drop Trooper] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+	    "promotions": ["Sentry"],
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Exoframe Soldier",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Masked soldiers who fights against the 'enemies of the Cártel'."
+			}
+		]
 	}
 ]
