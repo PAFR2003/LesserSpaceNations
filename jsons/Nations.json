@@ -956,5 +956,66 @@
 			"Nana",
 			"Natia"
 	]
+    },
+    {
+        "name": "Cártel Navarro",
+        "leaderName": "Capo Dante",
+        "adjective": ["Gangster"],
+        "startBias": ["Grassland"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Zapatismo",
+
+        "startIntroPart1": "Ola, this is Cártel Navarro, world's largest and most advanced gang in the world. Located in Chihuahua, Mexico, we sell everything in the black market, worldwide.",
+        "startIntroPart2": "Our cartel is born back in 2198, when all gangs and cartels of Mexico united under one banner and grew. But as a fugitive who got out with my friends, we have to do something. So, we found a spaceship but someone owns it but we, the criminals of the crowded prisons decided to steal their spaceship from their possession and flew it to the space to reach a new world where we start a colony of freedom and a leap forward from the dark past.",
+        "declaringWar": "*waving gang signs*",
+        "attacked": "Hey dude, that's not acceptable.",
+        "defeated": "You can arrest me but you will never and NEVER bring us down.",
+        "introduction": "Ola, this is Cártel Navarro, the galaxy's largest black market gang.",
+        "neutralHello": "Come here, we sell everything, señor.",
+        "hateHello": "Did you come here to raid?",
+        "tradeRequest": "The Cártel has brought you a surprise to stop all conflicts.",
+
+        "outerColor": [55, 139, 34],
+        "innerColor": [219, 115, 37],
+        "uniqueName": "Remove the Police",
+        "uniques": [
+            "[-10]% City-State Influence degradation",
+            "[+15]% combat bonus for [Non-City] units fighting in [Friendly Land]"
+        ],
+        "cities": [
+            "Sede del Cártel",
+            "Nuevo Paraiso",
+            "Barras de Hierro",
+            "La Cárcel",
+            "Grupo Fugitivo",
+            "Líder Dante",
+            "Ciudad Escobar",
+            "Libertad-Esperanza",
+            "El Contrabando",
+            "Túnel Ilegal",
+            "Ciudad Hormiguero",
+            "Pueblo de Vendedores",
+            "Liberación Gloriosa",
+            "Criminales Liberados",
+            "Bahía del Guerrero",
+            "La Revolución Unida",
+            "Zapata Uno",
+            "Soldados Enmascarados",
+            "Colonia de Deportación",
+            "Reclutamiento",
+            "Nueva Lucha"
+        ] ,
+	"spyNames": [
+			"Édgar",
+			"Camilo",
+			"Jacobo",
+			"Sergio",
+			"Primitivo",
+			"Stephanie",
+			"Alexia",
+			"Felipa",
+			"María",
+			"Mónica"
+	]
     }
 ]
