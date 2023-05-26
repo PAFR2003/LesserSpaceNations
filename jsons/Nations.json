@@ -736,7 +736,7 @@
         "innerColor": [255, 0, 0],
         "uniqueName": "The Movement of the Red Umbrella",
         "uniques": [
-            "[+25]% growth [in all cities]",
+            "[+15]% growth [in all cities]",
             "[+1 Science] [in all cities]"
         ],
         "cities": [
@@ -859,7 +859,7 @@
         "uniqueName": "The People of the Deserts",
         "uniques": [
             "[+15]% Production when constructing [All] wonders [in all cities]",
-            "[+1 Faith] per [3] population [in all cities]"
+            "[+1 Faith] per [5] population [in all cities]"
         ],
         "cities": [
             "Alsahra",
