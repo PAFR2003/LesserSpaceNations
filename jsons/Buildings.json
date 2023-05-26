@@ -336,6 +336,27 @@
 				"text": "A place said to be happier than the arcade rooms of other nations. It has even a skating rink and a swimming pool inside!"
 			}
 		]
+	},
+	{
+		"name": "Underground Store",
+		"uniqueTo": "Cártel Navarro",
+		"replaces": "Resource Market",
+		"gold": 3,
+		"specialistSlots": { "Merchant": 2 },
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Pioneer Depot",
+		"requiredTech": "Offworld Industries",
+		"uniques": [
+			"[+2 Gold] from [Bonus resource] tiles [in this city]",
+			"[+3 Gold] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] from [Strategic resource] tiles [in this city]",
+			"New [Infantry] units start with [10] Experience [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "A specialized market exclusively dealing in specific goods and resources."
+			}
+		]
 	}
 ]
 
