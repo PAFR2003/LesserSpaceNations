@@ -1017,5 +1017,67 @@
 			"María",
 			"Mónica"
 	]
+    },
+    {
+        "name": "Teraformatsiyna Kompaniya Kirichenka",
+        "leaderName": "Marina Kirichenko",
+        "adjective": ["Wastelander"],
+        "startBias": ["Plains"],
+        "preferredVictoryType": "Diplomatic",
+        "favoredReligion": "Tree of Hope",
+
+        "startIntroPart1": "Pryvit! My name is Marina Kirichenko residing in Hornostaipil', Ukraine which was unfortunately nuked and destroyed by Toma forces.",
+        "startIntroPart2": "TKK is committed to restore naturally destroyed natural zones of any kind, from nuclear wastelands to landfills, from burned forests and barren deserts. We can fix it but then a bad event came out that will change the event of my life: an invasion led by Toma Heavy Industries in which the company threw multiple nukes and destroyed my hometown and *cries* killed my entire family. But, as I move to the underground and met a survivor in there. He said that the Ukrainian government in exile gave us, survivors of the nuclear missile strikes, a chance to  either stay but suffer and die or leave the planet to the New Earth and restore the Ukrainian people from extinction. Everyone agreed, over 22,000 of us remaining, to go to the new planet and start a new hope free from destruction and violence. *stops crying* Can you give me towel, please?",
+        "declaringWar": "You must learn a lesson.",
+        "attacked": "If you want violence, what for? ASK ME!",
+        "defeated": "*crying* Spare me, please! I didn't do anything wrong.",
+        "introduction": "Welcome to TKK and our mission is to restore the environment and protect it.",
+        "neutralHello": "*puts glasses and winks* Welcome.",
+        "hateHello": "Do you want suffering?",
+        "tradeRequest": "A trade offer for peace has arrived.",
+
+        "outerColor": [255, 229, 19],
+        "innerColor": [28, 60, 228],
+        "uniqueName": "Wasteland Rewilding",
+        "uniques": [
+            "[+1 Food] from every [Plains] <after discovering [Terraforming]>",
+            "[+1 Food, +1 Happiness] from every [Fungi Pods] <after discovering [Terraforming]>",
+            "[+1 Food, +1 Happiness] from every [Tubers] <after discovering [Terraforming]>"
+        ],
+        "cities": [
+            "Chornobyl Base",
+            "Pahorby Nadiyi",
+            "Soldaty Kokhannya",
+            "Vidrostannya",
+            "Smertelʹnyy Viter",
+            "Ostanniy Sonyashnyk"
+            "Pshenychni Pasovyshcha",
+            "Richky Vidnovleni",
+            "Vkradene Mynule",
+            "More Sliz",
+            "Nova Hlava",
+            "Kvitnyk",
+            "Sokil Slavy",
+            "Misto Pravdy",
+            "Sluha Pryrody",
+            "Pislya Ruynuvannya",
+            "Myrna Koloniya",
+            "Troyanda Borotʹby",
+            "Odyn Svit",
+            "Syla",
+            "Maty Pryroda"
+        ] ,
+	"spyNames": [
+			"Myroslav",
+			"Ihor",
+			"Kazymyr",
+			"Kyrylo",
+			"Bohdan",
+			"Vira",
+			"Marharyta",
+			"Maryna",
+			"Olha",
+			"Zoya"
+	]
     }
 ]
