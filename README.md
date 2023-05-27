@@ -552,4 +552,28 @@ Cártel Navarro
 >* He was first convicted when he was at the age of 36
 >* He is a good escape artist, known to get out of prison for over 5 times
 
+## Teraformatsiyna Kompaniya Kirichenka
 
+ Eighteenth Faction
+
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Teraformatsiyna%20Kompaniya%20Kirichenka.png)
+Teraformatsiyna Kompaniya Kirichenka
+
+ Ethnic origins:
+* Ukrainians
+
+ Type of company:
+* Terraformation and Geoengineering company
+
+ Leader's Info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Marina%20Kirichenko.png)
+>* Marina Adamivna Kirichenko (Маріна Адамівна Кіріченко)
+>* DOB: 22/02/2273 (26-27)
+>* Born in Saint Petersburg, Saint Petersburg Federal City, Russia
+>* Overall cleaned record but arrested in a crime for protesting against government and for 'being Ukrainian'. She was cuffed to prison and frequently strip searched by Russian police everyday where she was experience some 'unplesant things'. She was later thrown and exiled in Hornostaipil', a town near Kyiv, the capital of Ukraine.
+>* Has BS in Agriculture
+>* Single but looking for a boyfriend
+>* Speaks Ukrainian but has a robotic translator tool which translates to English
+>* She loves nature, she has a dream to become a wildlife ranger originally but became a wheat farmer instead.
+>* She survived in a bunker during the nuclear explosion
