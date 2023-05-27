@@ -571,7 +571,7 @@ Teraformatsiyna Kompaniya Kirichenka
 >* Marina Adamivna Kirichenko (Маріна Адамівна Кіріченко)
 >* DOB: 22/02/2273 (26-27)
 >* Born in Saint Petersburg, Saint Petersburg Federal City, Russia
->* Overall clean record but arrested in a crime for protesting against government and for 'being Ukrainian'. She was cuffed to prison and frequently strip searched by Russian police everyday where she was experience some 'unplesant things'. She was later thrown and exiled in Hornostaipil', a town near Kyiv, the capital of Ukraine.
+>* Overall clean record but arrested in a crime for protesting against government and for 'being Ukrainian' (not accepted in international law). She was cuffed to prison and frequently strip searched by Russian police everyday where she was experience some 'unplesant things'. She was later thrown and exiled in Hornostaipil', a town near Kyiv, the capital of Ukraine.
 >* Has BS in Agriculture
 >* Single but looking for a boyfriend
 >* Speaks Ukrainian but has a robotic translator tool which translates to English
