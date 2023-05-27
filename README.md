@@ -552,6 +552,12 @@ Cártel Navarro
 >* He was first convicted when he was at the age of 36
 >* He is a good escape artist, known to get out of prison for over 5 times
 
+ Farewell statement:
+ 
+*"Fellow criminals, we must never surrender. If we made this spaceship work, we will have freedom!"*
+
+*- Someone's video about Dante Navarro talking speech to the other criminals, 2299.*
+
 ## Teraformatsiyna Kompaniya Kirichenka
 
  Eighteenth Faction
