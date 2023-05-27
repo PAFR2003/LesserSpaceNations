@@ -574,10 +574,10 @@ Teraformatsiyna Kompaniya Kirichenka
  Leader's Info:
 
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Marina%20Kirichenko.png)
->* Marina Adamivna Kirichenko (Маріна Адамівна Кіріченко) also known under the mononymous name 'Marishka' in Ukrainian media outlets
+>* Marina Adamivna Kirichenko (Маріна Адамівна Кіріченко) also known under the mononymous psuedonym name 'Marishka' in Ukrainian media outlets
 >* DOB: 22/02/2273 (26-27)
 >* Born in Saint Petersburg, Saint Petersburg Federal City, Russia
->* Overall clean record but arrested in a crime for protesting against government and for 'being Ukrainian' (not accepted in international law). She was cuffed to prison and frequently strip searched by Russian police everyday where she was experience some 'unpleasant things' according to Ukrainian media interview under the psuedonyn 'Marishka'. She was later thrown and exiled in Hornostaipil', a town near Kyiv, the capital of Ukraine.
+>* Overall clean record but arrested in a crime for protesting against government and for 'being Ukrainian' (not accepted in international law). She was cuffed to prison and frequently strip searched by Russian police everyday where she was experience some 'unpleasant things' according to Ukrainian media interview under the psuedonym 'Marishka'. She was later thrown and exiled in Hornostaipil', a town near Kyiv, the capital of Ukraine.
 >* Has BS in Agriculture and pro-peace activist
 >* Single but looking for a boyfriend
 >* Speaks Ukrainian but has a robotic translator tool which translates to English
