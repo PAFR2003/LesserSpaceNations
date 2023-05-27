@@ -357,6 +357,23 @@
 				"text": "A specialized market exclusively dealing in specific goods and resources."
 			}
 		]
+	},
+	{
+		"name": "Remembrance Shrine",
+		"uniqueTo": "Teraformatsiyna Kompaniya Kirichenka",
+		"replaces": "Memorial",
+		"faith": 1,
+		"culture": 1,
+		"happiness": 1,
+		"cost": 45,
+		"maintenance": 1,
+		"requiredTech": "Habitation",
+		"uniques": ["Hidden when religion is disabled"],
+		"civilopediaText": [
+			{
+				"text": "A shrine dedicated for those who perished in nuclear strikes made by Toma Heavy Industries. In this shrine, they gave respects and put flowers to the monolith."
+			}
+		]
 	}
 ]
 
