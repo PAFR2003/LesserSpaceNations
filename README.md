@@ -614,4 +614,5 @@ Michanológon Akrotiríou
  Leader's info:
 
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Athanasios%20Nicodemou.png)
->* Athanasios Nicodemou
+>* Athanasios Nicodemou (Αθανασιος Νικοδεμου)
+>* Created around 2279 (20-21 years ago)
