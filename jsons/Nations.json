@@ -1141,5 +1141,67 @@
 			"Sonnur",
 			"Akarsu"
 	]
+    },
+    {
+        "name": "Kompania e Inteligjencës Robotike Tiranë",
+        "leaderName": "Luftërore Murati",
+        "adjective": ["Muratian"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Scientific",
+        "favoredReligion": "Divine AI",
+
+        "startIntroPart1": "Përshëndetje, welcome to KIRT, the oldest standing AI company in the world since 2015.",
+        "startIntroPart2": "KIRT is created in the premise of creating friendly AI for the entire humanity but as our company is losing profits from different newer companies popping up, we need a last straw. So, we built a spaceship full of advanced and powerful AI that will guide us to the new planet faster and more accurate. And as my spaceship lands to the surface of this world, the AI will guide us to a future of glory.",
+        "declaringWar": "You have used the technology in a bad way, therefore, you must pay.",
+        "attacked": "You must pay.",
+        "defeated": "After hundreds of years in service, the company has officially shut down. Now, give me a rest.",
+        "introduction": "Hello there, this is KIRT, serving AI since 2015.",
+        "neutralHello": "Huh?",
+        "hateHello": "I'm destroying your cities with my eyes. Are you happy? *soft laughter*",
+        "tradeRequest": "This is Miss Murati bringing you some peace offer.",
+
+        "outerColor": [212, 39, 42],
+        "innerColor": [0, 0, 0],
+        "uniqueName": "The Tech Beauty from Tirana",
+        "uniques": [
+            "[+1] [Science] [in all coastal cities]",
+            "[+10]% [Gold] [in all coastal cities]",
+            "[+22]% [Science] [in annexed cities]"
+        ],
+        "cities": [
+            "Qyteti i Avancimit",
+            "Iliria",
+            "Fshati Bregdetar",
+            "Muratiapolis",
+            "Piramida e Folur",
+            "Drita",
+            "Brigada e Fundit",
+            "Skanderbegia",
+            "Koduesit",
+            "Të Dhënat",
+            "Elektricitet",
+            "Fshati i Robotëve",
+            "Valët e Lirisë",
+            "Mendje e Re",
+            "Teknologjia",
+            "Komunikimi",
+            "Progresi i Popullit",
+            "Hap i Besimit",
+            "Dora e Programuesve",
+            "Njohuri",
+            "Flauti i Bukurisë"
+        ] ,
+	"spyNames": [
+			"Spartak",
+			"Beshir",
+			"Borim",
+			"Çeljan",
+			"Landër",
+			"Mira",
+			"Mbarësore",
+			"Agnushe",
+			"Ndrita",
+			"Shigjetëza"
+	]
     }
 ]
