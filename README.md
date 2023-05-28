@@ -577,7 +577,7 @@ Teraformatsiyna Kompaniya Kirichenka
 >* Marina Adamivna Kirichenko (Маріна Адамівна Кіріченко) also known under the mononymic anonymous psuedonym 'Marishka' in Ukrainian media outlets
 >* DOB: 22/02/2273 (26-27)
 >* Born in Saint Petersburg, Saint Petersburg Federal City, Russia
->* Has BS in Agriculture and pro-peace activ
+>* Has BS in Agriculture and pro-peace activist
 >* Overall clean record but arrested in a crime for protesting against government and for 'being Ukrainian' (not accepted in international law). She was cuffed to prison and frequently strip searched by Russian police everyday where she was experience some 'unpleasant things' according to Ukrainian television interview under the anonymous psuedonym 'Marishka'. She was later thrown and exiled in Hornostaipil', a town near Kyiv, the capital of Ukraine.
 >* Single but looking for a boyfriend
 >* Speaks Ukrainian but has a robotic translator tool which translates to English
