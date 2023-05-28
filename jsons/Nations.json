@@ -1098,7 +1098,7 @@
         "hateHello": "I don't want to talk with you.",
         "tradeRequest": "This is AI Athanasios and here is our offer for peace.",
 
-        "outerColor": [0, 78, 0],
+        "outerColor": [64, 255, 83],
         "innerColor": [62, 0, 255],
         "uniqueName": "Steel from the Mediterranean Sun",
         "uniques": [
