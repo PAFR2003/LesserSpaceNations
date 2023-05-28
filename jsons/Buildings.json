@@ -385,6 +385,7 @@
 		"gold": 1,
 		"hurryCostModifier": 0,
 		"uniques": [
+			"[Infantry] Units adjacent to this city heal [5] HP per turn when healing",
 			"[Armored] Units adjacent to this city heal [25] HP per turn when healing",
 			"[Mech] Units adjacent to this city heal [25] HP per turn when healing",
 			"[Water] Units adjacent to this city heal [25] HP per turn when healing"
