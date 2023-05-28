@@ -586,6 +586,12 @@ Teraformatsiyna Kompaniya Kirichenka
 
  Farewell statement:
 
+* «Президенте України, ми всі тут, у космічному кораблі. А тепер, будь ласка, переконайтеся, що наша подорож у космос безпечна. І останнє слово тут, на Землі (прибирає анонімний глибокий голос) Я не Марішка, мене звати  Марина Кириченко, ви могли раніше побачити мене в інтерв’ю на телебаченні з розмитим обличчям, але ось я з усіма вами. Зараз я покажу вам своє обличчя на ваших голограмах, щоб побачити, хто я, і спойлер: я красива.  Перевір."*
+
+ *- Марина 'Маришка' Кириченко*
+
+Translation:
+
 *"President of Ukraine, we're all here in the spaceship. Now, please make sure our space travel is safe. And for a final word here in the Earth, (removes anonymous deep voice) I am not Marishka, my name is Marina Kirichenko, you might see me in an interview in TV with blurred face before, but here am I with all of you. Now, I will show you my face in your holograms to see who am I and spoiler alert: I am beautiful. Check it out."*
 
 *- Marina 'Marishka' Kirichenko*
