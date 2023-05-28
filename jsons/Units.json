@@ -360,5 +360,38 @@
 				"text": "Masked soldiers who fights against the 'enemies of the Cártel'."
 			}
 		]
+	},
+	{
+		"name": "Bio-Cyborg",
+		"uniqueTo": "Michanológon Akrotiríou",
+		"replaces": "Nerve Staple Conscript",
+		"unitType": "Infantry",
+		"movement": 3,
+		"range": 1,
+		"strength": 32,
+		//"rangedStrength": 30,
+		"cost": 100,
+		"requiredTech": "Nerve Stapling",
+		//"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Drop Trooper",
+		"uniques": [
+			//"May upgrade to [Drop Trooper] through ruins-like effects",
+			"Only available <in cities with a [Nerve Staple Center]>",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Nerve Stapled"],
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Nerve Staple Conscript",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Cyborg made from lab grown meat shaped in human form. All of its organs are made of metal."
+			}
+		]
 	}
 ]
