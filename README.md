@@ -597,3 +597,10 @@ Translation:
 *- Marina 'Marishka' Kirichenko*
 
 *- Marina Kirichenko's voice speech before the spaceship launch, 2299*
+
+## Michanológon Akrotiríou
+
+ Nineteenth Faction:
+ 
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Michanol%C3%B3gon%20Akrotir%C3%ADou.png)
+Michanológon Akrotiríou
