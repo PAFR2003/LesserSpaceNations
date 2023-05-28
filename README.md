@@ -637,7 +637,7 @@ Kompania e Inteligjencës Robotike Tiranë
 
  Leader's info:
 
-> [alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Luft%C3%ABrore%20Murati.png)
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Luft%C3%ABrore%20Murati.png)
 >* Luftërore Murati
 >* Born in Durrës, Durrës County, Albania
 >* DOB: 02/03/2268 (31-32)
