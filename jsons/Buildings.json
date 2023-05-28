@@ -374,6 +374,27 @@
 				"text": "A shrine dedicated for those who perished in nuclear strikes made by Toma Heavy Industries. In this shrine, they gave respects and put flowers to the monolith."
 			}
 		]
+	},
+	{
+		"name": "Cyborg Biorepairer",
+		"uniqueTo": "Michanológon Akrotiríou",
+		"replaces": "Nano-Reassembler",
+		"maintenance": 2,
+		"food": 4,
+		"production": 3,
+		"gold": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[Armored] Units adjacent to this city heal [25] HP per turn when healing",
+			"[Mech] Units adjacent to this city heal [25] HP per turn when healing",
+			"[Water] Units adjacent to this city heal [25] HP per turn when healing"
+		],
+		"requiredTech": "Nanotechnology",
+		"civilopediaText": [
+			{
+				"text": "Michanológon Akrotiríou is known for its biodegradable cyborgs made from lab grown cells and animal protein (with electronic tech inside). Cyborg Biorepairer creates a special, proprietary cell formula that can miraculously repair any destroyed parts of metallic items."
+			}
+		]
 	}
 ]
 
