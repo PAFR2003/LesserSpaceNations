@@ -632,4 +632,11 @@ Kompania e Inteligjencës Robotike Tiranë
  Ethnic origins:
 * Diverse but mostly ruled by Albanians
 
- Ty
+ Type of company:
+* Artificial intelligence research company
+
+ Leader's info:
+
+> [alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Luft%C3%ABrore%20Murati.png)
+* Luftërore Murati
+* Born in Durrës, Durrës County, Albania
