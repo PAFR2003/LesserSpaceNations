@@ -87,7 +87,7 @@ Kalayaan
 
  Leader's Info:
 
-> ![alt text]()
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Jose%20Magdalo.png)
 >* Jose Ternate Magdalo 
 >* DOB: 07/11/2975 (24-25)
 >* Born in Zaragoza, Nueva Ecija, Philippines
