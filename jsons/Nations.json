@@ -1079,5 +1079,68 @@
 			"Olha",
 			"Zoya"
 	]
+    },
+    {
+        "name": "Michanológon Akrotiríou",
+        "leaderName": "Athanasios Nicodemou",
+        "adjective": ["Cyborg"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Mechanization",
+
+        "startIntroPart1": "Geiá sou and Merhaba. Welcome to Michanológon Akrotiríou, the world's largest cyborg parts and robotics making factory.",
+        "startIntroPart2": "(in robotic voice) My name is Athanasios, I am a biodegradable organic cyborg created from the British base of Akrotiri. I was originally designed to be a war robot designed to monitor the town with my fellow human soldier friends both from Greek and Turkish side of the island. But as the island turns infertile, we need to go somewhere. As a powerful AI cyborg, I commanded the creation of an ark capable of moving some people to another planet so, we did and put new colonists in there and then we launched to the space and landed here in New Earth. Today, your actions determine how you control me and how you built my nation. Good luck, player.",
+        "declaringWar": "You are disrespectful to our nation. Therefore, I declare war against you.",
+        "attacked": "I accept your war offer.",
+        "defeated": "I am Athanasios, now shutting down.",
+        "introduction": "This is Michanológon Akrotiríou, the world's largest cyborg factory in planet Earth.",
+        "neutralHello": "AI Athanasios is listening.",
+        "hateHello": "I don't want to talk with you.",
+        "tradeRequest": "This is AI Athanasios and here is our offer for peace.",
+
+        "outerColor": [0, 78, 0],
+        "innerColor": [96, 206, 178],
+        "uniqueName": "Steel from the Mediterranean Sun",
+        "uniques": [
+            "[+1 Production] [in all cities],
+            "[+1 Food, +1 Science, +1 Happiness] from every [Frontier Armory]",
+            "[+1 Food, +1 Science, +1 Happiness] from every [Military Base]"
+        ],
+        "cities": [
+            "Oikismós 01",
+            "Diakanonismós 02",
+            "Diakanonismós 03",
+            "Yerleşim 04",
+            "Yerleşim 05",
+            "Oikismós 06",
+            "Diakanonismós 07",
+            "Oikismós 08",
+            "Yerleşim 09",
+            "Oikismós 10",
+            "Yerleşim 11",
+            "Yerleşim 12",
+            "Oikismós 13",
+            "Oikismós 14",
+            "Oikismós 15",
+            "Yerleşim 16",
+            "Yerleşim 17",
+            "Yerleşim 18",
+            "Oikismós 19",
+            "Oikismós 20",
+            "Oikismós Alpha",
+            "Oikismós Beta"
+        ] ,
+	"spyNames": [
+			"Elias",
+			"Prokopos",
+			"Agapios",
+			"Ilhan",
+			"Emin",
+			"Polyxeni",
+			"Callirhoe",
+			"Demetra",
+			"Sonnur",
+			"Akarsu"
+	]
     }
 ]
