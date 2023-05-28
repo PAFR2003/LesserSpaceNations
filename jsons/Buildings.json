@@ -396,6 +396,48 @@
 				"text": "Michanológon Akrotiríou is known for its biodegradable cyborgs made from lab grown cells and animal protein (with electronic tech inside). Cyborg Biorepairer creates a special, proprietary cell formula that can miraculously repair any destroyed parts of metallic items."
 			}
 		]
+	},
+	{
+		"name": "GeneralChatBot",
+		"uniqueTo": "Kompania e Inteligjencës Robotike Tiranë",
+		"replaces": "Virtual Altered State",
+		"culture": 3,
+		"science": 1,
+		"faith": 4,
+		"specialistSlots": { "Influencer": 2 },
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Virtual",
+			"Consumes [2] [Digital Storage Space]",
+			"[+2 Production] <in cities with a [Remote Fabricator]>"
+		],
+		"requiredTech": "Virtual Drugs",
+		"civilopediaText": [
+			{
+				"text": "Also known as ChatCGB, this bot will solve your all of your daily problems from missing ingredients to a crime. Some people also praise this piece of code as a divine god!"
+			}
+		]
+	},
+	{
+		"name": "Immersion Bunker",
+		"uniqueTo": "Kompania e Inteligjencës Robotike Tiranë",
+		"replaces": "Holodeck",
+		"maintenance": 2,
+		"culture": 4,
+		"science": 2,
+		"happiness": 3,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Virtual",
+			"Consumes [3] [Digital Storage Space]",
+			"[+2 Production] <in cities with a [Remote Fabricator]>"
+		],
+		"requiredTech": "Artificial Intelligence",
+		"civilopediaText": [
+			{
+				"text": "A dark bunker use to access the alternate world of hologram."
+			}
+		]
 	}
 ]
 
