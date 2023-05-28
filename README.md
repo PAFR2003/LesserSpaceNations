@@ -595,3 +595,5 @@ Translation:
 *"President of Ukraine, we're all here in the spaceship. Now, please make sure our space travel is safe. And for a final word here in the Earth, (removes anonymous deep voice) I am not Marishka, my name is Marina Kirichenko, you might see me in an interview in TV with blurred face before, but here am I with all of you. Now, I will show you my face in your holograms to see who am I and spoiler alert: I am beautiful. Check it out."*
 
 *- Marina 'Marishka' Kirichenko*
+
+*- Marina Kirichenko's voice speech before the spaceship launch, 2299*
