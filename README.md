@@ -583,3 +583,9 @@ Teraformatsiyna Kompaniya Kirichenka
 >* Speaks Ukrainian but has a robotic translator tool which translates to English
 >* She loves nature, she has a dream to become a wildlife ranger originally but became a wheat farmer instead.
 >* She survived in a bunker during the nuclear explosion
+
+ Farewell statement:
+
+*"President of Ukraine, we're all here in the spaceship. Now, please make sure our space travel is safe. And for a final word here in the Earth, (removes anonymous deep voice) I am not Marishka, my name is Marina Kirichenko, you might see me in an interview in TV with blurred face before, but here am I with all of you. Now, I will show you my face in your holograms to see who am I and spoiler alert: I am beautiful. Check it out."*
+
+*- Marina 'Marishka' Kirichenko*
