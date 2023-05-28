@@ -646,4 +646,4 @@ Kompania e Inteligjencës Robotike Tiranë
 >* Single
 >* Speaks Albanian and English
 >* She was born in Durrës but move to Tirana to pursue better education
->* She was the direct descendant of ChatGPT's CEO today
+>* She was the direct descendant of ChatGPT's CTO today
