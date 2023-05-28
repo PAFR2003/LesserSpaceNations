@@ -616,3 +616,10 @@ Michanológon Akrotiríou
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Athanasios%20Nicodemou.png)
 >* Athanasios Nicodemou (Αθανασιος Νικοδεμου)
 >* Created around 2279 (20-21 years ago)
+>* Created in Akrotiri Base in Cyprus which is controlled by the British
+>* Negligible
+>* Negligible
+>* Single
+>* Speaks Greek, Turkish and English
+>* He was a patrol cyborg in both Akrotiri and Dhekelia bases
+>* He was the most favorite cyborg in the entire island of Cyprus
