@@ -1103,7 +1103,7 @@
         "uniqueName": "Steel from the Mediterranean Sun",
         "uniques": [
             "[+1 Food, +1 Science, +1 Happiness] from every [Frontier Armory]",
-            "[+1 Food, +1 Science, +1 Happiness] from every [Military Base]"
+            "[+1 Food, +2 Science, +1 Happiness] from every [Military Base]"
         ],
         "cities": [
             "Oikismós 01",
