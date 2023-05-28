@@ -604,3 +604,14 @@ Translation:
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Michanol%C3%B3gon%20Akrotir%C3%ADou.png)
 Michanológon Akrotiríou
+
+ Ethnic origins:
+* Greek, British and Turkish people in the island of Cyprus
+
+ Type of company:
+* Cyborg company
+
+ Leader's info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Athanasios%20Nicodemou.png)
+>* Athanasios Nicodemou
