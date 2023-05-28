@@ -1099,7 +1099,7 @@
         "tradeRequest": "This is AI Athanasios and here is our offer for peace.",
 
         "outerColor": [55, 33, 51],
-        "innerColor": [62, 0, 255],
+        "innerColor": [244, 236, 0],
         "uniqueName": "Steel from the Mediterranean Sun",
         "uniques": [
             "[+1 Food, +1 Science, +1 Happiness] from every [Frontier Armory]",
