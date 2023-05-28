@@ -623,3 +623,13 @@ Michanológon Akrotiríou
 >* Speaks Greek, Turkish and English
 >* He was a patrol cyborg in both Akrotiri and Dhekelia bases
 >* He was the most favorite cyborg in the entire island of Cyprus
+
+## Kompania e Inteligjencës Robotike Tiranë
+
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Kompania%20e%20Inteligjenc%C3%ABs%20Robotike%20Tiran%C3%AB.png)
+Kompania e Inteligjencës Robotike Tiranë
+
+ Ethnic origins:
+* Diverse but mostly ruled by Albanians
+
+ Ty
