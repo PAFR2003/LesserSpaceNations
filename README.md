@@ -453,6 +453,7 @@ Red Umbrella Republic
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Prinag'cha.png)
 Prinag'cha
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Prinag'cha%20base.jpeg)
  
  Ethnic origins:
 * White Xenomorphs
@@ -483,6 +484,7 @@ Prinag'cha
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Caliphate%20Kingdom.png)
 Caliphate Kingdom
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Caliphate%20Kingdom%20base.jpeg)
  
  Ethnic origins:
 * Primarily Arabs but they house all Muslims worldwide
@@ -514,6 +516,7 @@ Caliphate Kingdom
 
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Akhali%20Samotkhe.png)
 Akhali Samotkhe
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Akhali%20Samotkhe%20base.jpeg)
 
  Ethnic origins:
 * Georgians and other related groups such as Laz, Ossetians and Abkhazians
@@ -546,6 +549,7 @@ Akhali Samotkhe
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/C%C3%A1rtel%20Navarro.png)
 Cártel Navarro
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/C%C3%A1rtel%20Navarro%20base.jpeg)
 
  Ethnic origins:
 * Mexicans and its Native American groups
@@ -578,6 +582,7 @@ Cártel Navarro
 
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Teraformatsiyna%20Kompaniya%20Kirichenka.png)
 Teraformatsiyna Kompaniya Kirichenka
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Teraformatsiyna%20Kompaniya%20Kirichenka%20base.jpeg)
 
  Ethnic origins:
 * Ukrainians
@@ -618,6 +623,7 @@ Translation:
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Michanol%C3%B3gon%20Akrotir%C3%ADou.png)
 Michanológon Akrotiríou
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Michanol%C3%B3gon%20Akrotir%C3%ADou%20base.jpeg)
 
  Ethnic origins:
 * Greek, British and Turkish people in the island of Cyprus
@@ -642,6 +648,7 @@ Michanológon Akrotiríou
 
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Kompania%20e%20Inteligjenc%C3%ABs%20Robotike%20Tiran%C3%AB.png)
 Kompania e Inteligjencës Robotike Tiranë
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Kompania%20e%20Inteligjenc%C3%ABs%20Robotike%20Tiran%C3%AB%20base.jpeg)
 
  Ethnic origins:
 * Diverse but mostly ruled by Albanians
