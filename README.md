@@ -253,6 +253,7 @@ Octavian Aquatics
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Burcad-badeedda%20Xeebta.png)
 Burcad-badeedda Xeebta
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Burcad-badeedda%20Xeebta%20base.jpeg)
 
  Ethnic origins:
 * Somalians and its diaspora
@@ -285,6 +286,7 @@ Burcad-badeedda Xeebta
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Yetemeramar%C4%ABwochi%20Mahiberi.png)
 Yetemeramarīwochi Mahiberi
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Yetemeramar%C4%ABwochi%20Mahiberi%20base.jpeg)
 
  Ethnic origins:
 * Various Ethiopian ethnic groups and its diaspora
