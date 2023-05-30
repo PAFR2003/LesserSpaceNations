@@ -1222,8 +1222,8 @@
         "hateHello": "The seas will punish you with bad mana.",
         "tradeRequest": "Hello there, person from the inland.",
 
-        "outerColor": [255, 255, 255],
-        "innerColor": [0, 0, 0],
+        "outerColor": [83, 73, 104],
+        "innerColor": [0, 174, 47],
         "uniqueName": "The Mana from the Seas",
         "uniques": [
             "Enables embarkation for land units", 
