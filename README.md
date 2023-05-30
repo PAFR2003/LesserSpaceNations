@@ -321,6 +321,7 @@ Yetemeramarīwochi Mahiberi
 
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Karachi%20Reaction%20Studios.png)
 Karachi Reaction Studios
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Karachi%20Reaction%20Studios%20base.jpeg)
  
  Ethnic origins:
 * Diverse (but the CEO is a Pakistani)
@@ -353,6 +354,7 @@ Karachi Reaction Studios
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Galaktinen%20Kalastusyhdistys.png)
 Galaktinen Kalastusyhdistys
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Galaktinen%20Kalastusyhdistys%20base.jpeg)
 
  Ethnic origins:
 * Finns and Estonians mostly but anglers can be of any ethnicity so diverse
@@ -385,6 +387,7 @@ Galaktinen Kalastusyhdistys
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/The%20Believers.png)
 The Believers
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/The%20Believers%20base.jpeg)
 
  Ethnic origins:
 * Diverse. Most Christians and Jews in the planet Earth.
@@ -417,6 +420,7 @@ The Believers
 
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Red%20Umbrella%20Republic.png)
 Red Umbrella Republic
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Red%20Umbrella%20Republic%20base.jpeg)
 
  Ethnic origins:
 * Mostly Dutch and Eastern European female red light district workers but they also have RLD workers from other far-away nations and red light districts.
