@@ -648,7 +648,7 @@ Michanológon Akrotiríou
 
 *"A new era for the company has begun."*
 
-*- Athanasios Nicodemou's personal diaries*
+*- a quote from Athanasios Nicodemou's personal diaries*
 
 ## Kompania e Inteligjencës Robotike Tiranë
 
