@@ -410,7 +410,7 @@
 			"May upgrade to [Colony Rifleman] through ruins-like effects",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Haka Dance"],
+		"promotions": ["Haka War Dance"],
 		"attackSound": "shot",
 		"civilopediaText": [
 			{
