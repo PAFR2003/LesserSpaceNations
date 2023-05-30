@@ -702,3 +702,9 @@ MANA Group
 >* Keka Arono
 >* Born in Christchurch, Canterbury, New Zealand
 >* DOB 09/04/2248 (51-52)
+>* Overall clean record
+>* He is a former conscript in New Zealand navy. Now, the owner of MANA Group
+>* Married to an unknown woman
+>* Speaks Māori and English
+>* The reason why he built the private navy was because of the Somali pirates and Mexican cartel illegal drugs shipping trade
+>* Keka was a military genius known for creative navy attacks
