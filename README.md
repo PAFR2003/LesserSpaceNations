@@ -9,6 +9,8 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Astghayin%20Jur%20Corporation.png)
  Astghayin Jur Corporation
 
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Astghayin%20Jur%20Corporation%20base.jpeg)
+
  Ethnic Origin: 
 * Armenians (from Armenia proper and its diaspora) and Hemshins (Armenian Muslims from Türkiye)
 
@@ -47,6 +49,7 @@ Translation:
 
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Beth%20Nahrain%20Council.png)
 Beth Nahrain Council
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Beth%20Nahrain%20Council%20base.jpeg)
 
  Ethnic Origin:
 * Modern Assyrians including its diaspora
@@ -78,6 +81,7 @@ Beth Nahrain Council
 
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Kalayaan.png)
 Kalayaan
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Kalayaan%20base.jpeg)
 
  Ethnic Origins:
 * Mostly Filipinos but they are also people from all of the 10 other ASEAN countries
@@ -114,6 +118,7 @@ Translation:
 
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Native%20Nations%20Rehabilitation%20Project.png)
 Native Nations Rehabilitation Project
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Native%20Nations%20Rehabilitation%20Project%20base.jpeg)
 
  Ethnic Origins:
 * Various Native American and First Nation tribes of United States and Canada 
@@ -146,6 +151,7 @@ Native Nations Rehabilitation Project
 
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Sociedade%20de%20Cultura%20Livre.png)
 Sociedade de Cultura Livre
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Sociedade%20de%20Cultura%20Livre%20base.png)
 
  Ethnic Origins:
 * Diverse but mostly ruled by Brazilians and Portuguese
@@ -182,6 +188,7 @@ Sociedade de Cultura Livre
 
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Gargzinean%20Imperium.png)
 Gargzinean Imperium
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Gargzinean%20Imperium%20base.jpeg)
 
  Ethnic Origins:
 * They are humanoid aliens with bull horns
@@ -212,6 +219,7 @@ Gargzinean Imperium
  
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Octavian%20Aquatics.png)
 Octavian Aquatics
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Octavian%20Aquatics%20base.jpeg)
 
  Ethnic Origins:
 * Diverse but ruled under communist party with traced origins from Canada and USA
