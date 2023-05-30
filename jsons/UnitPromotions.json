@@ -7,5 +7,12 @@
 	 ],
 	 "row": 108,
          "column": 0
-     }
+     },
+	{
+		"name": "Haka War Dance",
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
+		],
+	    "row": 109,
+         "column": 0
+	}
 ]
