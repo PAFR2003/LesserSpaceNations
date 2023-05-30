@@ -652,6 +652,8 @@ Michanológon Akrotiríou
 
 ## Kompania e Inteligjencës Robotike Tiranë
 
+ Twentieth Faction:
+
  ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Kompania%20e%20Inteligjenc%C3%ABs%20Robotike%20Tiran%C3%AB.png)
 Kompania e Inteligjencës Robotike Tiranë
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Kompania%20e%20Inteligjenc%C3%ABs%20Robotike%20Tiran%C3%AB%20base.jpeg)
@@ -683,3 +685,20 @@ Kompania e Inteligjencës Robotike Tiranë
 
 ## MANA Group
 
+ Twenty-first Faction
+
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/MANA%20Group.png)
+MANA Group
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/MANA%20Group%20base.jpeg)
+
+ Ethnic origins:
+* Māori people with some white New Zealanders
+
+ Type of company:
+* Private navy contractor
+
+ Leader's info:
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Keka%20Arono.png)
+>* Keka Arono
+>* Born in Christchurch, Canterbury, New Zealand
+>* DOB 09/04/2248 (51-52)
