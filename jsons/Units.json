@@ -393,5 +393,66 @@
 				"text": "Cyborg made from lab grown meat shaped in human form. All of its organs are made of metal."
 			}
 		]
+	},
+	{
+		"name": "Haka Soldier",
+		"uniqueTo": "MANA Group",
+		"replaces": "Frontier Militia",
+		"unitType": "Infantry",
+		"movement": 2,
+		//"range": 1,
+		"strength": 8,
+		//"rangedStrength": 8,
+		"cost": 40,
+		"obsoleteTech": "Next-Gen Armaments", //Exoskeletons?
+		"upgradesTo": "Colony Rifleman",
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Haka Dance"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Frontier Militia",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{ "text": "Basically just a person in an atmo-suit and a gun." }
+		]
+	},
+	{
+		"name": "Kaipatu Moana",
+		"uniqueTo": "MANA Group",
+		"replaces": "Battleship",
+		"unitType": "Ranged Water",
+		"movement": 2,
+		"range": 2,
+		"strength": 46,
+		"rangedStrength": 52,
+		"cost": 245,
+		"requiredTech": "Composite Armor",
+		"requiredResource": "Titanium",
+		"uniques": [
+			"Only available <in cities with a [Naval Yard]>",
+			"Consumes [2] [Titanium]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Battleship",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "A powerful, somewhat weak but easy to produce ships created by MANA Group."
+			}
+		]
 	}
 ]
