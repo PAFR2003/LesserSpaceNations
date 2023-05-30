@@ -674,3 +674,12 @@ Kompania e Inteligjencës Robotike Tiranë
 >* Speaks Albanian and English
 >* She was born in Durrës but move to Tirana to pursue better education
 >* She was the direct descendant of ChatGPT's CTO today
+
+ Farewell statement:
+
+*"The advance systems of this spaceship will lead us towards new beginnings in the new settlement where humans are robots are treated equally to each other with freedom and peace."*
+
+*- Luftërore Murati's written statement about the spaceship and its departure*
+
+## MANA Group
+
