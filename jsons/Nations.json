@@ -1203,5 +1203,69 @@
 			"Ndrita",
 			"Shigjetëza"
 	]
+    },
+    {
+        "name": "MANA Group",
+        "leaderName": "Keka Arono",
+        "adjective": ["Navymen"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Mana",
+
+        "startIntroPart1": "Kia Ora! This is the Māori Army and Navy Agency, also known as MANA Group for short, world's largest private navy contractor. Headquartered in New Zealand, protecting and serving the Pacific for over 70 years.",
+        "startIntroPart2": "We Māori are fearless warriors who defended amd protected the two islands below your map. But as the seas has been dominated has been overrun and dominated by anarchists and pirates, we have nothing to do but leave somewhere for our safety. So, we built a spaceship, put our best navymen and launch in a secret location to leave a planet where the seas are full of terror to a new world with true hope and new beginning to its waves.",
+        "declaringWar": "The seas are now speaking in Māori and blood will flow to it's deeps. Prepare for destruction!",
+        "attacked": "We will decimate you all.",
+        "defeated": "As I disappear and left this planet, the bad mana of the seas will pay you a price you cannot recover with.",
+        "introduction": "Kia Ora! The MANA Group welcomes you. The seas are open for discussion and the flow of good mana.",
+        "neutralHello": "Kia Ora!",
+        "hateHello": "The seas will punish you with bad mana.",
+        "tradeRequest": "Hello there, person from the inland.",
+
+        "outerColor": [255, 255, 255],
+        "innerColor": [0, 0, 0],
+        "uniqueName": "The Mana from the Seas",
+        "uniques": [
+            "Enables embarkation for land units", 
+            "Enables [All] units to enter ocean tiles",
+            "[+2] Sight <for [Embarked] units>"
+        ],
+        "cities": [
+            "Takutai Hou",
+            "Pararaiha Hou",
+            "Moana o Rangi",
+            "Pakanga",
+            "Haka Mutunga",
+            "Tūmatauenga",
+            "Ratonga Hoia",
+            "Ngaru Kaha",
+            "Awha Nui",
+            "Te Raki Paerewa",
+            "Mana Pai",
+            "Toa",
+            "Kaipupuri o nga Taone",
+            "Awa Tapu",
+            "Te Papa Tonga",
+            "Taone Kaihokohoko",
+            "Whaea Wai",
+            "Manawa Whakamutunga",
+            "Turanga Toa",
+            "Moutere Ekara",
+            "Te Tumanako",
+            "Te Herekoretanga",
+            "Te Whakataunga Takutai"
+        ] ,
+	"spyNames": [
+			"Petera",
+			"Kea",
+			"Hakara",
+			"Ruhi",
+			"Mairo",
+			"Atamarie",
+			"Pakeka",
+			"Wa",
+			"Lani",
+			"Waauru"
+	]
     }
 ]
