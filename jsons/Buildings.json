@@ -448,8 +448,8 @@
 		"uniques": [
 			"Military",
 			"Prefab",
-			"New [Infantry] units start with [15] Experience [in this city]",
-			"New [Stealth Infantry] units start with [15] Experience [in this city]",
+			"New [Infantry] units start with [25] Experience [in this city]",
+			"New [Stealth Infantry] units start with [25] Experience [in this city]",
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Frontier Armaments",
