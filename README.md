@@ -715,3 +715,14 @@ MANA Group
 
 *- Keka Arono's speech before the spaceship launched, 2299.*
 
+## United Police Company
+
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/United%20Police%20Company.png)
+United Police Company
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/United%20Police%20Company%20base.jpeg)
+
+ Ethnic origins:
+* Diverse as everyone can join the private police company but the population is predominantly Singaporean
+
+ Type of company:
+* Private police company
