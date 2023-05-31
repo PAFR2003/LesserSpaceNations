@@ -726,3 +726,14 @@ United Police Company
 
  Type of company:
 * Private police company
+
+ Leader's Info:
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Henry%20Malayaman.png)
+>* Henry Malayaman
+>* DOB 27/05/2247 (52-53)
+>* Overall clean record
+>* Former NSMen of Singaporean army, now a company CEO of UPC
+>* Married to unknown Chinese woman of age 48
+>* Speaks Chinese, Tamil, English and Malay (please note that people of Singapore are required to learn 3 or more languages)
+>* He has Indian and Chinese descent 
+>* Was a model policeman in his NSMen days
