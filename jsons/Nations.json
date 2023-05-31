@@ -1267,5 +1267,67 @@
 			"Lani",
 			"Waauru"
 	]
+    },
+    {
+        "name": "United Police Company",
+        "leaderName": "Henry Malayaman",
+        "adjective": ["National Serviceman"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+        "favoredReligion": "Divine Discipline",
+
+        "startIntroPart1": "Hello there, this is UPC, a private police company for the protection of all people. Headquartered in Singapore, we make the world free from crime and full of order. Join now and serve the world!",
+        "startIntroPart2": "I am Henry Malayaman from Seletar PA in Singapore. When I was a kid, I really want to become a policeman and serve my homeland, so I did when I become and NSMen and become the best policeman in my group and after ending my service, I built my company, UPC to solve all crimes and deter them. But I heard that they are multiple leaders that have criminal records that joined the spaceship bandwagon so, I bought my own spaceship, selected some conscripts and normal people in the metropolis and sent them to New Earth so we can make the planet full of peace and order free from crime.",
+        "declaringWar": "We declare you wanted for crimes you commited against all and my people. Prepare to get JAILED, STRIP NAKED and HUMILIATED once I got you!",
+        "attacked": "Welcome to my trap, you are under arrest.",
+        "defeated": "A new dark age for peace and order has begun.",
+        "introduction": "Hello, free person. This is the UPC, the protector of humanity and the humiliator of all convicts.",
+        "neutralHello": "Any orders?",
+        "hateHello": "You are wanted for war crimes.",
+        "tradeRequest": "An offer to decriminalization of yourself and peace for all.",
+
+        "outerColor": [99, 146, 70],
+        "innerColor": [190, 25, 46],
+        "uniqueName": "Unity Under Kiasu",
+        "uniques": [
+            "[+1 Happiness] [in all cities]",
+            "Receive free [Great Tactician] when you discover [Next-Gen Armaments]",
+            "[Great Tactician] is earned [20]% faster"
+        ],
+        "cities": [
+            "Northern Catchment",
+            "United Bay",
+            "Pulau Pokok",
+            "Fungus Bay PA",
+            "Pulau Kebebasan",
+            "Malayaman PA",
+            "Jūnshì Dǎo",
+            "Prosperity Settlement",
+            "Strait Coast PA",
+            "Exile Island",
+            "Xíngjūn Wān",
+            "Keperitan",
+            "Development PA",
+            "Southern Catchment",
+            "Central Dam PA",
+            "Discipline PA",
+            "Pulau Penjara",
+            "Hope Islands PA",
+            "Unity Hills",
+            "Soldier's Camp",
+            "Nationalia PA"
+        ] ,
+	"spyNames": [
+			"Zayven",
+			"Aiden",
+			"Asher",
+			"Tristan",
+			"Caleb",
+			"Averie",
+			"Chloe",
+			"Hannah",
+			"Mia",
+			"Olivia"
+	]
     }
 ]
