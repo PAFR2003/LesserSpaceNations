@@ -454,5 +454,37 @@
 				"text": "A powerful, somewhat weak but easy to produce ships created by MANA Group."
 			}
 		]
+	},
+	{
+		"name": "National Servicemen",
+		"uniqueTo": "United Police Company",
+		"replaces": "Clone Trooper",		
+		"unitType": "Infantry",
+		"movement": 2,
+		//"range": 1,
+		"strength": 26,
+		//"rangedStrength": 24,
+		"cost": 42,
+		"requiredTech": "Cloning",
+		//"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Exoframe Soldier",
+		"uniques": [
+			//"May upgrade to [Exoframe Soldier] through ruins-like effects",
+			"Only available <in cities with a [Cloning Vat]>",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Clone Trooper",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Why need clone soldiers if you can just force all men to join your cause and serve your country just to remove all goons and thugs?"
+			}
+		]
 	}
 ]
