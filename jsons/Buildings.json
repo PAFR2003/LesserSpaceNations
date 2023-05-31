@@ -444,7 +444,7 @@
 		"uniqueTo": "United Police Company",
 		"replaces": "Frontier Armory",		
 		"hurryCostModifier": 20,
-		"maintenance": 1,
+		"maintenance": 3,
 		"uniques": [
 			"Military",
 			"Prefab",
