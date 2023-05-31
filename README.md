@@ -708,3 +708,10 @@ MANA Group
 >* Speaks Māori and English
 >* The reason why he built the private navy was because of the Somali pirates and Mexican cartel illegal drugs shipping trade
 >* Keka was a military genius known for creative navy attacks
+
+ Farewell statement:
+
+*"The sea full of dark and empty is awaiting on us as we are going to a new planet from the far-away. Buckle on your cryochambers and get ready for a voyage that last for a year."*
+
+*- Keka Arono's speech before the spaceship launched, 2299.*
+
