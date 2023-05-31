@@ -100,7 +100,7 @@ Kalayaan
 >* Single
 >* He is fluent in Tagalog, Hiligaynon, Ilocano and English languages
 >* He was born in a poor family in which he was the second eldest son of Magdalo family
->* He has a very big farmland which was seized by the greedy government of the Philippines in which was ruled by a dictator at that time
+>* He has a very big farmland which was seized by the greedy government (under capitalism) of the Philippines in which was ruled by a dictator at that time
 
  Farewell statement:
 
