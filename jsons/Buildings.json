@@ -438,6 +438,26 @@
 				"text": "A dark bunker use to access the alternate world of hologram."
 			}
 		]
+	},
+	{
+		"name": "NS Base",
+		"uniqueTo": "United Police Company",
+		"replaces": "Frontier Armory",		
+		"hurryCostModifier": 20,
+		"maintenance": 1,
+		"uniques": [
+			"Military",
+			"Prefab",
+			"New [Infantry] units start with [15] Experience [in this city]",
+			"New [Stealth Infantry] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Frontier Armaments",
+		"civilopediaText": [
+			{
+				"text": "Wanna serve the UPC? Go here and enlist and learn how to beat goons for two years!"
+			}
+		]
 	}
 ]
 
