@@ -730,7 +730,7 @@
         "introduction": "Hallo there, this is the Red Umbrella Republic and we asking for our acceptance.",
         "neutralHello": "Oh, hi there.",
         "hateHello": "Tell me, WHAT ARE YOU DOING YOU FOOL?!?",
-        "tradeRequest": "Here's our offer:",
+        "tradeRequest": "Here's our offer.",
 
         "outerColor": [0, 0, 0],
         "innerColor": [255, 0, 0],
