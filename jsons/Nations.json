@@ -1329,5 +1329,68 @@
 			"Mia",
 			"Olivia"
 	]
+    },
+    {
+        "name": "Myco Farms Ireland",
+        "leaderName": "Saoirse MacColgan",
+        "adjective": ["Mycologist"],
+        "startBias": ["Mycelium"],
+        "preferredVictoryType": "Scientific",
+        "favoredReligion": "Great Mushroom",
+
+        "startIntroPart1": "Dia Duit and Hello, Saoirse MacColgan, a mycologist and the owner of Myco Farms Ireland, the largest fungiculture company in the world. Your company only started as a self-sustenance mushroom farm only fit to feed yourself but, you got a plan to sell the edible mushrooms to the public as your company from your old job as a cashier in a convenience store losses profit and eventually gets bankrupt. You have managed to get successful to your new business and eventually landed you to became part of the Irish government space relocation project to this new exo-planet as you were chosen for your abilities on food sustainability and your straightforward trading abilities.",
+        "startIntroPart2": "Great Mycologist Saoirse, your ideas of sustainability by growing mushrooms is very good in this new exo-planet were they are lands called mycelium, a place were many fungus grow and thrive, many of the fungus in this planet is edible and I'm so sure you're people can adapt on this things. Will a nation of fungus growers rule this new planet? Will Saoirse build food sustainability and strong food security for all people of the new world? Can you build a colony that stands a test of time?",
+        "declaringWar": "Did you know that the fungus here are sentient? Well, the fungus said to me that I must declare war on you.",
+        "attacked": "Seriously?!?",
+        "defeated": "Goodbye.",
+        "introduction": "Welcome to MFI, the largest producer of edible mushrooms worldwide.",
+        "neutralHello": "Do you want our mushrooms? It's yummy and good for you.",
+        "hateHello": "You're not welcome in my farms.",
+        "tradeRequest": "This is Saoirse for peace treaty.",
+
+        "outerColor": [0, 78, 0],
+        "innerColor": [96, 206, 178],
+        "uniqueName": "Fungi Sustainability",
+        "uniques": [
+            "[+1 Faith] from every [Forest]",
+            "[+2 Food] [in all cities],
+            "[+1 Food, +1 Production] from every [Mycelium]"
+        ],
+        "cities": [
+            "Mycelium Glens",
+            "Muisiriún",
+            "Saoirsefield",
+            "Neu-Éire",
+            "Loch Taoiseach",
+            "Cósta Neo",
+            "Baile Beag",
+            "Newtowns",
+            "Inbhuanaitheacht",
+            "Great Farmlands",
+            "Ford Dearmadta",
+            "Báisteach",
+            "Trá na Carraige",
+            "Ithir Corcra",
+            "Luimneach Nua",
+            "Tractor Settlement",
+            "Blessed Loch",
+            "Jackstown",
+            "Teach Crann",
+            "Teithí Gorma",
+            "An Ghrian",
+            "Oldstown"
+        ] ,
+	"spyNames": [
+			"Ruadhán",
+			"Daithí",
+			"Éanna",
+			"Brody",
+			"Dylan",
+			"Hayley",
+			"Aoibhín",
+			"Róise",
+			"Paige",
+			"Fiadh"
+	]
     }
 ]
