@@ -360,7 +360,7 @@
 	},
 	{
 		"name": "Remembrance Shrine",
-		"uniqueTo": "Teraformatsiyna Kompaniya Kirichenka",
+		"uniqueTo": "TKK Corporation",
 		"replaces": "Memorial",
 		"faith": 1,
 		"culture": 1,
@@ -399,7 +399,7 @@
 	},
 	{
 		"name": "GeneralChatBot",
-		"uniqueTo": "Kompania e Inteligjencës Robotike Tiranë",
+		"uniqueTo": "KIRT AI Company",
 		"replaces": "Virtual Altered State",
 		"culture": 3,
 		"science": 1,
@@ -420,7 +420,7 @@
 	},
 	{
 		"name": "Immersion Bunker",
-		"uniqueTo": "Kompania e Inteligjencës Robotike Tiranë",
+		"uniqueTo": "KIRT AI Company",
 		"replaces": "Holodeck",
 		"maintenance": 2,
 		"culture": 4,
