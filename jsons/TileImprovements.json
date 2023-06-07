@@ -27,7 +27,7 @@
    },
    {
 		"name": "Camping Site",
-		"uniqueTo": "Native Nations Rehabilitation Project",
+		"uniqueTo": "Native Nations",
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"food": 1,
 		"faith": 1,
