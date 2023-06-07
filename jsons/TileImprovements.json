@@ -79,7 +79,7 @@
    },
    {
 		"name": "Exclusion Reserve",
-		"uniqueTo": "Teraformatsiyna Kompaniya Kirichenka",
+		"uniqueTo": "TKK Corporation",
 		"terrainsCanBeBuiltOn": ["Forest", "Jungle"],
 		"food": 1,
 		"production": 1,
