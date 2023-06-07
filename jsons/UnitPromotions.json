@@ -14,5 +14,13 @@
 		],
 	    "row": 109,
          "column": 0
+	},
+	{
+		"name": "Pictish Courage",
+		"uniques": ["No movement cost to pillage", 
+		            "[+20]% Strength <when fighting in [Foreign Land] tiles>"
+		],
+	    "row": 110,
+         "column": 0		
 	}
 ]
