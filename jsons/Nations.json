@@ -1352,7 +1352,6 @@
         "innerColor": [96, 206, 178],
         "uniqueName": "Fungi Sustainability",
         "uniques": [
-            "[+1 Food, +1 Production] from every [Mycelium]",
             "[+1 Faith] from every [Forest]",
             "[+2 Food] [in all cities]
         ],
