@@ -1349,7 +1349,7 @@
         "tradeRequest": "This is Saoirse for peace treaty.",
 
         "outerColor": [0, 78, 0],
-        "innerColor": [96, 206, 178],
+        "innerColor": [237, 133, 26],
         "uniqueName": "Fungi Sustainability",
         "uniques": [
             "[+1 Food, +1 Production] from every [Mycelium]",
