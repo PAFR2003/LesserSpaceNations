@@ -730,7 +730,7 @@ United Police Company
  Leader's Info:
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Henry%20Malayaman.png)
 >* Henry Malayaman
->* DOB 27/05/2247 (52-53)
+>* DOB: 27/05/2247 (52-53)
 >* Overall clean record
 >* Former NSMen of Singaporean army, now a company CEO of UPC
 >* Married to unknown Chinese woman of age 48
@@ -745,3 +745,18 @@ United Police Company
 *- Henry Malayaman's secret voice call no. 23, 2299*
 
 ## Myco Farms Ireland
+
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Myco%20Farms%20Ireland.png)
+Myco Farms Ireland
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Myco%20Farms%20Ireland%20base.jpeg)
+
+ Leader's Info:
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Saoirse%20MacColgan.png)
+>* Saoirse MacColgan (née O'Lynn)
+>* DOB: 09/04/2267 (32-33)
+>* Overall clean record
+>* CEO of Myco Farms Ireland, has a BA in Mycology
+>* Married to Rhys MacColgan, a fellow employee of her company, has one child, a male named Theo
+>* Speaks English, little knowledge on Irish
+>* She was a certified mycologist and a great cook
+>* Although the company was a veganism advocate, she wasn't a vegan herself, she was semi-vegetarian and only eats meat during Weekends.
