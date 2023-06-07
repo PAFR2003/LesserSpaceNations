@@ -184,14 +184,14 @@
 	]
     },
     {
-        "name": "Native Nations Rehabilitation Project",
+        "name": "Native Nations",
         "leaderName": "Anthony Golden Eagle",
         "adjective": ["Native"],
         "startBias": ["Plains"],
         "preferredVictoryType": "Diplomatic",
         "favoredReligion": "Pow-wow",
 
-        "startIntroPart1": "Yá'at'ééh, Anthony Golden Eagle, cheiftain of Navajo NN and the president of all Native Reservations of America. You just started as a normal, homeschooled and unemployed man with relations to the cheiftains of the Reservation. But because of your anti-colonialist policies, you made your small nation, which is ruled under the American overlords, thrive and prosper from a barren wasteland to a bustling city in which the Natives of America successfully revived their culture from nothing and because of hardwork and the revenge from struggles of the past, you have managed to buy a spaceship to reach that exoplanet far-away.",
+        "startIntroPart1": "Yá'at'ééh, Anthony Golden Eagle, cheiftain of Navajo NN and the president of all Native Reservations of America under the name of Native Nations Rehabilitation Project or NNRP. You just started as a normal, homeschooled and unemployed man with relations to the cheiftains of the Reservation. But because of your anti-colonialist policies, you made your small nation, which is ruled under the American overlords, thrive and prosper from a barren wasteland to a bustling city in which the Natives of America successfully revived their culture from nothing and because of hardwork and the revenge from struggles of the past, you have managed to buy a spaceship to reach that exoplanet far-away.",
         "startIntroPart2": "Cheiftain Anthony, since the beginning of your term as the president of the Great Reservation, you made the nation grew with hope and glory just like before the tall white men come. Will the reservation of this exoplanet thrive just like on Earth? Will his anti-colonialist policies guarantee the survival of the Native Americans? Can you build a colony that stands a test of time?",
         "declaringWar": "We're on the run to decimate you, foreigner!",
         "attacked": "Disgrace!",
