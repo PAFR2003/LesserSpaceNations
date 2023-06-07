@@ -737,3 +737,11 @@ United Police Company
 >* Speaks Chinese, Tamil, English and Malay (please note that people of Singapore are required to learn 3 or more languages)
 >* He has Indian and Chinese descent 
 >* Was a model policeman in his NSMen days
+
+ Farewell message:
+
+*"Today, I announce my departure to planet Earth as my headquarters is burned down by secret societies of this city-state."
+
+*- Henry Malayaman's secret voice call no. 23, 2299*
+
+## Myco Farms Ireland
