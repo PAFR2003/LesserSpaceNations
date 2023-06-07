@@ -486,5 +486,37 @@
 				"text": "Why need clone soldiers if you can just force all men to join your cause and serve your country just to remove all goons and thugs?"
 			}
 		]
+	},
+	{
+		"name": "Republicmen",
+		"uniqueTo": "Myco Farms Ireland",
+		"replaces": "Laser Trooper",
+		"unitType": "Sniper",
+		"movement": 2,
+		"range": 2,
+		"strength": 31,
+		"rangedStrength": 31,
+		"cost": 200,
+		"requiredTech": "Lasers",
+		//"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Laser Trooper",
+		"uniques": [
+			"Ranged attacks may be performed over obstacles",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Pictish Courage"],
+		"attackSound": "SingleLaser",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Laser Trooper",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "They are considered to be the protectors of the mycelia according to the MCI rulebook."
+			}
+		]
 	}
 ]
