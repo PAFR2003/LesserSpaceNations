@@ -458,6 +458,30 @@
 				"text": "Wanna serve the UPC? Go here and enlist and learn how to beat goons for two years!"
 			}
 		]
+	},
+	{
+		"name": "Multi-purpose Mycofarm",
+		"uniqueTo": "Myco Farms Ireland",
+		"replaces": "Greenhouse",		
+		"food": 1,
+		"cost": 45,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			/*
+			"[+1 Food] from [Tubers] tiles [in this city] <after discovering [Xenoagriculture]>",
+			"[+1 Food] from [Exotic Fruits] tiles [in this city] <after discovering [Xenoagriculture]>",
+			"[+1 Food] from [Rockbud] tiles [in this city] <after discovering [Xenoagriculture]>"
+			*/
+			"[+2 Food] from [Fungi Pods] tiles [in this city] <after discovering [Xenoagriculture]>",
+			"[+2 Food] from [Bonus resource] tiles [in this city] <in [Flora] tiles> <after discovering [Xeno-Grafting]>"
+		],
+		"requiredTech": "Xenoagriculture",
+		"civilopediaText": [
+			{
+				"text": "A greenhouse specialized for keeping edible mushrooms from Earth and this exoplanet."
+			}
+		]
 	}
 ]
 
