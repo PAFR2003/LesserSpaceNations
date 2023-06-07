@@ -88,7 +88,7 @@
         },
         {
 		"name": "Pathfinding Buggy",
-                "uniqueTo": "Native Nations Rehabilitation Project",
+                "uniqueTo": "Native Nations",
 		"replaces": "Light Buggy",
 		"unitType": "Armored",
 		"movement": 5,
