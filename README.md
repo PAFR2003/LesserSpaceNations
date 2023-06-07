@@ -740,7 +740,7 @@ United Police Company
 
  Farewell message:
 
-*"Today, I announce my departure to planet Earth as my headquarters is burned down by secret societies of this city-state."
+*"Today, I announce my departure to planet Earth as my headquarters is burned down by secret societies of this city-state."*
 
 *- Henry Malayaman's secret voice call no. 23, 2299*
 
