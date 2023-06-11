@@ -116,7 +116,7 @@ Translation:
 
  Fourth Faction:
 
-![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Native%20Nations%20Rehabilitation%20Project.png)
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Native%20Nations.png)
 Native Nations Rehabilitation Project
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Native%20Nations%20Rehabilitation%20Project%20base.jpeg)
 
@@ -580,7 +580,7 @@ Cártel Navarro
 
  Eighteenth Faction
 
- ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Teraformatsiyna%20Kompaniya%20Kirichenka.png)
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/TKK%20Corporation.png)
 Teraformatsiyna Kompaniya Kirichenka
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Teraformatsiyna%20Kompaniya%20Kirichenka%20base.jpeg)
 
@@ -654,7 +654,7 @@ Michanológon Akrotiríou
 
  Twentieth Faction:
 
- ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Kompania%20e%20Inteligjenc%C3%ABs%20Robotike%20Tiran%C3%AB.png)
+ ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/KIRT%20AI%20Company.png)
 Kompania e Inteligjencës Robotike Tiranë
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Kompania%20e%20Inteligjenc%C3%ABs%20Robotike%20Tiran%C3%AB%20base.jpeg)
 
