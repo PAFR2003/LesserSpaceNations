@@ -769,4 +769,10 @@ Myco Farms Ireland
 
 ## United Tribes
 
-!
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/United%20Tribes.png)
+United Tribes
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/United%20Tribes%20base.png)
+
+ Leader's Info:
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Gopie-Ataiamelaho%20Apa.png)
+>* Gopie-Ataiamelaho Apa
