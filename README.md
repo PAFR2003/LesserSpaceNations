@@ -760,3 +760,9 @@ Myco Farms Ireland
 >* Speaks English, little knowledge on Irish
 >* She was a certified mycologist and a great cook
 >* Although the company was a veganism advocate, she wasn't a vegan herself, she was semi-vegetarian and only eats meat during Weekends.
+
+ Farewell message:
+ 
+*"Thank you for supporting MFI! We are now packing up to go to other planet."*
+
+*- Saoirse MacColgan, MFI press conference, 2299*
