@@ -68,7 +68,10 @@
    {
 		"name": "Polder",
 		"uniqueTo": "Red Umbrella Republic",
-		"terrainsCanBeBuiltOn": ["Marsh","Flood plains"],
+		"terrainsCanBeBuiltOn": [
+		             "Marsh",
+		             "Flood plains"
+		        ],
 		"food": 3,
 		"turnsToBuild": 8,
 		"techRequired": "Genetics",
