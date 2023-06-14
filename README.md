@@ -31,13 +31,13 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 
  Farewell statement:
 
-*«Ողջույն, սիրելի ժողովուրդ։ Ես Նարինե Օհաննեսյանն եմ և հայտարարում եմ իմ մեկնումը Երկիր մոլորակ՝ հեռավոր տիեզերքից նոր դրախտում նոր կյանք սկսելու համար։ Երբ ես հեռացա այս մոլորակից, փակեցի «Աստղային ջուր» կորպորացիայի բոլոր մասնաճյուղերը և  դա ջրի թորման գործարաններ են, քանի որ ես պատրաստվում եմ միասին լքել այս մոլորակը, որովհետև ես ամեն ինչ արել եմ այս մոլորակում, որպեսզի ծառայեմ բոլորին: Շնորհակալություն բոլորի համար, ովքեր ամբողջ աշխարհում աջակցում են իմ արտադրանքին»:*
+*«Ողջույն, սիրելի ժողովուրդ։ Ես Իսկուհի Վոսգրիճիան եմ և հայտարարում եմ իմ մեկնումը Երկիր մոլորակ՝ հեռավոր տիեզերքից նոր դրախտում նոր կյանք սկսելու համար։ Երբ ես հեռացա այս մոլորակից, փակեցի «Աստղային ջուր» կորպորացիայի բոլոր մասնաճյուղերը և  դա ջրի թորման գործարաններ են, քանի որ ես պատրաստվում եմ միասին լքել այս մոլորակը, որովհետև ես ամեն ինչ արել եմ այս մոլորակում, որպեսզի ծառայեմ բոլորին: Շնորհակալություն բոլորի համար, ովքեր ամբողջ աշխարհում աջակցում են իմ արտադրանքին»:*
 
 *-Լավագույն մաղթանքներով՝ Ն.Օհաննեսյան*
 
 Translation:
 
-*"Hello, dear people. My name is Narine Ohannesyan and I announce my departure to planet Earth to start a new life in a new paradise from the faraway cosmos. As I left this planet, I closed all of the branches of Astghayin Jur Corporation and it's water distilleries as I prepare for to leave this planet all together because I have done everything in this planet to serve everyone. Thanks for everyone around the world supporting my products."*
+*"Hello, dear people. My name is Iskouhi Vosgrichian and I announce my departure to planet Earth to start a new life in a new paradise from the faraway cosmos. As I left this planet, I closed all of the branches of Astghayin Jur Corporation and it's water distilleries as I prepare for to leave this planet all together because I have done everything in this planet to serve everyone. Thanks for everyone around the world supporting my products."*
 
 *- Best wishes, N. Ohannesyan*
 
