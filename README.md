@@ -754,6 +754,7 @@ Myco Farms Ireland
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Saoirse%20MacColgan.png)
 >* Saoirse MacColgan (née O'Lynn)
 >* DOB: 09/04/2267 (32-33)
+>* Born in Dublin, Ireland
 >* Overall clean record
 >* CEO of Myco Farms Ireland, has a BA in Mycology
 >* Married to Rhys MacColgan, a fellow employee of her company, has one child, a male named Theo
@@ -776,3 +777,11 @@ United Tribes
  Leader's Info:
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Gopie-Ataiamelaho%20Apa.png)
 >* Gopie-Ataiamelaho Apa
+>* DOB: 06/04/2248 (51-52)
+>* Born in Port Moresby, Papua New Guinea
+>* Overall clean record
+>* President of Papua New Guinea, Has BA in Law
+>* Married to an unknown woman of age 49
+>* Speaks English, Tok Pisin and German
+>* He was elected as president of PNG in 2290
+>* He was considered to be the kindest leader in his country's history for uniting all 1000 different tribes.
