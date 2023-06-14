@@ -518,5 +518,34 @@
 				"text": "They are considered to be the protectors of the mycelia according to the MCI rulebook."
 			}
 		]
+	},
+	{
+		"name": "Kuruman",
+		"uniqueTo": "United Tribes",
+		"replaces": "Frontier Militia",
+		"unitType": "Infantry",
+		"movement": 2,
+		//"range": 1,
+		"strength": 9,
+		//"rangedStrength": 8,
+		"cost": 40,
+		"obsoleteTech": "Next-Gen Armaments", //Exoskeletons?
+		"upgradesTo": "Colony Rifleman",
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Jungle Warfare"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Frontier Militia",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{ "text": "Cannibal soldier in another planet." }
+		]
 	}
 ]
