@@ -750,6 +750,12 @@ United Police Company
 Myco Farms Ireland
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Myco%20Farms%20Ireland%20base.jpeg)
 
+ Ethnic origins:
+* Mostly Irish people but their would be Chinese and Filipino volunteers. (The Filipino volunteers would most likely be helpers from Kalayaan)
+
+ Type of company:
+* Mushroom farming and meat alternatives company
+
  Leader's Info:
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Saoirse%20MacColgan.png)
 >* Saoirse MacColgan (née O'Lynn)
@@ -773,6 +779,12 @@ Myco Farms Ireland
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/United%20Tribes.png)
 United Tribes
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/United%20Tribes%20base.png)
+
+ Ethnic origins:
+* Various tribes from Papua New Guinea
+
+ Type of company:
+* Coalition of united tribes
 
  Leader's Info:
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Gopie-Ataiamelaho%20Apa.png)
