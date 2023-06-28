@@ -1473,8 +1473,8 @@
         "hateHello": "Oh YOU! Wanna feel pain and betrayal?",
         "tradeRequest": "Welcome to our PR management center. Here is our offer for peace between our two nations.",
 
-        "outerColor": [212, 39, 42],
-        "innerColor": [0, 0, 0],
+        "outerColor": [196, 0, 192],
+        "innerColor": [255, 184, 1],
         "uniqueName": "Beautiful Public Relations Management",
         "uniques": [
             "[+1 Culture] from every specialist [in all cities]",
