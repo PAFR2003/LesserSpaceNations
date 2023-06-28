@@ -819,6 +819,7 @@ Influenceria
 >* Carol Aubrianna Campbell, also known by her nickname 'Bree'
 >* DOB: 24/05/2273 (26-27)
 >* Born in Tampa, Hillsborough County, Florida, USA
+>* She never ended college
 >* Falsefully convicted as a second-degree murderer by US government but she is recognized as a criminal by WCRC despite the trial was rigged (look here: it was paid!!!)
 >* Single but has plans to get married by her boyfriend before she was falsely convicted as a murderer at age 22
 >* Speaks only English
