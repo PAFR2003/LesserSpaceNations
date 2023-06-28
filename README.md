@@ -824,4 +824,4 @@ Influenceria
 >* Speaks only English
 >* She was before, a famous influencer in Piclick around the world, especially at female market as she was an intelligent self-thought woman but after the anarchist took her to freedom, she became an anti-fascist rebel.
 >* She is a rich woman and a the most intelligent woman in class but never attended college as she was focusing for her new business: beauty influencer
->* She was known to be the "beauty of the Midwest" by influencer critics for her intelligence and beauty
+>* She was known to be the "beauty of the Southwest" by influencer critics for her intelligence and beauty
