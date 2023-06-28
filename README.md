@@ -818,7 +818,7 @@ Influenceria
 > ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Carol%20Aubrianna%20'Bree'%20Campbell.png)
 >* Carol Aubrianna Campbell, also known by her nickname 'Bree'
 >* DOB: 24/05/2273 (26-27)
->* Born in Madison, Dade County, Wisconsin, USA
+>* Born in Tampa, Hillsborough County, Florida, USA
 >* Falsefully convicted as a second-degree murderer by US government but she is recognized as a criminal by WCRC despite the trial was rigged (look here: it was paid!!!)
 >* Single but has plans to get married by her boyfriend before she was falsely convicted as a murderer at age 22
 >* Speaks only English
