@@ -482,6 +482,24 @@
 				"text": "A greenhouse specialized for keeping edible mushrooms from Earth and this exoplanet."
 			}
 		]
+	},
+	{
+		"name": "Influencer School",
+		"uniqueTo": "Influenceria",
+		"replaces": "Rec Area",
+		"maintenance": 1,
+		"culture": 1,
+		"science": 1,
+		"happiness": 3,
+		"hurryCostModifier": 25,
+	    "percentStatBonus": {"culture": 5},
+		"uniques": ["Prefab"],
+		"requiredTech": "Hab-Domes",
+		"civilopediaText": [
+			{
+				"text": "Bree's plan to make people great influencers: A vocational school that can teach you how to become a good gamer, influencer and a streamer."
+			}
+		]
 	}
 ]
 
