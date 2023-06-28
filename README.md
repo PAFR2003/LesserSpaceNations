@@ -801,3 +801,15 @@ United Tribes
  Farewell statement:
 *None/He refused to comment at the Farewell statement as he is a busy person.*
 
+## Influenceria
+
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Influenceria.png)
+Influenceria
+![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/Influenceria%20base.jpg)
+
+ Ethnic origins:
+* White Americans
+
+ Type of company:
+* Influencer refugees
+
