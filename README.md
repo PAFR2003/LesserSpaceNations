@@ -799,5 +799,5 @@ United Tribes
 >* He was considered to be the kindest leader in his country's history for uniting all 1000 different tribes.
  
  Farewell statement:
-*None*
+*None/He refused to comment at the Farewell statement as he is a busy person.*
 
