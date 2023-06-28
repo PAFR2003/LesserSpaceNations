@@ -797,3 +797,7 @@ United Tribes
 >* Speaks English, Tok Pisin and German
 >* He was elected as president of PNG in 2290
 >* He was considered to be the kindest leader in his country's history for uniting all 1000 different tribes.
+ 
+ Farewell statement:
+*None*
+
