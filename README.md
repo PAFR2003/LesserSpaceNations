@@ -813,3 +813,8 @@ Influenceria
  Type of company:
 * Influencer refugees
 
+ Leader's Info:
+
+> ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/LeaderIcons/Courtney%20Aubrianna%20'Bree'%20Campbell.png)
+>* Courtney Aubrianna Campbell, also known by her nickname 'Bree'
+>* DOB: 24/05/2273 (26-27)
