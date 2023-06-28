@@ -547,5 +547,32 @@
 			},
 			{ "text": "Cannibal soldier in another planet." }
 		]
+	},
+	{
+		"name": "Great Piclicker",
+	    "replaces": "Great Influencer",
+	    "uniqueTo": "Influenceria",
+		"unitType": "Civilian",
+		"uniques": [
+			"Empire enters a [6]-turn Golden Age <by consuming this unit>",
+			"Can instantly construct a [Cultural Site] improvement <by consuming this unit>",
+            "Can instantly construct a [Trade Center] improvement <by consuming this unit>",
+			"Great Person - [Culture]",
+			"Unbuildable",
+			"Uncapturable"
+		],
+		"movement": 2,
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Great Influencer",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "A famous person, mostly a woman, known for his/her beauty and intelligence that contribute the entire nation of Influenceria with either brings cultural of monetary progress to the nation."
+			}
+		]
 	}
 ]
