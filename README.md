@@ -838,4 +838,4 @@ Influenceria
 
  Farewell statement:
 
-*"Hello, my fellow people, this is Bree Campbell here and my criminal trial is rigged by the now Fascistic American government."*
+*"Hello, my fellow people, this is Bree Campbell here and my criminal trial is rigged by the now Fascistic American government. You remember me as the 'beauty of the Southwest' back in the days until my false arrest and imprisonment for a murder I didn't commit."*
