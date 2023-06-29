@@ -717,6 +717,8 @@ MANA Group
 
 ## United Police Company
 
+ Twenty-second faction:
+
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/United%20Police%20Company.png)
 United Police Company
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/United%20Police%20Company%20base.jpeg)
@@ -745,6 +747,8 @@ United Police Company
 *- Henry Malayaman's secret voice call no. 23, 2299*
 
 ## Myco Farms Ireland
+
+ Twenty-third faction:
 
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Myco%20Farms%20Ireland.png)
 Myco Farms Ireland
@@ -776,6 +780,8 @@ Myco Farms Ireland
 
 ## United Tribes
 
+ Twenty-fourth faction:
+
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/United%20Tribes.png)
 United Tribes
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/extragoodies/United%20Tribes%20base.png)
@@ -802,6 +808,8 @@ United Tribes
 *None/He refused to comment at the Farewell statement as he is a busy person.*
 
 ## Influenceria
+
+ Twenty-fifth faction:
 
 ![alt text](https://raw.githubusercontent.com/PAFR2003/LesserSpaceNations/main/Images/NationIcons/Influenceria.png)
 Influenceria
