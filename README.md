@@ -805,6 +805,7 @@ United Tribes
 >* He was considered to be the kindest leader in his country's history for uniting all 1000 different tribes.
  
  Farewell statement:
+
 *None/He refused to comment at the Farewell statement as he is a busy person.*
 
 ## Influenceria
@@ -836,4 +837,5 @@ Influenceria
 >* She was known to be the "beauty of the Southwest" by influencer critics for her intelligence and beauty
 
  Farewell statement:
+
 *"Hello, my fellow people, this is Bree Campbell here and my criminal trial is rigged by the now Fascistic American government."*
