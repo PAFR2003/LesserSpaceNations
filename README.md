@@ -66,6 +66,9 @@ Beth Nahrain Council
 >* DOB: 12/08/2268 (31-32)
 >* Born in Chicago, Illinois, USA
 >* Overall clean record
+>* Centrist Left-Leaning
+>* Positive Traits: Strong, Self-Disciplined, Loyal
+>* Negative Traits: Untrustworthy, Dishonest, Cunning
 >* He has a BA in Anthropology
 >* Currently married to a woman named Sumer Suraye-Solomon
 >* He is fluent in both Western and Eastern Neo-Aramaic and English
