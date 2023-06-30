@@ -102,6 +102,9 @@ Kalayaan
 >* DOB: 07/11/2975 (24-25)
 >* Born in Zaragoza, Nueva Ecija, Philippines
 >* Overall clean record
+>* Socialist Far-Left
+>* Positive Traits: Kind, Funny, Hard-working
+>* Negative Traits: Judgemental, Fanatical, Sneaky
 >* He doesn't have a college degree but he is an hardworking farmer
 >* Single
 >* He is fluent in Tagalog, Hiligaynon, Ilocano and English languages
