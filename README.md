@@ -142,6 +142,9 @@ Native Nations Rehabilitation Project
 >* DOB: 04/23/2244 (55-56)
 >* Born in Kaibito, Arizona, USA
 >* Overall clean record
+>* Capitalist
+>* Positive Traits: Ambitious, Resourceful, Sympathetic
+>* Negative Traits: Dependent, Desperate, Scornful
 >* He is homeschooled
 >* Widower, his wife reportedly died because of a really worse car accident
 >* He speaks Navajo and English
