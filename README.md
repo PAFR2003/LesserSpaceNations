@@ -23,6 +23,9 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 >* DOB: 03/30/2271 (28-29)
 >* Born in Vagharshapat, Armenia
 >* Overall clean record
+>* Capitalist Far-Right
+>* Positive Traits: Shy, Intelligent, Honest
+>* Negative Traits: Arrogant, Pompous, Secretive
 >* She has a BA degree on Marketing Management, she was considered to be the most intelligent woman in her class
 >* She is single and has no plans of marrying or even having a partner
 >* She is fluent in Armenian and Russian language but can speak English albeit she refuses to do so.
