@@ -23,7 +23,7 @@ Note: Everything in this mod created by my unstable ADHD mind, the story, all na
 >* DOB: 03/30/2271 (28-29)
 >* Born in Vagharshapat, Armenia
 >* Overall clean record
->* Capitalist Far-Right
+>* Capitalist
 >* Positive Traits: Shy, Intelligent, Honest
 >* Negative Traits: Arrogant, Pompous, Secretive
 >* She has a BA degree on Marketing Management, she was considered to be the most intelligent woman in her class
@@ -66,7 +66,7 @@ Beth Nahrain Council
 >* DOB: 12/08/2268 (31-32)
 >* Born in Chicago, Illinois, USA
 >* Overall clean record
->* Centrist Left-Leaning
+>* Centrist
 >* Positive Traits: Strong, Self-Disciplined, Loyal
 >* Negative Traits: Untrustworthy, Dishonest, Cunning
 >* He has a BA in Anthropology
@@ -102,7 +102,7 @@ Kalayaan
 >* DOB: 07/11/2975 (24-25)
 >* Born in Zaragoza, Nueva Ecija, Philippines
 >* Overall clean record
->* Socialist Far-Left
+>* Socialist
 >* Positive Traits: Kind, Funny, Hard-working
 >* Negative Traits: Judgemental, Fanatical, Sneaky
 >* He doesn't have a college degree but he is an hardworking farmer
