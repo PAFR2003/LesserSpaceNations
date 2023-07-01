@@ -178,6 +178,9 @@ Sociedade de Cultura Livre
 >* DOB: 08/16/2269 (30-31)
 >* Born in São Paulo, Brazil
 >* Overall clean record
+>* Socialist
+>* Positive Traits: Brilliant, Generous, Creative
+>* Negative Traits: Lazy, Boastful, Desperate
 >* She has BA in Entertainment and Journalism
 >* Single
 >* Speaks Portuguese and English, a little knowledge on Spanish language
