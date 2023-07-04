@@ -218,6 +218,9 @@ Gargzinean Imperium
 >* DOB: ?
 >* Born somewhere in planet Gargzinea
 >* Tagged "Intergalactic Terrorist" by the Intergalactic Space Forces
+>* Fascist
+>* Positive Traits: Optimistic, Idealistic, Tough
+>* Negative Traits: Cruel, Hostile, Intolerant
 >* He was a former conscript and part of the Gargzinean Nobility
 >* Married to Queen Kentranifah of Gargzinea
 >* Speaks all languages of the universe via some undisclosed plasma technology
