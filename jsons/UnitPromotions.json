@@ -5,7 +5,7 @@
 		     "[+5]% Strength <vs cities>",
                 "[+15]% Strength <vs [Military] units>"
 	 ],
-	 "row": 108,
+	 "row": 126,
          "column": 0
      },
 	{
@@ -13,7 +13,7 @@
 		"uniques": [
 		    "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
 		],
-	    "row": 126,
+	    "row": 127,
          "column": 0
 	},
 	{
@@ -22,7 +22,7 @@
 		    "No movement cost to pillage", 
 		       "[+20]% Strength <when fighting in [Foreign Land] tiles>"
 		],
-	    "row": 127,
+	    "row": 128,
          "column": 0
 	}
 ]
