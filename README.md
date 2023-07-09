@@ -252,6 +252,9 @@ Octavian Aquatics
 >* DOB: 29/03/2263 (36-37)
 >* Born in St. John's, Newfoundland and Labrador, Canada
 >* Felon (DUI-related), alleged grifter, fake news queen and considered "dangerous agent" by World Criminal Records Center (WCRC)
+>* Socialist
+>* Positive Traits: Secure, Brave, Organized
+>* Negative Traits: Vindictive, Shameless, Rude
 >* Formerly a Navy conscript, currently a tropical fish seller
 >* Single (currently divorced)
 >* Speaks English and some French
