@@ -851,6 +851,9 @@ Influenceria
 >* Born in Tampa, Hillsborough County, Florida, USA
 >* She never ended college
 >* Falsefully convicted as a second-degree murderer by US government but she is recognized as a criminal by WCRC despite the trial was rigged (look here: it was paid!!!)
+>* Capitalist
+>* Positive Traits: Liberal, Intelligent, Enthusiastic
+>* Negative Traits: Crazy, Narcissistic, Superficial
 >* Single but has plans to get married by her boyfriend before she was falsely convicted as a murderer at age 22
 >* Speaks only English
 >* She was before, a famous influencer in Piclick around the world, especially at female market as she was an intelligent self-thought woman but after the anarchist took her to freedom, she became an anti-fascist rebel.
