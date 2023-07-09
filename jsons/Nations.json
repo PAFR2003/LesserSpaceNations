@@ -1479,7 +1479,8 @@
         "uniques": [
             "[+1 Culture] from every specialist [in all cities]",
             "[-50]% Gold cost of acquiring tiles [in all cities]", 
-            "[+1 Gold] from every [Server] <after discovering [Cryptocurrency]>"    ],
+            "[+1 Gold] from every [Server] <after discovering [Cryptocurrency]>"    
+                  ],
         "cities": [
             "Briapolis Settlement",
             "Rebuilding Reputation",
