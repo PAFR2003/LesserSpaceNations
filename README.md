@@ -289,6 +289,9 @@ Burcad-badeedda Xeebta
 >* DOB: 17/08/2253 (46-47)
 >* Born in Berbera, Somaliland, Somalia
 >* Convicted sea pirate, now an excon
+>* Centrist
+>* Positive Traits: Sympathetic, Heroic, Open
+>* Negative Traits: Prejudiced, Sneaky, Deceitful
 >* Former pirate, now a leader of BX, self taught, he learned to read and write and learn and speak English while in the prison
 >* Single
 >* Speaks Somali and English
